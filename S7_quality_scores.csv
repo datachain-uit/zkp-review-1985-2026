@@ -44,9 +44,9 @@ S42,A Signature Scheme with Efficient Protocols,2003,1,1,1,0.5,0,0,0.5,0.5,4.5
 S43,On the (In)security of the Fiat-Shamir paradigm,2003,1,1,1,0,0,0,0.75,0.75,4.5
 S44,Direct anonymous attestation,2004,1,1,1,0.5,0,0,0.5,0.5,4.5
 S45,Short Group Signatures,2004,1,1,1,1,0,0,0.5,0.5,5.0
-S46,Compact Group Signatures Without Random Oracles.,2005,1,1,1,0.5,0,0,0.5,0.5,4.5
-S47,Perfect non-interactive zero knowledge for NP,2005,1,1,1,1,0,0,0.5,0.75,5.25
-S48,Communication-efficient non-interactive proofs of knowledge with online extractors,2006,1,1,1,1,0,0,0.5,0.75,5.25
+S46,Communication-efficient non-interactive proofs of knowledge with online extractors,2005,1,1,1,1,0,0,0.5,0.75,5.25
+S47,Compact Group Signatures Without Random Oracles.,2005,1,1,1,0.5,0,0,0.5,0.5,4.5
+S48,Perfect non-interactive zero knowledge for NP,2005,1,1,1,1,0,0,0.5,0.75,5.25
 S49,Construction of a non-malleable encryption scheme from any semantically secure one,2006,1,1,0.5,0.5,0,0,0.75,0.5,4.25
 S50,Non-interactive zaps and new techniques for NIZK,2006,1,1,1,0.75,0,0,0.25,0.5,4.5
 S51,Efficient Arguments without Short PCPs,2007,1,1,1,1,0,0,0.5,0.5,5.0

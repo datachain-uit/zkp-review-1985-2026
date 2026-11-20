@@ -1613,7 +1613,7 @@ ZKE802811309,c ZK Proof Systems for NP,2006,2006,Information Security and Crypto
 ZK9EA7403B76,"CHARLES-AUGUSTIN SAINTE-BEUVE, Écrits sur Tocqueville . Édition de MICHEL BRIX. Jaigne, La Chasse au Snark, 2004. Un vol. de 189 p.",2006,2006,Revue d histoire littéraire de la France,article,10.3917/rhlf.063.0709o,openalex,0,1
 ZKB4BE61824F,Church's thesis is questioned by new calculation paradigm,2006,2006,arXiv (Cornell University),preprint,10.48550/arxiv.cs/0610038,arxiv;openalex,1,2
 ZK302FB1EFF8,Comments on Abe et al.'s threshold signer-ambiguous signature scheme from variety of keys,2006,2006,"Proceedings of the 9th Joint Conference on Information Sciences, JCIS 2006",Conference paper,10.2991/jcis.2006.220,openalex;scopus,0,2
-ZKC6F4E508D2,Communication-efficient non-interactive proofs of knowledge with online extractors,2006,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),Conference paper,,scopus,0,1
+ZKC6F4E508D2,Communication-efficient non-interactive proofs of knowledge with online extractors,2005,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),Conference paper,,scopus,0,1
 ZK5A0FEFF3DF,Concurrent Non-Malleable Zero Knowledge.,2006,2006,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",Conference paper,10.1109/focs.2006.21,eprint;openalex;scopus,0,4
 ZKA4BCF866F3,Concurrent Statistical Zero-Knowledge Arguments for NP from One Way Functions.,2006,2007,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),Conference paper,10.1007/978-3-540-76900-2_27,eprint;openalex;scopus,0,4
 ZK0983C7AE2F,Concurrent Zero-Knowledge : With Additional Background by Oded Goldreich,2006,2006,DIAL (Catholic University of Leuven),article,10.1007/3-540-32939-0,openalex,0,2
@@ -1891,7 +1891,7 @@ ZK9EF99E141A,Instance-dependent verifiable random functions and their applicatio
 ZKE67F9AB721,Integrity of mobile agents: a new approach.,2007,2007,International Journal of Network Security,Article,,openalex;scopus,0,2
 ZK60E05B4B34,Interactive and noninteractive zero knowledge are equivalent in the help model,2007,2008,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),Conference paper,10.1007/978-3-540-78524-8_28,eprint;openalex;scopus,0,4
 ZKCCD7AAFEC1,Interactive and Noninteractive Zero Knowledge Coincide in the Help Model,2007,2007,,article,,eprint;openalex,0,2
-ZK5AA19EED4A,Interactive Hashing Simplifies Zero-Knowledge Protocol Design,2007,2007,Springer eBooks,conference-paper,10.1007/3-540-48285-7_23,openalex,0,1
+ZK5AA19EED4A,Interactive Hashing Simplifies Zero-Knowledge Protocol Design,1993,2007,Springer eBooks,conference-paper,10.1007/3-540-48285-7_23,openalex,0,1
 ZKCBBAC7A0DD,Interactive PCP 2007,2007,2007,Electronic colloquium on computational complexity,preprint,,openalex,1,1
 ZKD0E7B23AA7,Isolated Proofs of Knowledge and Isolated Zero Knowledge.,2007,2008,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),Conference paper,10.1007/978-3-540-78967-3_29,eprint;openalex;scopus,0,4
 ZK5587F1E90A,"Le Drageoir aux épices, suivi de textes inédits (review)",2007,2007,Nineteenth-century French studies,article,10.1353/ncf.2007.0031,openalex,0,1

@@ -8,7 +8,7 @@ Repository: https://github.com/datachain-uit/zkp-review-1985-2026
 
 ## Conventions
 
-- `rid` identifies a work (one deduplicated record); `sid` (S1, S2, ...) identifies a Tier 2 study as cited in the article.
+- `rid` identifies a work (one deduplicated record); `sid` (S1, S2, ...) identifies a Tier 2 study as cited in the article (`08_analysis/tier2/study_ids.csv`). Decision files written before the final numbering (`perf_review.csv`, `synth_verification*.csv`, `synthesis_codes_verified.jsonl`) keep the `sid` of that date; use `rid` with `study_ids.csv` to find the study.
 - Screening labels: `I` include, `E` exclude, `U` unsure. `U` counts as include at title and abstract screening. Exclusion codes follow `03_screening/screening_guide.md` (EC1–EC5, IC4).
 - Model files record the model, the reasoning-effort setting and the time of each output (`_model_used`, `_effort`, `_time`).
 - All percentages are rounded once, half up, from the unrounded values.
@@ -27,7 +27,7 @@ Repository: https://github.com/datachain-uit/zkp-review-1985-2026
 | `03_screening/pilot/` | Pilot records, our blind labels, model labels and adjudication | Supp. A.3 |
 | `03_screening/audit/` | Blind audit samples (`audit_strata.json`), our labels, results before and after adjudication, the check of the metadata rules, the repeat labelling and its adjudication | §3.4, Supp. A.3 |
 | `03_screening/calibration/` | Labels of the second human screener on the pilot records and the results | §10, Supp. A.3 |
-| `03_screening/duplicates_*.csv`, `year_corrections.csv` | Merged reports of one work (`duplicates_post.csv`), the candidate pairs we decided in the second and third checks (`duplicates_fuzzy_reviewed*.csv`) and corrected years | §3.9, Supp. A.2 |
+| `03_screening/duplicates_*.csv`, `year_corrections.csv` | Merged reports of one work (`duplicates_post.csv`), the candidate pairs we decided in the second, third and fourth checks (`duplicates_fuzzy_reviewed*.csv`) and corrected years | §3.9, Supp. A.2 |
 | `04_quality/` | Quality gate of every Tier 1 work, Tier 2 selection and backfill queue, gate rows of the works reinstated after the repeat labelling | §3.6, Supp. A.3 |
 | `05_coding/` | Tier 1 coding prompt, model codes, final codes, our blind validation codes and agreement | §3.5, Supp. A.3 |
 | `06_fulltext/` | Extraction prompts, both extractors' outputs, merged and verified Tier 2 data, our adjudication, verification, security-label review and performance-claim checks | §3.7, Supp. A.3 |

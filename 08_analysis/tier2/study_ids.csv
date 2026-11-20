@@ -44,9 +44,9 @@ S42,SBFBD2E118F3,2003,Lecture notes in computer science,CONS,4.5,0,A Signature S
 S43,SB3027596950,2003,Annual Symposium on Foundations of Computer Science,CONS,4.5,0,On the (In)security of the Fiat-Shamir paradigm
 S44,SBAAC4D0C041,2004,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,4.5,0,Direct anonymous attestation
 S45,SBF9AACC0538,2004,Lecture notes in computer science,APP,5.0,0,Short Group Signatures
-S46,ZK936A675989,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Compact Group Signatures Without Random Oracles.
-S47,ZKF56A5CE4E7,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Perfect non-interactive zero knowledge for NP
-S48,ZKC6F4E508D2,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Communication-efficient non-interactive proofs of knowledge with online extractors
+S46,ZKC6F4E508D2,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Communication-efficient non-interactive proofs of knowledge with online extractors
+S47,ZK936A675989,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Compact Group Signatures Without Random Oracles.
+S48,ZKF56A5CE4E7,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Perfect non-interactive zero knowledge for NP
 S49,ZKE5934D83F4,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,4.25,0,Construction of a non-malleable encryption scheme from any semantically secure one
 S50,ZKC57CC16176,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Non-interactive zaps and new techniques for NIZK
 S51,SBE93172E7E8,2007,IEEE Conference on Computational Complexity (CCC),CONS,5.0,0,Efficient Arguments without Short PCPs

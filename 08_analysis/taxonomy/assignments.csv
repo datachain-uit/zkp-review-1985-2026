@@ -44,9 +44,9 @@ S42,SBFBD2E118F3,A Signature Scheme with Efficient Protocols,IP,NONE,T,GUO,STD,A
 S43,SB3027596950,On the (In)security of the Fiat-Shamir paradigm,IP,HASH,T,SYM,ROM,NS,B,NO,N
 S44,SBAAC4D0C041,Direct anonymous attestation,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
 S45,SBF9AACC0538,Short Group Signatures,ALG;IP,NONE,T,DL;PAIR,ROM,ALGREL,B,NO,N
-S46,ZK936A675989,Compact Group Signatures Without Random Oracles.,ALG,NONE,C,PAIR,STD,ALGREL,N,NO,N
-S47,ZKF56A5CE4E7,Perfect non-interactive zero knowledge for NP,ALG,NONE,C,PAIR,STD,CIRC,N,NO,N
-S48,ZKC6F4E508D2,Communication-efficient non-interactive proofs of knowledge with online extractors,IP,NONE,T,DL;PAIR,ROM,NS,N,NO,N
+S46,ZKC6F4E508D2,Communication-efficient non-interactive proofs of knowledge with online extractors,IP,NONE,T,DL;PAIR,ROM,NS,N,NO,N
+S47,ZK936A675989,Compact Group Signatures Without Random Oracles.,ALG,NONE,C,PAIR,STD,ALGREL,N,NO,N
+S48,ZKF56A5CE4E7,Perfect non-interactive zero knowledge for NP,ALG,NONE,C,PAIR,STD,CIRC,N,NO,N
 S49,ZKE5934D83F4,Construction of a non-malleable encryption scheme from any semantically secure one,IP,NONE,T,SYM,STD,NS,N,NO,N
 S50,ZKC57CC16176,Non-interactive zaps and new techniques for NIZK,ALG,OTHER,T,PAIR,STD,CIRC,N,NO,N
 S51,SBE93172E7E8,Efficient Arguments without Short PCPs,LPCP,OTHER,T,NS,ROM,CIRC,I,REC,N

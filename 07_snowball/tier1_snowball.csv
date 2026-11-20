@@ -48,7 +48,7 @@ SB1E2EE5E64D,Security Arguments for Digital Signatures and Blind Signatures,2000
 SBF9AACC0538,Short Group Signatures,2004,2004,Lecture notes in computer science,conference-paper,10.1007/978-3-540-28628-8_3,snowball,0,1
 SB07C3FB5090,Group signatures,1991,1991,Theory and Application of Cryptographic Techniques,article,,snowball,0,1
 SBDDFCF2DC0F,An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation,2001,2001,Lecture notes in computer science,conference-paper,10.1007/3-540-44987-6_7,snowball,0,1
-SB54EDA23756,Wallet Databases with Observers,2007,2007,Springer eBooks,conference-paper,10.1007/3-540-48071-4_7,snowball,0,1
+SB54EDA23756,Wallet Databases with Observers,1992,2007,Springer eBooks,conference-paper,10.1007/3-540-48071-4_7,snowball,0,1
 SB8917750F34,Security Proofs for Signature Schemes,1996,1996,Lecture notes in computer science,conference-paper,10.1007/3-540-68339-9_33,snowball,0,1
 SBC0C3573DD8,Zerocoin: Anonymous Distributed E-Cash from Bitcoin,2013,2013,IEEE Symposium on Security and Privacy (S&P),conference-paper,10.1109/sp.2013.34,snowball,0,1
 SBAAC4D0C041,Direct anonymous attestation,2004,2004,ACM SIGSAC Conference on Computer and Communications Security (CCS),conference-paper,10.1145/1030083.1030103,snowball,0,1
@@ -89,7 +89,7 @@ SB84042EC0AA,On the Security of Mix-Nets and Hierarchical Group Signatures,2005,
 SB46CB5D8286,Weighted Threshold Anonymous Credentials With Redactable Fine-Grained Blind Signature for Auditable Lending System in Blockchains,2025,2025,IEEE Transactions on Dependable and Secure Computing,article,10.1109/tdsc.2025.3640211,snowball,0,1
 SB2809FA9FF0,The Fiat-Shamir Zoo: Relating the Security of Different Signature Variants,2018,2018,Lecture notes in computer science,conference-paper,10.1007/978-3-030-03638-6_10,snowball,0,1
 SB472AF6502D,Impossibility on the Provable Security of the Fiat-Shamir-Type Signatures in the Non-programmable Random Oracle Model,2016,2016,Lecture notes in computer science,conference-paper,10.1007/978-3-319-45871-7_23,snowball,0,1
-SBB22CE9EE50,A Smart Card Implementation of the Fiat-Shamir Identification Scheme,2007,2007,Springer eBooks,conference-paper,10.1007/3-540-45961-8_8,snowball,0,1
+SBB22CE9EE50,A Smart Card Implementation of the Fiat-Shamir Identification Scheme,1988,2007,Springer eBooks,conference-paper,10.1007/3-540-45961-8_8,snowball,0,1
 SBA7D7F988ED,ECC-Based Non-Interactive Deniable Authentication with Designated Verifier.,2013,2013,,article,,snowball,1,1
 SBAC6EDB7D38,eSTARK: extending STARKs with arguments,2024,2024,Designs Codes and Cryptography,article,10.1007/s10623-024-01457-z,snowball,0,1
 SB455BF2D219,Practical extension of Fiat-Shamir scheme,1988,1988,Electronics Letters,article,10.1049/el:19880650,snowball,0,1
@@ -106,7 +106,7 @@ SB98CD15F9DA,Verifiable Weighted Electronic Voting against Tally Leakage for Pop
 SB051CD362B4,The Order of Hashing in Fiat-Shamir Schemes,2025,2025,Lecture notes in computer science,conference-paper,10.1007/978-981-95-5113-2_4,snowball,0,1
 SBABCA6244D0,Tamper Resilient Cryptography Without Self-Destruct.,2013,2013,,article,,snowball,1,1
 SB12EE5A554F,Improving the Exact Security of Fiat-Shamir Signature Schemes,1999,1999,Lecture notes in computer science,conference-paper,10.1007/3-540-46701-7_15,snowball,0,1
-SB4E0A8E75CF,Can O.S.S. be Repaired? - Proposal for a New Practical Signature Scheme -,2007,2007,Springer eBooks,conference-paper,10.1007/3-540-48285-7_19,snowball,0,1
+SB4E0A8E75CF,Can O.S.S. be Repaired? - Proposal for a New Practical Signature Scheme -,1993,2007,Springer eBooks,conference-paper,10.1007/3-540-48285-7_19,snowball,0,1
 SBE5EB6C6337,One-More Assumptions Do Not Help Fiat-Shamir-type Signature Schemes in NPROM,2020,2020,Lecture notes in computer science,conference-paper,10.1007/978-3-030-40186-3_25,snowball,0,1
 SB38A95A36C9,On the Insecurity of the Fiat-Shamir Signatures with Iterative Hash Functions,2009,2009,Lecture notes in computer science,conference-paper,10.1007/978-3-642-04642-1_11,snowball,0,1
 SB6A114B7830,Tight quantum security of the Fiat-Shamir transform for commit-and-open identification schemes with applications to post-quantum signature schemes,2019,2019,arXiv (Cornell University),preprint,10.48550/arxiv.1906.05415,snowball,1,1
@@ -162,7 +162,7 @@ SBFF4E191896,Direct Minimum-Knowledge Computations (Extended Abstract),1987,1988
 SB49136B5C96,ON DEFINING PROOFS OF KNOWLEDGE IN THE BARE PUBLIC-KEY MODEL,2007,2007,Theoretical Computer Science,conference-paper,10.1142/9789812770998_0020,snowball,0,1
 SBBE34B948D3,Active hardware attacks and proactive countermeasures,2003,2003,IEEE Symposium on Computers and Communications (ISCC),conference-paper,10.1109/iscc.2002.1021702,snowball,0,1
 SB61F481A173,Efficient solution to decrease the effect of DoS attack against IP address ownership proof in Mobile IPv6,2011,2011,"IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",conference-paper,10.1109/pimrc.2011.6139694,snowball,0,1
-SBC45A3B61B0,A Montgomery-Suitable Fiat-Shamir-Like Authentication Scheme,2007,2007,Springer eBooks,conference-paper,10.1007/3-540-47555-9_45,snowball,0,1
+SBC45A3B61B0,A Montgomery-Suitable Fiat-Shamir-Like Authentication Scheme,1992,2007,Springer eBooks,conference-paper,10.1007/3-540-47555-9_45,snowball,0,1
 SB935D9DE47C,Anonymous Authentication with Spread Revelation,2011,2011,Cryptologia,article,10.1080/01611194.2011.584777,snowball,0,1
 SBF9241FBA3F,Zero-Knowledge Protocols,2026,2026,Mathematics study resources,book-chapter,10.1007/978-3-662-67443-7_4,snowball,0,1
 SB48269DE568,Classification of Established Scattered Provable Data Custody In Multi-Cloud Depot,2023,2023,International Journal of Mechanical Engineering,article,10.56452/7-795,snowball,0,1
@@ -223,7 +223,7 @@ SB7907064615,Proof systems for general statements about discrete logarithms,1997
 SBBF5438CDC9,Modular Design of Secure yet Practical Cryptographic Protocols,1997,1997,Data Archiving and Networked Services (DANS),dissertation,,snowball,1,1
 SBCC8D04BE85,Nearly linear time,1989,1989,Lecture notes in computer science,conference-paper,10.1007/3-540-51237-3_10,snowball,0,1
 SB83F904B06D,A private interactive test of a boolean predicate a minimum-knowledge public-key cryptosystems,1985,1985,Annual Symposium on Foundations of Computer Science,conference-paper,10.1109/sfcs.1985.1,snowball,0,1
-SB52E18817B5,Demonstrating that a Public Predicate can be Satisfied Without Revealing Any Information About How,2007,2007,Springer eBooks,conference-paper,10.1007/3-540-47721-7_13,snowball,0,1
+SB52E18817B5,Demonstrating that a Public Predicate can be Satisfied Without Revealing Any Information About How,1986,2007,Springer eBooks,conference-paper,10.1007/3-540-47721-7_13,snowball,0,1
 SB4EB9D9F6F5,From 5-Pass $$\mathcal {MQ}$$-Based Identification to $$\mathcal {MQ}$$-Based Signatures,2016,2016,Lecture notes in computer science,conference-paper,10.1007/978-3-662-53890-6_5,snowball,0,1
 SB57A3D5D395,Simple Verifiable Delay Functions,2019,2019,DROPS (Schloss Dagstuhl – Leibniz Center for Informatics),article,10.4230/lipics.itcs.2019.60,snowball,0,1
 SB7888051DC4,Improved prover efficiency and SRS size in a Sonic-like system.,2019,2019,IACR Cryptology ePrint Archive,preprint,,snowball,1,1
@@ -363,7 +363,7 @@ SBF64ED735DB,Verifier-Local Revocation Group Signature Schemes with Backward Unl
 SBF68928637F,ValueShuffle: Mixing Confidential Transactions for Comprehensive Transaction Privacy in Bitcoin,2017,2017,Lecture notes in computer science,conference-paper,10.1007/978-3-319-70278-0_8,snowball,0,1
 SBF734745067,Derandomization in Cryptography,2003,2003,Lecture notes in computer science,conference-paper,10.1007/978-3-540-45146-4_18,snowball,0,1
 SBF745E9A595,hinTS: Threshold Signatures with Silent Setup,2024,2024,IEEE Symposium on Security and Privacy (S&P),conference-paper,10.1109/sp54263.2024.00057,snowball,0,1
-SBF7F70BA74E,An Improved Protocol for Demonstrating Possession of Discrete Logarithms and Some Generalizations,2010,2010,Lecture notes in computer science,conference-paper,10.1007/3-540-39118-5_13,snowball,0,1
+SBF7F70BA74E,An Improved Protocol for Demonstrating Possession of Discrete Logarithms and Some Generalizations,1987,2010,Lecture notes in computer science,conference-paper,10.1007/3-540-39118-5_13,snowball,0,1
 SBF94FC9D701,Secure Signature Schemes Based on Interactive Protocols,1994,1995,BRICS Report Series,article,10.7146/brics.v1i29.21637,snowball,0,2
 SBFA1F47D10B,Transferable Constant-Size Fair E-Cash.,2009,2009,,article,,snowball,0,2
 SBFB0954C4E2,A Modular Treatment of Blind Signatures from Identification Schemes,2019,2019,Lecture notes in computer science,conference-paper,10.1007/978-3-030-17659-4_12,snowball,0,1
