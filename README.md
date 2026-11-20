@@ -1,6 +1,6 @@
 # Replication package: Zero-Knowledge Proofs, 1985–2026: A Systematic Review
 
-Khoa Tan Vo, Hong-Tri Nguyen and Tu-Anh Nguyen-Hoang. *Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Constructions, Systems, Applications and Their Security.* Submitted to ACM Computing Surveys.
+Khoa Tan Vo and Tu-Anh Nguyen-Hoang. *Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Constructions, Systems, Applications and Their Security.* Submitted to ACM Computing Surveys.
 
 This package holds the records from which the article's counts and statistics are computed: the protocol, the search records, the prompts, every model output, every decision we made, the fixed rule sets and the values of all numbers that the article and its supplement compute from these records. With the method described in the article (Section 3) and the supplement (Section A), each reported number can be checked against these records without re-running the models.
 
@@ -18,7 +18,7 @@ Repository: https://github.com/datachain-uit/zkp-review-1985-2026
 
 | Folder | What it holds | Article |
 |---|---|---|
-| `01_protocol/` | Protocol with all dated decisions and amendments (D1–D20); pre-specified acceptance criteria for the screening design and their validation | §3, Supp. A.2 |
+| `01_protocol/` | Protocol with all dated decisions and amendments (D1–D22); pre-specified acceptance criteria for the screening design and their validation | §3, Supp. A.2 |
 | `02_search/` | Per-source counts, Scopus queries, search log, gold set and its recall | §3.2, Fig. 3 |
 | `03_screening/works.csv` | All 16,161 screened works (title, year, venue, document type, DOI, sources; no abstracts) | §3.3–3.4 |
 | `03_screening/auto_excluded.csv` | Works removed by the two metadata rules, with the rule | §3.4 |
@@ -27,15 +27,15 @@ Repository: https://github.com/datachain-uit/zkp-review-1985-2026
 | `03_screening/pilot/` | Pilot records, our blind labels, model labels and adjudication | Supp. A.3 |
 | `03_screening/audit/` | Blind audit samples (`audit_strata.json`), our labels, results before and after adjudication, the check of the metadata rules, the repeat labelling and its adjudication | §3.4, Supp. A.3 |
 | `03_screening/calibration/` | Labels of the second human screener on the pilot records and the results | §10, Supp. A.3 |
-| `03_screening/duplicates_*.csv`, `year_corrections.csv` | Merged reports of one work and corrected years | §3.9, Supp. A.2 |
+| `03_screening/duplicates_*.csv`, `year_corrections.csv` | Merged reports of one work (`duplicates_post.csv`), the candidate pairs we decided in the second and third checks (`duplicates_fuzzy_reviewed*.csv`) and corrected years | §3.9, Supp. A.2 |
 | `04_quality/` | Quality gate of every Tier 1 work, Tier 2 selection and backfill queue, gate rows of the works reinstated after the repeat labelling | §3.6, Supp. A.3 |
 | `05_coding/` | Tier 1 coding prompt, model codes, final codes, our blind validation codes and agreement | §3.5, Supp. A.3 |
 | `06_fulltext/` | Extraction prompts, both extractors' outputs, merged and verified Tier 2 data, our adjudication, verification, security-label review and performance-claim checks | §3.7, Supp. A.3 |
 | `07_snowball/` | Snowball flow, pre-filter exclusions, model labels, our decisions, works added to Tier 1 and Tier 2 | §3.8 |
-| `08_analysis/tier1/` | Tables behind the Tier 1 figures, all Tier 1 values, the venue-community rules | §4 |
-| `08_analysis/rq5/` | Topic of every work, topic labels and terms, trends, model settings | §9.1, Supp. A.5 |
+| `08_analysis/tier1/` | Tables behind the Tier 1 figures, all Tier 1 values, the venue-community rules | §4–§7, Supp. Fig. S2 |
+| `08_analysis/rq5/` | Topic of every work, topic labels and terms, trends (classes for topics with at least 30 works in 2019–2026), model settings | §9.1, Supp. A.5 |
 | `08_analysis/synthesis/` | Synthesis prompts, frozen codebook, both coders' codes, verified codes and our verification | §3.9, §5–§9 |
-| `08_analysis/taxonomy/`, `S1_taxonomy_classification.*` | Taxonomy dimensions and the classification of every study (Table S1) | §5.4, Supp. B |
+| `08_analysis/taxonomy/`, `S1_taxonomy_classification.*` | Taxonomy dimensions and the classification of the 398 Tier 2 studies with an identifiable proof system (Table S1) | §5.4, Supp. B |
 | `08_analysis/tier2/` | Study list (`study_ids.csv`) and the tables behind Sections 5–8 | §5–§8 |
 | `S7_quality_scores.csv` | Quality scores QA1–QA8 of every Tier 2 study (Table S7) | §3.7 |
 | `numbers/` | The values of all number macros used in the article and supplement (`numbers.csv`, and the LaTeX macro files). Fixed values of the validation runs are in `01_protocol/` and `03_screening/pilot/` | all |
@@ -52,7 +52,7 @@ Repository: https://github.com/datachain-uit/zkp-review-1985-2026
 | Tier 1 shares and trends | `05_coding/tier1_codes_final.jsonl`, `03_screening/works.csv`, `07_snowball/tier1_snowball.csv` → `08_analysis/tier1/` |
 | Tier 2 counts | `06_fulltext/extraction/tier2_final_verified.jsonl`, `08_analysis/synthesis/synthesis_codes_verified.jsonl` → `08_analysis/tier2/` |
 | Topics | `08_analysis/rq5/doc_topics.csv`, `topic_labels.csv` → `rq5_topic_trends.csv` |
-| Human decisions (Table 2) | One row per decision (five codes per row in `05_coding/validation/human_codes.csv`) in the decision files of `03_screening/`, `05_coding/validation/`, `06_fulltext/adjudication/`, `07_snowball/r1_decisions.csv`, `08_analysis/synthesis/` |
+| Human decisions (Table 2, Supp. Table A3) | One row per decision (five codes per row in `05_coding/validation/human_codes.csv`) in the decision files of `03_screening/`, `05_coding/validation/`, `06_fulltext/adjudication/`, `07_snowball/r1_decisions.csv`, `08_analysis/synthesis/` |
 
 ## Not included
 

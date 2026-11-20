@@ -1,0 +1,70 @@
+﻿rid_a,rid_b,decision,note,title_a,title_b
+ZK076EDE6868,ZKF2500A9BA6,S,,Quantum State Isomorphism,Quantum State Isomorphism
+ZK0CCA1F6163,ZKE11E0A4202,D,,Efficient zero-knowledge identification schemes for smart cards,Efficient zero-knowledge identification scheme for smart cards
+ZK0C195E7F11,ZK484B2ADDBF,D,,Physical zero-knowledge proof for makaro,Physical Zero-Knowledge Proof for Sukoro
+ZK095D2D9CFF,ZKE78E34F551,S,,Post-Quantum Readiness in EdDSA Chains,Poster: Post-Quantum Readiness in EdDSA Chains
+ZK346E6661E2,ZK82BC801E56,S,,Towards a Classification of Knowledge-of-Exponent Assumptions in Cyclic Groups,On the Classification of Knowledge-of-exponent Assumptions in Cyclic Groups
+ZKC2F433E417,ZK100781D4B5,S,,Graph clustering problem has a perfect zero-knowledge interactive proof,The Graph Clustering Problem has a Perfect Zero-Knowledge Proof.
+ZK9A4144E90B,ZKC56B9B7243,S,,On Monotone Function Closure of Statistical Zero-Knowledge.,On monotone function closure of perfect and statistical zero-knowledge
+ZK19440E4ECB,ZKFEAFD408FE,D,,Efficient zero-knowledge proof systems,Efficient Zero-Knowledge Proofs
+ZKAA4A508FE0,ZKE2C1DE994F,S,,On the concrete complexity of zero-knowledge proofs,On the communication complexity of zero-knowledge proofs
+ZK11A3D4B3CB,ZKD3BBF2D37E,S,,"Union, intersection, and refinement types and reasoning about type disjointness for security protocol analysis","Union, intersection and refinement types and reasoning about type disjointness for secure protocol implementations"
+ZK67B3DA46C6,ZKE1102A3793,D,,On New Zero-Knowledge Proofs for Lattice-Based Group Signatures with Verifier-Local Revocation,On new zero-knowledge proofs for fully anonymous lattice-based group signature scheme with verifier-local revocation
+ZK6321722727,ZKBF6D424D68,D,,Coral: Fast Succinct Non-Interactive Zero-Knowledge CFG Proofs,Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs
+ZK67B3DA46C6,ZKC251A15BE2,D,,On New Zero-Knowledge Proofs for Lattice-Based Group Signatures with Verifier-Local Revocation,Zero-Knowledge Proofs for Improved Lattice-Based Group Signature Scheme with Verifier-Local Revocation
+ZKB0B544DB6C,ZKE7BBA1197D,D,,LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof,ReZK: A Highly Reconfigurable Accelerator for Zero-Knowledge Proof
+ZK2BA2B14B9F,ZKEEA0C444E8,D,,$\mathsf{Cougar}$: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption,Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption
+ZKAA4E134FD2,ZK9361CC8C20,D,,Efficient zero-knowledge argument for correctness of a shuffle,Sub-linear zero-knowledge argument for correctness of a shuffle
+ZK1FBC104E82,ZK0D06317D69,D,,Towards Generic Zero Knowledge Protocal for Blind Watermark Detection.,Towards generic detection scheme in zero knowledge protocol for blind watermark detection
+ZK9242F26C89,ZKAA3394FCBF,D,,Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning,Computational Attestations of Polynomial Integrity Towards Verifiable Back-Propagation
+ZK043370CFA2,ZK1FD5A3C711,D,,Secure watermark verification scheme,Secure watermark detection schemes
+ZK71F2A1593D,ZK4DCDB15200,D,,MProve+ : Privacy Enhancing Proof of Reserves Protocol for Monero.,MProve-Nova: A Privacy-Preserving Proof of Reserves Protocol for Monero
+ZKD2E4D43A4E,ZK158F096D84,D,,Concurrently non-malleable black-box zero knowledge in the bare public-key model,Concurrently Non-Malleable Zero Knowledge in the Authenticated Public-Key Model
+ZKA8720383D1,ZKC6C4CA8282,S,,A MOBILE ROLE BASED ACCESS CONTROL SYSTEM USING IDENTITY BASED ENCRYPTION WITH NON-INTERACTIVE ZERO KNOWLEDGE PROOF OF AUTHENTICATION,A mobile role-based access control system using identity-based encryption with zero knowledge proof
+ZKC28ABCC89B,ZKDB33AFE664,D,,On the Impossibility of Algebraic Vector Commitments in Pairing-Free Groups,On the Impossibility of Algebraic NIZK in Pairing-Free Groups
+ZK567E0EE795,ZK78AC203CF7,S,,Zero-Knowledge Protocols for Code-Based Public-Key Encryption and Their Applications,Zero-knowledge protocols for code-based public-key encryption
+ZK19B937F038,ZKB0DBA59831,S,,Efficient non-interactive zero-knowledge watermark detector robust to sensitivity attacks,Zero-knowledge watermark detector robust to sensitivity attacks
+ZKB11CA521C4,ZK737B2E0A60,D,,Quantum-secure coin-flipping and applications,Fully simulatable quantum-secure coin-flipping and applications
+ZKEFF6BCA534,ZKC5C9F98CBB,D,,Precise Zero Knowledge,Precise concurrent zero knowledge
+ZK29C7E2F92B,ZK9C805BBD51,D,,Independent zero-knowledge sets,Zero-knowledge sets
+ZK1E10BEEE55,ZK846CE3442D,D,,Background of zero-knowledge proof,Zero-knowledge-proof
+ZK9017DDA621,ZK3742EB0326,D,,Zero-Knowledge,Resettable Zero-Knowledge
+ZK956EFB4754,ZK86842ED404,S,,Short Paper: Naysayer Proofs,Naysayer proofs
+ZKF972495B97,ZKD6D5FF7AA8,S,,Code-based cryptography : new privacy-preserving constructions,New Code-Based Privacy-Preserving Cryptographic Constructions
+ZKBD172DB642,ZK5961D559E2,D,,Succinct non-Interactive arguments,Succinct Non-Interactive Arguments for a von Neumann Architecture.
+ZKA29DFE78FE,ZK865A0A7E1D,D,,A Correction to a Code-Based Blind Signature Scheme,A code-based blind signature
+ZKBD172DB642,ZKACC41DF5E3,D,,Succinct non-Interactive arguments,Succinct non-interactive arguments via linear interactive proofs
+ZK9017DDA621,ZK9CE59D6519,D,,Zero-Knowledge,Zero-Knowledge Proof Systems
+ZKABE30FA1BD,ZK0FAEADBCD4,D,,Malleable signatures: New definitions and delegatable anonymous credentials,Delegatable Anonymous Credentials
+ZK6431F9CD5C,ZK02D3DE45D5,S,,A zero-knowledge PCP theorem with applications to cryptography,A Zero-Knowledge PCP Theorem
+ZKD17624ABAB,ZK3742EB0326,D,,Min-round resettable zero-knowledge in the public-key model,Resettable Zero-Knowledge
+ZK8DAD343D0A,ZK1D70CAC061,D,,Zero-knowledge proofs,Practical zero-knowledge proofs for circuit evaluation
+ZKE52809CD6B,ZK839020B750,D,,Role of Zero-Knowledge Proof in Blockchain Security,Zero-knowledge Proof
+ZK9017DDA621,ZK36DD41CFF2,S,,Zero-Knowledge,Zero-knowledge: Abstract of a tutorial
+ZK603F140C97,ZKDE5C5BCBA1,S,,Random oracles are practical,Random oracles are practical: a paradigm for designing efficient protocols
+ZK0FAEADBCD4,ZK153F4CC3EC,D,,Delegatable Anonymous Credentials,Malleable Signatures: Complex Unary Transformations and Delegatable Anonymous Credentials.
+ZKFB6958E37C,ZKF70097C1A0,D,,Proof Production for Satisfiability Modulo Finite Fields with Proof Checking in Pacheck and Lean,Satisfiability Modulo Finite Fields
+ZK839020B750,ZK88BCE5A906,D,,Zero-knowledge Proof,A Review on Zero Knowledge Proof Vulnerabilities in Zcash
+ZKC50F6FC748,ZK995797641B,S,,zkSNARKs for matrix computations,Scalable zkSNARKs for Matrix Computations: A Generic Framework for Verifiable Deep Learning
+ZK006AA18435,ZKBD172DB642,D,,"From Extractable Collision Resistance to Succinct Non-Interactive Arguments of Knowledge, and Back Again.",Succinct non-Interactive arguments
+ZK5944F793B4,ZKD92DABC4B0,S,,Proof-carrying data,Proof-Carrying Data and Hearsay Arguments from Signature Cards.
+ZK9017DDA621,ZK9B12ECB175,D,,Zero-Knowledge,"Concurrent Zero-Knowledge With Timing, Revisited."
+ZK9017DDA621,ZKB5C24C0567,S,,Zero-Knowledge,Zero-Knowledge twenty years after its invention
+ZK9017DDA621,ZKC1396D4D6E,D,,Zero-Knowledge,Interleaved Zero-Knowledge in the Public-Key Model.
+ZK9017DDA621,ZK3B8B4D7444,D,,Zero-Knowledge,Resettably-Sound Zero-Knowledge and its Applications.
+ZK3A367C3997,ZK839020B750,D,,Privacy-Preserving Academic Transcript Verification Using Zero-Knowledge Proof,Zero-knowledge Proof
+ZK5944F793B4,ZK6D47133875,D,,Proof-carrying data,Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data.
+ZK40952E1982,ZK47E18A01AC,S,,Beyond the circuit: How to Minimize Foreign Arithmetic in ZKP Circuits,Beyond the Circuit
+ZKE9AC5BA230,ZK839020B750,D,,Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs,Zero-knowledge Proof
+ZKEFF891165B,ZK731C3F6282,D,,Zero-Knowledge Proofs,The impact of zero-knowledge proofs on data minimisation compliance of digital identity wallets
+ZK9017DDA621,ZK100781D4B5,D,,Zero-Knowledge,The Graph Clustering Problem has a Perfect Zero-Knowledge Proof.
+ZK320E0645D3,ZKF8BABA4E80,D,,Succinctly Verifiable Computation over Additively-Homomorphically Encrypted Data: Making Privacy-Preserving Blueprints Practical,Privacy-Preserving Blueprints
+ZKAFD1C2885B,ZKEFF891165B,D,,Bringing data minimization to digital wallets at scale with general-purpose zero-knowledge proofs,Zero-Knowledge Proofs
+ZK9017DDA621,ZKE3FA8FEC5A,D,,Zero-Knowledge,How to construct constant-round zero-knowledge proof systems for NP
+ZK9017DDA621,ZKC2F433E417,D,,Zero-Knowledge,Graph clustering problem has a perfect zero-knowledge interactive proof
+ZK24EAE61061,ZK8A63D48094,S,,Regulatory and legal prerequisites for the application of zero-knowledge proof in public procurement,Нормативно-правові передумови застосування zero-knowledge proof у публічних закупівлях
+ZK9017DDA621,ZKE4796B6076,D,,Zero-Knowledge,Honest-verifier statistical zero-knowledge equals general statistical zero-knowledge
+ZKC18451BA6F,ZK76CD7CA3C4,S,,Blind zkSNARKs,Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data
+ZK9017DDA621,ZK1751DF153E,D,,Zero-Knowledge,Comparing entropies in statistical zero knowledge with applications to the structure of SZK
+ZK5B37350D7E,ZK9017DDA621,D,,Can statistical zero knowledge be made non-interactive? Or on the relationship of SZK and NISZK,Zero-Knowledge
+ZK839020B750,ZK2DDC43ED53,D,,Zero-knowledge Proof,Blockchain-Based Zero-Knowledge Proofs for Data Privacy: Explore the Application of Blockchain Technology in facilitating Privacy-Preserving Transactions through Zero-Knowledge Proofs and Analyze their Effectiveness in Protecting Sensitive Data.

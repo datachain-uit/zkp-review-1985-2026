@@ -5,9 +5,6 @@ authors:
   - family-names: Vo
     given-names: Khoa Tan
     orcid: "https://orcid.org/0000-0002-5343-1686"
-  - family-names: Nguyen
-    given-names: Hong-Tri
-    orcid: "https://orcid.org/0000-0001-6483-0829"
   - family-names: Nguyen-Hoang
     given-names: Tu-Anh
     orcid: "https://orcid.org/0000-0001-9283-769X"
@@ -18,7 +15,5 @@ preferred-citation:
   authors:
     - family-names: Vo
       given-names: Khoa Tan
-    - family-names: Nguyen
-      given-names: Hong-Tri
     - family-names: Nguyen-Hoang
       given-names: Tu-Anh
