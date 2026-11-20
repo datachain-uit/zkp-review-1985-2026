@@ -1,0 +1,14 @@
+{
+  "seed": 20261108,
+  "per_axis": 25,
+  "population_axis_counts": {
+    "APP": 4585,
+    "FND": 911,
+    "CON": 2823,
+    "SYS": 449,
+    "BLD": 662,
+    "SEC": 228,
+    "SUR": 447,
+    "FV": 85
+  }
+}

@@ -1,0 +1,201 @@
+{"_meta": {"screener": "R2-LLM", "prompt_version": "v1", "model": "claude-opus-5-5", "run_date": "2026-11-02", "n_records": 200}}
+{"rid": "ZK9895B71605", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "Adversarial ML defense for tree ensembles; no cryptographic or ZK content."}
+{"rid": "ZK9BC9514454", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "Croatian criminal law article; non-cryptographic topic, also not in English."}
+{"rid": "ZK44F6306CC7", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Healthcare blockchain framework using zk-SNARKs as core privacy mechanism."}
+{"rid": "ZK7FB37642E2", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Lattice OLE; extends zero-knowledge proof of plaintext knowledge for actively secure protocol."}
+{"rid": "ZK8B25B9FE5F", "decision": "U", "reason": "NA", "confidence": 0.45, "rationale": "Book chapter without abstract; unclear whether ZKPs are a core mechanism."}
+{"rid": "ZK25ED60F120", "decision": "E", "reason": "EC1", "confidence": 0.97, "rationale": "AI rule induction for planning; unrelated to cryptography."}
+{"rid": "ZK2354A0690B", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Identity authentication in mobile P2P using one-round zero-knowledge proofs."}
+{"rid": "ZK228F9B519C", "decision": "I", "reason": "IC1", "confidence": 0.7, "rationale": "GQ (Fiat-Shamir identification-based) multi-signature with ZK proofs, trustless setup."}
+{"rid": "ZKC2E2CDFE3D", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Literary fiction; no cryptographic content."}
+{"rid": "ZKD8767AE43F", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Anonymous feedback system built on zk-SNARKs."}
+{"rid": "ZKF130BC4612", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Lattice polynomial commitment scheme for post-quantum SNARKs and zkVMs."}
+{"rid": "ZK5F5B1C28DE", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Node identity authentication scheme based on non-interactive zero-knowledge proof."}
+{"rid": "ZKACC41DF5E3", "decision": "I", "reason": "IC2", "confidence": 0.95, "rationale": "Construction of succinct non-interactive arguments from linear interactive proofs."}
+{"rid": "ZKA58B5FF66B", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Cross-chain auditing using zero-knowledge and recursive audit proofs."}
+{"rid": "ZK2D92E8875C", "decision": "E", "reason": "EC2", "confidence": 0.8, "rationale": "General blockchain healthcare study; ZKP only a keyword, not a mechanism."}
+{"rid": "ZK19014CC6F6", "decision": "I", "reason": "IC1", "confidence": 0.7, "rationale": "TPASS protocol variant built on a zero-knowledge proof."}
+{"rid": "ZK0F310F1698", "decision": "I", "reason": "IC2", "confidence": 0.5, "rationale": "Uses polynomial commitments for verifiable cross-chain computation; no ZK property."}
+{"rid": "ZKD77907B4A0", "decision": "I", "reason": "IC2", "confidence": 0.9, "rationale": "RS-IOP multivariate polynomial commitments with applications to VSS."}
+{"rid": "ZK79F3A97A52", "decision": "E", "reason": "EC2", "confidence": 0.75, "rationale": "Web3 AI agents white paper; ZKPs only mentioned among techniques."}
+{"rid": "ZKC8A2C5891F", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Group key management using zero-knowledge sets for commitments and anonymity."}
+{"rid": "ZKA2C4D76C4F", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "Supply-chain system integrating ZKPs as a design component for authentication."}
+{"rid": "ZK7AFB9F8139", "decision": "I", "reason": "IC1", "confidence": 0.5, "rationale": "Equivalence of zero-knowledge codes, used in ZK cryptographic constructions, with CSS codes."}
+{"rid": "ZKD6868F4733", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "GPU system accelerating end-to-end zero-knowledge proof generation."}
+{"rid": "ZKA765380299", "decision": "E", "reason": "EC2", "confidence": 0.7, "rationale": "IoT fog blockchain framework; ZKPs mentioned only peripherally."}
+{"rid": "ZK6124A2647D", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "James Bond gadgets; bulletproof glass non-cryptographic sense."}
+{"rid": "ZK8F26A8D736", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "EHR framework combining lattice crypto, hash signatures and zero-knowledge proofs in its design."}
+{"rid": "ZK1879CC61B6", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Remote attestation with selective disclosure via NIZK proofs with Schnorr signatures."}
+{"rid": "ZK6B8A6E6C75", "decision": "E", "reason": "EC2", "confidence": 0.55, "rationale": "General hyperproperty verification technique; ZK protocol soundness only one example application."}
+{"rid": "ZK3CD0BC2D8C", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Memory optimization method for zk-SNARK proof generation."}
+{"rid": "ZK52C5DD5C32", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "Federated unlearning framework whose trust layer integrates zero-knowledge proofs for deletion verification."}
+{"rid": "ZK5BC5C303C6", "decision": "I", "reason": "IC1", "confidence": 0.75, "rationale": "Privacy-preserving SSI identity derivation implemented with a proof system; ZKP keywords."}
+{"rid": "ZK15ADBD4CA0", "decision": "I", "reason": "IC2", "confidence": 0.5, "rationale": "Attribute-based signatures via RAM delegation, replacing SNARKs; succinct delegation building block."}
+{"rid": "ZK3E6E62252A", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Musicology chapter; ZKP is a Polish composers' union acronym."}
+{"rid": "ZK528777E749", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Blockchain leader election protocol adding zk-SNARK proofs."}
+{"rid": "ZK0C66107250", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Graph-theory snarks embeddings; non-cryptographic."}
+{"rid": "ZKB30AD76D4A", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Attribute-based authentication for indoor positioning using zero-knowledge proofs."}
+{"rid": "ZK22CAAED697", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Mobile crowdsensing framework using zk-SNARKs for identity and location privacy."}
+{"rid": "ZK72318582D3", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Materials science lattice structure impact study; non-cryptographic."}
+{"rid": "ZKE16928EECC", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Business persuasion article; bulletproof used colloquially."}
+{"rid": "ZK44EF2E3087", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "Bosnian criminal procedure law; ZKP is a legal acronym, non-English."}
+{"rid": "ZKC907536113", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Foundations of cryptography primer with zero-knowledge proofs as a central topic."}
+{"rid": "ZK311EFEFDB5", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "Slovenian legal article on right to silence; ZKP legal acronym."}
+{"rid": "ZKD68E1125AE", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Conceptual framework centering zero-knowledge proofs for AI supply chain accountability."}
+{"rid": "ZKE80FC06547", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Private recurring blockchain transactions built on zero-knowledge proofs."}
+{"rid": "ZK0D51051DC3", "decision": "I", "reason": "IC2", "confidence": 0.55, "rationale": "Consistent query protocols giving short proofs for committed databases; verifiable database."}
+{"rid": "ZKF3009E4B0B", "decision": "E", "reason": "EC1", "confidence": 0.75, "rationale": "Humanities press book chapter titled Bulletproof, no abstract; non-cryptographic."}
+{"rid": "ZK92461E4822", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "IoHT authentication protocol integrating PUFs and zk-SNARKs."}
+{"rid": "ZK668A4B2854", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "HABE construction relying on statistically-sound NIZKs and witness encryption."}
+{"rid": "ZK590F6E9EAF", "decision": "E", "reason": "EC1", "confidence": 0.85, "rationale": "Blockchain diplomas; proof of knowledge used in educational, non-cryptographic sense."}
+{"rid": "ZKA54991A29A", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Analysis of Fiat-Shamir zero-knowledge identification abuses; relative zero-knowledge."}
+{"rid": "ZK8BE98757B7", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Expository article explaining zero-knowledge proofs and their use for authentication."}
+{"rid": "ZKE1913C934E", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "New zero-knowledge proof schemes for proving static program analysis results."}
+{"rid": "ZKD908C5F179", "decision": "E", "reason": "EC2", "confidence": 0.6, "rationale": "Blockchain tax-case processing architecture; ZKP only a keyword, not described as mechanism."}
+{"rid": "ZKF9F3194098", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "SoK on VOLE-in-the-head ZKP-based digital signatures."}
+{"rid": "ZKFD786000AA", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Multichain data exchange requiring zero-knowledge proofs of data ownership."}
+{"rid": "ZK76775C9D01", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "IoT edge privacy framework incorporating a zero-knowledge proof algorithm."}
+{"rid": "ZKB7ADB29717", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Dissertation on 3-round weak zero-knowledge proofs for NP."}
+{"rid": "ZK7C3BB3C88B", "decision": "I", "reason": "IC1", "confidence": 0.5, "rationale": "MPC work introducing new distributed zero-knowledge proof batch verification for packed sharing."}
+{"rid": "ZK4C5372592B", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Federated learning protocol with ZKP-based data quality and training correctness proofs."}
+{"rid": "ZKA9FB9DAEED", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Book dedicated to zero-knowledge proofs, SNARKs, STARKs, PLONK and zkVMs."}
+{"rid": "ZK7D5F9324D2", "decision": "E", "reason": "EC2", "confidence": 0.6, "rationale": "Digital currency regulation policy analysis; ZKP sandbox mentioned peripherally."}
+{"rid": "ZK06D78A3A3E", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "EV energy trading with novel batched range proofs and zk-SNARK payment verification."}
+{"rid": "ZK85735FC573", "decision": "E", "reason": "EC2", "confidence": 0.6, "rationale": "Internet voting position paper; NIZKs cited as existing enabling technology only."}
+{"rid": "ZKE67347BF71", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Verifiable computation over encrypted data using MPC-in-the-head zero-knowledge proofs."}
+{"rid": "ZKA7FA487992", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Network-on-chip router fault tolerance; unrelated to cryptography."}
+{"rid": "ZKBDE006A5FC", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Distributed reinforcement learning framework incorporating zero-knowledge proofs."}
+{"rid": "ZKB71E802CF5", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Transparent data services using zero-knowledge range proofs for audits."}
+{"rid": "ZK6C75A68554", "decision": "I", "reason": "IC2", "confidence": 0.65, "rationale": "PCP thesis including IOPs for cryptography and Zinc+ succinct proof system."}
+{"rid": "ZK8E457E05D9", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Magazine item on bulletproof vest fabric; non-cryptographic."}
+{"rid": "ZKDE67DEB34E", "decision": "E", "reason": "EC2", "confidence": 0.75, "rationale": "General blockchain security review; ZKPs listed among many techniques."}
+{"rid": "ZK3D68221D86", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Concurrent zero-knowledge arguments in BPK model from Sigma-protocols."}
+{"rid": "ZK89A38C5B99", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Graph-theory snarks criticality; non-cryptographic."}
+{"rid": "ZKDD05512D78", "decision": "I", "reason": "IC1", "confidence": 0.75, "rationale": "Dairy compliance framework verifying R1CS circuits with zk-SNARK proofs on-chain."}
+{"rid": "ZK632C7BAE1D", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Post-quantum signature from new MPC-in-the-head zero-knowledge proof for RSD."}
+{"rid": "ZK316FA2454B", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Ballistic armor laminate analysis; bulletproof non-cryptographic."}
+{"rid": "ZKBCC35A85CD", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Anonymous e-voting using zk-SNARK Merkle membership proofs."}
+{"rid": "ZK71F2A1593D", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Bulletproofs-based NIZK proof of reserves protocol for Monero."}
+{"rid": "ZKA50759A002", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Mobile wallet synchronization using zk-SNARK proofs of chain extension."}
+{"rid": "ZKCA1FFEE332", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Thesis including compiler from Sigma-protocols to proofs of data possession."}
+{"rid": "ZK1A3F79B26F", "decision": "E", "reason": "EC1", "confidence": 0.97, "rationale": "German dental EMG dissertation; ZKP is a medical acronym."}
+{"rid": "ZK30A106E206", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Rate-1 zero-knowledge proofs for NP from one-way functions."}
+{"rid": "ZKB9317E648A", "decision": "E", "reason": "EC2", "confidence": 0.7, "rationale": "Ristretto255 group implementation; ZK protocols only mentioned as possible applications."}
+{"rid": "ZK44B6191860", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Ethereum dispute resolution built on Semaphore and MACI zero-knowledge protocols."}
+{"rid": "ZK532C6C291F", "decision": "E", "reason": "EC1", "confidence": 0.9, "rationale": "Security of AI-generated code; no zero-knowledge content."}
+{"rid": "ZK9FC3A2B529", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Extractable hash proof systems, a NIZK proof-of-knowledge variant, for CCA encryption."}
+{"rid": "ZK2F23DAB43F", "decision": "I", "reason": "IC1", "confidence": 0.75, "rationale": "6G application authentication framework adding zero-knowledge proof verification."}
+{"rid": "ZK38A623471E", "decision": "E", "reason": "IC4", "confidence": 0.55, "rationale": "Serbian-language article (Serbian title, Serbian venue) presenting zero-knowledge proofs."}
+{"rid": "ZKF9A9959653", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Military mindfulness review; bulletproofing used figuratively."}
+{"rid": "ZKA361024BFF", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Physical zero-knowledge proof protocol for Kakuro puzzle; no abstract but clear title."}
+{"rid": "ZKBC5EBBAF57", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Stochastic performance model of ZK-rollups, systems built on zero-knowledge proofs."}
+{"rid": "ZK66C6EF6FC7", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Formal verification of statistical zero-knowledge for GPS identification protocol."}
+{"rid": "ZKBDBDC741F8", "decision": "E", "reason": "EC2", "confidence": 0.8, "rationale": "Data science ethics chapter; ZKPs only compared among privacy techniques."}
+{"rid": "ZKAE198713DD", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Cross-chain anonymous identity authentication via transparent zero-knowledge proofs."}
+{"rid": "ZKBE0DCA9DDA", "decision": "E", "reason": "EC2", "confidence": 0.6, "rationale": "Hint-free multi-signatures from obfuscation; recursive SNARKs only an alternative approach."}
+{"rid": "ZK25E00BAF6F", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Non-interactive and round-optimal perfect zero-knowledge proofs for quadratic residuosity languages."}
+{"rid": "ZK9C153D6825", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Authorization framework built on zero-knowledge proofs of credential compliance, Groth16/PLONK benchmarks."}
+{"rid": "ZK3539F37434", "decision": "I", "reason": "IC2", "confidence": 0.85, "rationale": "Polynomial commitments with one-to-many batched proving, transparent variant, for VSS."}
+{"rid": "ZKFF67EDDDB1", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Total coloring of graph-theory snarks; non-cryptographic."}
+{"rid": "ZK384A87537E", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Code-based group signature via Schnorr-Lyubashevsky Fiat-Shamir framework replacing heavy ZK proofs."}
+{"rid": "ZK26E36FB208", "decision": "I", "reason": "IC1", "confidence": 0.5, "rationale": "DDoS defense framework implementing pseudonymous ZKP authentication algorithm."}
+{"rid": "ZKA9FE6D8DB3", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Feedback numbers of Goldberg snarks; graph theory."}
+{"rid": "ZK8B760D5D3A", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Classical-verifier zero-knowledge arguments for QMA."}
+{"rid": "ZK99AC9CFE92", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Combinatorics textbook; zero knowledge used colloquially."}
+{"rid": "ZK67A2E12F5F", "decision": "E", "reason": "EC5", "confidence": 0.9, "rationale": "Software deposit on Figshare, a general-purpose repository."}
+{"rid": "ZK2AA1B6568C", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "IoMT blockchain framework with ZKP-based authentication and access control."}
+{"rid": "ZKD6DF4C8091", "decision": "E", "reason": "EC2", "confidence": 0.75, "rationale": "Edited book on ML for cloud security; zero-knowledge authentication only mentioned."}
+{"rid": "ZKA2E7D62579", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Elliptic-curve signature scheme with zero-knowledge proof of the signature."}
+{"rid": "ZK18F5CBC987", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Mixed metric dimension of flower snarks; graph theory."}
+{"rid": "ZK16C33D6277", "decision": "E", "reason": "EC1", "confidence": 0.97, "rationale": "French literature book review; Snark appears as publisher name."}
+{"rid": "ZK3F622051C3", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Zero-knowledge-style authentication protocol based on fractal sets."}
+{"rid": "ZK3030A9D236", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Federated learning for driving with ZKP-based anonymous identity privacy scheme."}
+{"rid": "ZK1C540BB641", "decision": "E", "reason": "EC2", "confidence": 0.55, "rationale": "Quantum entanglement verification; quantum ZK only a side application."}
+{"rid": "ZKF2F6F8B1C3", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Ballistic armour composites thesis; bulletproof non-cryptographic."}
+{"rid": "ZKAEBE48B4EA", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Ballistic aramid composites dissertation; non-cryptographic, Portuguese."}
+{"rid": "ZK8879B26C01", "decision": "E", "reason": "EC2", "confidence": 0.55, "rationale": "Physical virtual proofs of reality; interactive proofs without zero-knowledge as mechanism."}
+{"rid": "ZKE818BF7B80", "decision": "I", "reason": "IC1", "confidence": 0.98, "rationale": "Non-interactive zero-knowledge proof systems from quadratic residuosity."}
+{"rid": "ZK793668D792", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Smart-home authentication via zero-knowledge proof without shared secret keys."}
+{"rid": "ZK7DD825AB9F", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "New code-based zero-knowledge identification scheme."}
+{"rid": "ZK664709C5CC", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Zero-knowledge proof of knowledge for the independent set problem."}
+{"rid": "ZKECBEBDC73F", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "PUF-based authentication system using zero-knowledge proofs."}
+{"rid": "ZKEA0981B758", "decision": "I", "reason": "IC1", "confidence": 0.75, "rationale": "Proofs of proximity of knowledge; formal proof-of-knowledge distance bounding protocol."}
+{"rid": "ZKC55BECF066", "decision": "E", "reason": "EC2", "confidence": 0.6, "rationale": "Survey of blockchain fair trading; ZKPs one privacy technique among many."}
+{"rid": "ZK8D0D9E301D", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "NFT anti-counterfeit framework using zero-knowledge proofs to verify model output integrity."}
+{"rid": "ZK256D051E00", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "SNARK kinase in skeletal muscle; biomedical, non-cryptographic."}
+{"rid": "ZKC5745B0E5E", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Privacy-preserving attribute-based access control via a new ZKP-based protocol."}
+{"rid": "ZKC0016BB040", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Healthcare digital twin architecture with zero-knowledge-based auditing component."}
+{"rid": "ZK2A1F6E592D", "decision": "E", "reason": "EC1", "confidence": 0.97, "rationale": "Croatian criminal procedure article; ZKP legal acronym."}
+{"rid": "ZK9ABA5EE1D1", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "3-critical subgraphs of snarks; graph theory."}
+{"rid": "ZK08A71BBEF3", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Microgrid trading using zero-knowledge proof with secret sharing for access control."}
+{"rid": "ZK252D7FFF75", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Terrorism financing and antiquities; unrelated to cryptography."}
+{"rid": "ZKCECC2D1C90", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Definition of expected quantum polynomial-time zero-knowledge simulation."}
+{"rid": "ZK6AA44DCDB2", "decision": "I", "reason": "IC2", "confidence": 0.7, "rationale": "Publicly verifiable computation using polynomial commitments and knowledge signatures."}
+{"rid": "ZKB7DDC868ED", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Zero-knowledge authentication protocol for airline passengers based on MinRank."}
+{"rid": "ZK22A0733EF4", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "ZKP framework for verifiable privacy-preserving causal analytics."}
+{"rid": "ZK1F35F84792", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Spatial data exchange platform verifying data utility with zero-knowledge proofs."}
+{"rid": "ZK84E52B39CE", "decision": "E", "reason": "EC2", "confidence": 0.55, "rationale": "Characterizes long-term secure two-party functions; ZK arguments only cited as examples."}
+{"rid": "ZK1B3B1B2F55", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Constant-round resettable zero-knowledge arguments in BPK model."}
+{"rid": "ZK6A3381C287", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Analysis and decision methodology for choosing ZKP systems for applications."}
+{"rid": "ZKC140F160C2", "decision": "E", "reason": "EC1", "confidence": 0.75, "rationale": "Bulletproof monitoring, data integrity/access control; no abstract, non-cryptographic sense."}
+{"rid": "ZK0844FFD7A2", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Accountable atomic swaps from NIZK-compatible ring adaptor signatures with consistency proofs."}
+{"rid": "ZKB12149F366", "decision": "E", "reason": "EC1", "confidence": 0.97, "rationale": "Missile history; Snark is a cruise missile, non-cryptographic."}
+{"rid": "ZKD295000A37", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "Croatian criminal procedure law; ZKP legal acronym."}
+{"rid": "ZK4A311644A5", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Witness-size non-interactive zero-knowledge proofs using fully homomorphic encryption."}
+{"rid": "ZKF517AC20DE", "decision": "E", "reason": "EC1", "confidence": 0.5, "rationale": "Zero-knowledge data validation via homomorphic hashing; no zero-knowledge proof system evident."}
+{"rid": "ZK298504D193", "decision": "E", "reason": "EC2", "confidence": 0.6, "rationale": "Speculative drug-discovery AI architecture; zk-SNARKs only a peripheral collaboration layer."}
+{"rid": "ZK9EE170EBE4", "decision": "I", "reason": "IC1", "confidence": 0.92, "rationale": "Wearable health monitoring generating zk-SNARK proofs on smartphones."}
+{"rid": "ZK854108B87F", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "Merkle-based data structure with membership proofs designed for zero-knowledge applications."}
+{"rid": "ZK83F07078E6", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Relates zero-knowledge interactive proofs to formal systems and Godel's theorem."}
+{"rid": "ZKC264A2AEEA", "decision": "I", "reason": "IC1", "confidence": 0.7, "rationale": "Latin square isotopy algorithm revealing problems in a zero-knowledge protocol."}
+{"rid": "ZK855847D022", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "V2X identity architecture using zk-STARKs and zero-knowledge attribute proofs."}
+{"rid": "ZK5F09299FE9", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Blockchain data-sharing privacy model using zk-SNARKs to hide policies and attributes."}
+{"rid": "ZK5154C481FD", "decision": "E", "reason": "EC2", "confidence": 0.7, "rationale": "Anonymous endorsers via ring signatures; ZKP-based Idemix only background."}
+{"rid": "ZK304CB746BC", "decision": "I", "reason": "IC1", "confidence": 0.65, "rationale": "Fair two-party computation built on efficient proofs of knowledge, verifiable OT."}
+{"rid": "ZKCD2EC2375B", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Linkable secret handshake achieving efficiency through proofs of knowledge."}
+{"rid": "ZKB1A7FCCCF7", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Cloud attribute-based credentials using zero-knowledge proofs of knowledge."}
+{"rid": "ZK93611506F0", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "Blockchain fundraising framework with ZKP privacy and zk-rollup scalability features."}
+{"rid": "ZKE977E0962B", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Image reconstruction least squares; IOP means oblique projections, non-cryptographic."}
+{"rid": "ZKEFE3BF7055", "decision": "E", "reason": "EC1", "confidence": 0.97, "rationale": "Slovenian criminal procedure thesis; ZKP legal acronym."}
+{"rid": "ZKFE704A5196", "decision": "I", "reason": "IC2", "confidence": 0.7, "rationale": "IOPs for NP with inverse-polynomial soundness via Reed-Solomon proximity testing."}
+{"rid": "ZKEEA8FC5245", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Unified MSM and NTT hardware accelerator for zero-knowledge proof generation."}
+{"rid": "ZK203A080473", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Anonymous authorization of credential issuers via NIZK accumulator membership proofs."}
+{"rid": "ZK613E6E6190", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Facelift surgical technique; bulletproof used figuratively."}
+{"rid": "ZK150E42A0CD", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Lewis Carroll poem The Hunting of the Snark."}
+{"rid": "ZK99D1941AA6", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Card-based physical zero-knowledge proof protocol for Nurimisaki puzzle."}
+{"rid": "ZK8974799612", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Vehicle anonymous authentication using anonymous credentials and zero-knowledge proofs."}
+{"rid": "ZK7BF00CBFC6", "decision": "I", "reason": "IC2", "confidence": 0.95, "rationale": "New lookup argument for decomposable tables, applicable to zkVMs."}
+{"rid": "ZKEDC9689B61", "decision": "I", "reason": "IC1", "confidence": 0.55, "rationale": "Lattice signature overview including Fiat-Shamir NIZK proof-of-knowledge constructions."}
+{"rid": "ZK966D0DF36A", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Group signatures with message-dependent opening built from adaptive NIZK proofs."}
+{"rid": "ZKF5D4073E43", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Voting consensus with ZKP-based identity and eligibility verification."}
+{"rid": "ZK640257BFCC", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Healthcare data access with BBS+ signatures and zero-knowledge selective disclosure."}
+{"rid": "ZK30AB96D148", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "UHMWPE composites impact resistance; bulletproof materials, non-cryptographic."}
+{"rid": "ZK14F92BF38B", "decision": "I", "reason": "IC1", "confidence": 0.92, "rationale": "C2PA image provenance with zk-SNARK integrity proofs via ZoKrates/Groth16."}
+{"rid": "ZK41734C4E85", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Pebbling numbers of snarks; graph theory."}
+{"rid": "ZK9D09FF5CDF", "decision": "E", "reason": "EC2", "confidence": 0.85, "rationale": "Differential privacy in Bitcoin; ZKPs only mentioned as related approaches."}
+{"rid": "ZKC1E903482F", "decision": "E", "reason": "EC1", "confidence": 0.98, "rationale": "Matching weights in cubic graphs including Blanusa snarks; graph theory."}
+{"rid": "ZKA29DFE78FE", "decision": "I", "reason": "IC1", "confidence": 0.75, "rationale": "Fixes code-based blind signature by adding proof of knowledge of randomness."}
+{"rid": "ZK97E4BFF958", "decision": "E", "reason": "EC2", "confidence": 0.65, "rationale": "Ethical AI surveillance chapter, no abstract; ZKPs one of many listed techniques."}
+{"rid": "ZK50BAC5C56B", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Enumeration and reducibility of graph-theory snarks."}
+{"rid": "ZK3172DAA7B7", "decision": "I", "reason": "IC1", "confidence": 0.75, "rationale": "Sharded C-V2X blockchain using zero-knowledge proofs for cross-shard validation."}
+{"rid": "ZK9978B35572", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "WiFi human tracking; zero-knowledge means no prior device location knowledge."}
+{"rid": "ZK97C0B2F1CE", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Relates auxiliary-input versus black-box zero-knowledge gap to code obfuscation."}
+{"rid": "ZK702D3D1B7E", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Statistical concurrent non-malleable zero-knowledge arguments from one-way functions."}
+{"rid": "ZK14CEBE7101", "decision": "I", "reason": "IC1", "confidence": 0.6, "rationale": "Verifiable MPC auditing combining Pedersen commitments with NIZK and obfuscation."}
+{"rid": "ZK30DA564D2D", "decision": "I", "reason": "IC1", "confidence": 0.95, "rationale": "Attack on zero-knowledge verification of LLM inference."}
+{"rid": "ZK0B046FCC3C", "decision": "E", "reason": "EC1", "confidence": 0.8, "rationale": "Conference key distribution; zero knowledge used informally, no proof system."}
+{"rid": "ZK98DA7B8229", "decision": "E", "reason": "EC2", "confidence": 0.65, "rationale": "Secret-sharing watermark detection; zero-knowledge detector only prior work."}
+{"rid": "ZK5A0FA0B590", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Proves Spartan and Bulletproofs zkSNARKs simulation-extractable."}
+{"rid": "ZK2B63D654D1", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "Cellular key exchange combined with zero-knowledge authentication scheme."}
+{"rid": "ZK551789DF48", "decision": "E", "reason": "EC1", "confidence": 0.95, "rationale": "Cybercrime infrastructure on Telegram; bulletproof hosting, non-cryptographic sense."}
+{"rid": "ZKF29D6B0772", "decision": "I", "reason": "IC1", "confidence": 0.7, "rationale": "Survey of KYC solutions integrating self-sovereign identity and zero-knowledge proofs."}
+{"rid": "ZK71D8B458EE", "decision": "I", "reason": "IC1", "confidence": 0.92, "rationale": "Zero-knowledge proof-of-location protocols for vehicle taxation compliance."}
+{"rid": "ZK99A397744A", "decision": "I", "reason": "IC1", "confidence": 0.8, "rationale": "Cellular automata security framework with zero-knowledge authentication protocol."}
+{"rid": "ZKB5105E1E86", "decision": "I", "reason": "IC1", "confidence": 0.9, "rationale": "Blockchain IoT access control anonymity via Groth16 zero-knowledge proofs."}
+{"rid": "ZK9B426280CF", "decision": "E", "reason": "EC2", "confidence": 0.65, "rationale": "Lattice completely non-malleable encryption proof; NIZK only prior generic approach."}
+{"rid": "ZK72F720E76B", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Lewis Carroll biography; non-cryptographic."}
+{"rid": "ZK6D7D35C18E", "decision": "I", "reason": "IC1", "confidence": 0.85, "rationale": "MANET identification using interactive zero-knowledge GPS authentication protocol."}
+{"rid": "ZKC9C9CF7053", "decision": "E", "reason": "EC1", "confidence": 0.99, "rationale": "Lead exposure from bulletproof vests; occupational health."}
+{"rid": "ZKA5E6E7F557", "decision": "I", "reason": "IC1", "confidence": 0.7, "rationale": "Updatable policy-compliant signatures generically built from NIZK proof systems."}
+{"rid": "ZK80D2E2221D", "decision": "E", "reason": "EC2", "confidence": 0.7, "rationale": "Legal-philosophical digital identity analysis; ZKP discussed only as emerging tool."}
+{"rid": "ZK149EFAF11C", "decision": "I", "reason": "IC1", "confidence": 0.97, "rationale": "Simplified analysis yielding black-box concurrent zero-knowledge for NP languages."}

@@ -1,0 +1,1199 @@
+Topic,Words,Frequency,Timestamp
+13,"practical solutions, identification signature, identification, solutions, problems",1,1986
+23,"bob, alice, convince, perfect zeroknowledge, theorem",2,1986
+9,"satisfying assignment, assignment, theorems, protocol correct, satisfying",1,1987
+23,"convince, bob, alice, probabilistic, interactive",2,1987
+24,"blobs, zeroknowledge discrete, implementation zeroknowledge, discrete logarithm, logarithm",2,1987
+35,"abstract available, protocol achieves, players, strategy, abstract",1,1987
+41,"auxiliaryinput, zeroknowledge, perfect zeroknowledge, zeroknowledge systems, definition",3,1987
+46,"assertions, identification, unrestricted, identification schemes, interactive",1,1987
+47,"zeroknowledge interactive, interactive, graph, interactive graph, knows secret",1,1987
+8,"secret key, exchange, key exchange, secret, implemented standard",1,1988
+9,"section, participant, protocol, participants, output",1,1988
+20,"intractability assumptions, new model, assertion, provers, multiprover",1,1988
+23,"allowed, logspace, zeroknowledge systems, verifier, verifier allowed",2,1988
+24,"factorization, interactive, associate, prover, associates",5,1988
+28,"oblivious transfer, oblivious, transfer, question, bit",1,1988
+32,"short random, result construct, cryptosystem secure, secure chosen, ciphertext attack",1,1988
+35,"mental, game, protocol, cards, verifications",1,1988
+38,"1988, smart cards, zeroknowledge identification, elgamal, cards",1,1988
+40,"receipts, legitimate, impartial, assets, veracity",1,1988
+42,"secret, constrained resources, allowing verifier, allowing, prover",1,1988
+46,"identification, polynomial time, problems, fiatshamir, problem",3,1988
+2,"summary, medical records, procedures, extended, confidential",1,1989
+8,"zeroknowledge protocol, password, protocol, feasibility, different values",1,1989
+23,"interactive systems, interactive, perfect zeroknowledge, perfect, languages",2,1989
+24,"general zeroknowledge, alike, schemes springerverlag, soundness soundness, fiatshamir zeroknowledge",2,1989
+38,"efficient identification, smart cards, cards, identification, smart",1,1989
+41,"number rounds, rounds, perfect zeroknowledge, number, perfect",2,1989
+2,"abstract available, medical records, procedures, available, abstract",1,1990
+8,"computer, old, transmitted, authentication, providing general",3,1990
+9,"secretly, tolerating, faulty, processors, faults",1,1990
+13,"signature, device, heidelberg 1990, number, signatures",3,1990
+23,"interactive, 1990, perfect, probabilistic, zeroknowledge",13,1990
+24,"zeroknowledge, computational power, power, partly, zeroknowledge computational",9,1990
+26,"concrete complexity, languages np, languages, concrete, zeroknowledge languages",1,1990
+32,"chosen ciphertext, secure chosen, chosen, ciphertext, ciphertext attacks",2,1990
+33,"computer network, computer, authenticity, noteworthy, authenticity security",1,1990
+34,"witness, blobs, cryptographic assumption, witness indistinguishable, indistinguishable",2,1990
+38,"factors, known prover, extension protocol, protocol demonstrates, protocol demonstrate",1,1990
+40,"electronic cash, cash, untraceable, electronic, disposable",1,1990
+41,"zeroknowledge, composition zeroknowledge, blackbox simulation, composition, languages",3,1990
+44,"bit commitment, bit, commitment, existence, discrete",2,1990
+46,"identification, heidelberg 1990, 1990, problem, schemes",5,1990
+9,"processors, tolerating, compute, interfere, multiparty",1,1991
+13,"undeniable, signature, schemes, undeniable signatures, digital signature",4,1991
+16,"rights, users access, access rights, access, servers",1,1991
+23,"interactive, zeroknowledge, language, statistical, 1991",9,1991
+24,"protocols computationally, abstract available, zeroknowledge multiparty, multiparty protocols, convincing",2,1991
+26,"interactive systems, interactive, robust, achieving zeroknowledge, transformation",1,1991
+28,"publickey, implementation, model additional, model powerful, crpeau",1,1991
+32,"nonmalleable, cryptography, center, ciphertext, preliminary version",1,1991
+34,"proofsystem, nizk, noninteractive, tools, cryptographic applications",1,1991
+35,"mental, residue, cryptosystems, cards, method construct",1,1991
+38,"card, blobs, challenge response, cards, node authentication",2,1991
+41,"rounds, bits, perfect zeroknowledge, zeroknowledge, number rounds",6,1991
+44,"bit, oneway group, bit commitment, group actions, commitment schemes",1,1991
+46,"identification, 1991, problem, schemes, identification systems",3,1991
+47,"divertible zeroknowledge, divertible, graph, zeroknowledge considered, uses simple",1,1991
+-1,"n2, bounds, combinations, affine, suppose",1,1992
+8,"login, probabilistic, advantages, major advantages, second new",1,1992
+13,"signatures, california, document, mit, invariant",1,1992
+23,"onemessage, statistical, np, 1992, statistical zeroknowledge",4,1992
+24,"nizk, length, comment, abstract available, presents efficient",4,1992
+27,"cryptographic assumption, assumption, modified, cryptographic, logarithm assumption",1,1992
+32,"ciphertext attack, chosen ciphertext, noninteractive, chosen, ciphertext",1,1992
+34,"prover verifier, verifier, prover, concept, zeroknowledge",1,1992
+37,"unconditionally secure, unconditionally, efficient variants, undeniable, signature schemes",1,1992
+38,"smart cards, identification, cards, schemes, computer",1,1992
+41,"zeroknowledge, np, parallel, zeroknowledge arguments, arguments",5,1992
+-1,"unproven, zkip, blackbox simulation, exists, composite",1,1993
+8,"password, computer, authentication, solved, interactive protocol",4,1993
+9,"adversary, processors, traffic, messages, obtain information",2,1993
+13,"subliminal, signature, distributed verification, channel, transfer",1,1993
+23,"perfect, zeroknowledge interactive, perfect zeroknowledge, interactive, zeroknowledge",13,1993
+24,"information security, distributions, indistinguishability, special, output",4,1993
+26,"preprocessing, npstatement, noninteractive, perfect zeroknowledge, zeroknowledge noninteractive",1,1993
+27,"random, oracle, random oracle, paradigm, efficient standard",2,1993
+28,"zeroknowledge, corollaries, round, simulation, transformation",2,1993
+29,"algorithms, probabilistic, article discusses, randomization, ingredient",1,1993
+33,"key exchange, network, authenticity security, achieved combining, evolves",1,1993
+34,"permutations, trapdoor, 1993, trapdoor permutations, certification",2,1993
+41,"version zeroknowledge, discrepancy, parallel version, parallel, version",2,1993
+42,"sat, 4move, 5move, 111, complexity communication",1,1993
+46,"identification, divertibility, attack, 1993, bit commitment",3,1993
+47,"protocols schemes, formalizations, construction cryptographic, heidelberg 1993, gold",1,1993
+-1,"n2, bounds, combinations, affine, suppose",1,1994
+6,"exponentiation, functions, basic, security discrete, networks mobile",1,1994
+8,"conference, authentication, card, operating, ringbased",2,1994
+13,"signature, signatures, identitybased, combiner, identitybased signature",3,1994
+23,"perfect, language, szk, interactive, perfect zeroknowledge",7,1994
+24,"survey zeroknowledge, 1994, roundoptimal, zeroknowledge, survey",5,1994
+26,"lg, standard definition, om, zeroknowledge circuit, circuit",1,1994
+28,"hashing, naor ostrovsky, venkatesan, protocol large, protocol",2,1994
+34,"bits, committed bits, noninteractive, perfect, secret sharing",3,1994
+38,"factors, protocol demonstrates, known prover, composite number, computing discrete",1,1994
+40,"blum integers, integers, electronic cash, cash, blum",1,1994
+41,"auxiliaryinput, zeroknowledge, error, twoprover, systems",2,1994
+44,"induces, bit, bit commitment, bit commitments, language",1,1994
+46,"identification, schemes, identification schemes, interactive identification, problem",3,1994
+8,"communication systems, key exchange, personal, exchange, authentication",2,1995
+9,"oblivious, oblivious transfer, committed, bob, transfer",1,1995
+10,"microcontroller, modulus, bit, allows achieve, unusual",1,1995
+13,"undeniable signature, undeniable, signature, computer network, sub",3,1995
+23,"promise, perfect, bpp, problem, promised",6,1995
+24,"divertibility, interactive zeroknowledge, survey, preprocessing, randomness",3,1995
+27,"transformation, zeroknowledge respect, respect, statistical zeroknowledge, statistical",1,1995
+28,"publickey, zeroknowledge arguments, model, model powerful, model additional",1,1995
+40,"provably secure, provably, crescenzo, di crescenzo, 94",2,1995
+41,"oneround, twoprover, ol, probability, best previous",2,1995
+44,"commitment protocol, commitment, group, members, group protocol",1,1995
+46,"identification, 1995, problem, identification schemes, identifications",4,1995
+47,"sharing schemes, multiplicative, provers work, cryptography construct, number message",2,1995
+-1,"families, asymmetric, ip, equations, hidden",1,1996
+8,"demonstrated, authentication, probabilistic, authentication protocol, secure generic",2,1996
+23,"statistical, statistical zeroknowledge, languages, monotone, zeroknowledge",7,1996
+24,"sc, alert, research, preprocessing, computer science",2,1996
+25,"attributes, statistical, surveys, entities, survey",1,1996
+28,"soundness, perfect zeroknowledge, notion practical, cheating provers, assumption protocol",1,1996
+31,"image, graph, assert, digital signature, zkip",1,1996
+34,"agnostic, decision, permutations, trapdoor, 1996",2,1996
+41,"zeroknowledge, protocols, np, composition zeroknowledge, zeroknowledge protocols",3,1996
+44,"collisionfree, hashing, provablysecure, constant, computationally bounded",1,1996
+46,"identification, coding theory, coding, theory, errorcorrecting",1,1996
+47,"graph, graphs, perfect zeroknowledge, isomorphism, perfect",2,1996
+9,"functions, negligible, protocols, pseudorandom, computational assumption",3,1997
+13,"undeniable signatures, undeniable, signatures, rsa, signature",2,1997
+23,"szk, error, statistical, zeroknowledge, statistical zeroknowledge",7,1997
+24,"general zeroknowledge, zeroknowledge, protocols optimal, zeroknowledge encryption, introduced concept",2,1997
+26,"circuit, bits, prime, on2, 2n",1,1997
+34,"primitive, cryptographic primitive, perfect zeroknowledge, primitive provide, perfect",1,1997
+38,"identification, exponential, schemes discrete, calculations, identification schemes",1,1997
+41,"oneway function, achieve negligible, negligible error, oneway, negligible",1,1997
+46,"identification, identification schemes, schemes, impersonation, maninthemiddle",3,1997
+47,"complete zeroknowledge, graphs, zeroknowledge protocol, notion practical, complete",2,1997
+8,"password, 1998, key escrow, secrets, key",3,1998
+13,"signature, signatures, exchange, signature algorithms, fair",4,1998
+15,"checking, program, naturally extends, alike, adding zeroknowledge",1,1998
+23,"statistical, statistical zeroknowledge, difference, complexity, zeroknowledge",10,1998
+24,"interactive, zeroknowledge, prover, verifier, noninteractive",1,1998
+27,"divertibility, definition, examples, okamoto, elgamal encryption",1,1998
+32,"proxy, divertibility, atomic, okamoto, definition",1,1998
+34,"divertibility, primes, definition, prime, modulus",3,1998
+35,"interactive protocol, zeroknowledge interactive, interactive, problem, protocol",1,1998
+38,"secret key, exchange, key exchange, secret, identification",1,1998
+39,"primes, modulus, safe primes, approximating, safe",2,1998
+40,"cash, electronic cash, electronic, coin, untraceable",3,1998
+41,"concurrent, concurrent zeroknowledge, zeroknowledge, timing, elapsed",5,1998
+42,"definitions, prover, properties, definition, explore different",1,1998
+46,"identification, group identification, identification schemes, anonymous group, group",2,1998
+-1,"cryptology, dna, cryptography particular, heidelberg 1999, sections",1,1999
+7,"computational assumption, statistical, polynomial, statistical zeroknowledge, protocol times",1,1999
+8,"batching, cryptographic protocols, technique, related cryptographic, applications presents",1,1999
+9,"puzzle, recovery, shareholders, timelock, secret",2,1999
+13,"zeroknowledge possession, digital signatures, signatures, signature, breaking",2,1999
+15,"obfuscation, problems, apparently, study addresses, decommitment",1,1999
+20,"error probability, probability, error, log, iterations",1,1999
+23,"interactive, statistical, problems, noninteractive, zeroknowledge",6,1999
+24,"abstract available, zeroknowledge languages, divertible, abstract, available",1,1999
+27,"ensembles, correlation, intractable, plausibility, exist",1,1999
+28,"resettable, resettable zeroknowledge, concurrent, np, protocols",4,1999
+32,"escrow, nonmalleable noninteractive, nizk, nonmalleable, chosenciphertext",3,1999
+34,"indistinguishable, zkip, box, schemes, zeroknowledge interactive",1,1999
+35,"cards, protocol compute, boolean function, implement secure, multiparty protocol",2,1999
+37,"divertible, polynomial relations, facts, group signature, blind",1,1999
+38,"entity authentication, contents, authentication schemes, entity, cryptosystem",1,1999
+39,"primality, lattice, modified, protocols, improvement",3,1999
+40,"fingerprinting, buyers, illegally, digital data, item",1,1999
+41,"concurrent, concurrent zeroknowledge, zeroknowledge, constant round, protocols",4,1999
+44,"schemes zeroknowledge, commitment schemes, zeroknowledge protocols, heidelberg 1999, protocol theory",1,1999
+46,"identification, security interactive, especially terms, security practical, attacks adversary",1,1999
+47,"graph, sequence, problem perfect, graphs, clustering",2,1999
+4,"phi, bob, alice, quantum, state",1,2000
+7,"integer, escrow, tuning, factors, partial",1,2000
+8,"password, ed, le, idea, authentication",2,2000
+9,"code, players, exists, games, heidelberg 2000",4,2000
+13,"undeniable, signature, signatures, undeniable signatures, rsa",5,2000
+14,"pailliers, vote, elections, adapted, generalisation",2,2000
+18,"distribution, problem arises, content distribution, near future, solution practical",1,2000
+20,"transformation, complexity, black, computational complexity, interactive",2,2000
+23,"statistical, szk, distributions, statistical zeroknowledge, language",5,2000
+24,"nizkp, deterministic, zeroknowledge, statistical zeroknowledge, fundamental",3,2000
+27,"zap, zaps, 2round, random string, string",1,2000
+28,"concurrent, resettable, concurrent zeroknowledge, resettable zeroknowledge, protocols",3,2000
+31,"watermark, mark, watermarking, object, theft",1,2000
+32,"ciphertext, schemes, recoverability, employed, nonmalleable",2,2000
+33,"mobile, mechanism mobile, agent, mobile communication, secure authentication",1,2000
+34,"heidelberg 2000, sufficient, relations, perfect, 2000",3,2000
+38,"versatile, secret information, cards, protocol, digital signature",2,2000
+40,"digital cash, cash, coin, payment, digital",2,2000
+41,"concurrent zeroknowledge, concurrent, zeroknowledge, rounds, number rounds",3,2000
+46,"cryptographic problems, book, tools, solving, basic",1,2000
+48,"code, producer, safety, interactive, evolution",1,2000
+-1,"sigma protocol, sigma, protocol, nuclear, procurement",1,2001
+0,"auditable, payment, blind, general, auditability",1,2001
+8,"software, authentication, authentication access, zkip, secret",3,2001
+9,"mod, rsa, rsa encryption, modulo, crypto",4,2001
+13,"signature, forgery, factorisation, integrity, services",2,2001
+14,"voting schemes, election, voting, polynomial function, voters",2,2001
+15,"program, naturally extends, alike, theory, adding zeroknowledge",1,2001
+19,"accumulator, revocation, ecient, anonymous, ateniese",1,2001
+20,"refer, polynomialsize circuits, arguments, universal, cs",1,2001
+23,"st, diophantine, rst, tutorial, complexitytheoretic",3,2001
+24,"nizkp, deterministic, zeroknowledge, efficient variant, statement leaking",3,2001
+27,"oracle model, random oracle, computation security, noninteractive random, applying fiatshamir",1,2001
+28,"resettable, resettable zeroknowledge, soundness, model, zeroknowledge",5,2001
+29,"matchmaking, matched, collisions, choices, protocol",1,2001
+31,"watermark, detection, ownership, watermarking, goal",1,2001
+32,"minrank, encryption, hash, universal, chosen ciphertext",2,2001
+34,"nizk, common random, nonmalleable, definition, random string",1,2001
+37,"accumulator, membership, revocation, group, signature",2,2001
+38,"rsa public, rsa, keywords, key, validation",2,2001
+40,"electronic cash, cash, electronic, security proved, signature security",1,2001
+41,"concurrent, concurrent zeroknowledge, round complexity, rounds, round",5,2001
+44,"commitment, universally composable, universally, composable, schemes",2,2001
+46,"identification, book, cryptographic problems, problems, concepts",2,2001
+-1,"keys, nuclear, procurement, la, tor",1,2002
+1,"agent, consumer, agents, extensibility, architectures",1,2002
+4,"quantum, statistical zeroknowledge, statistical, honest verifier, honest",3,2002
+8,"authentication, password, protocols, key, identity verification",7,2002
+9,"verifier zeroknowledge, honest verifier, honest, shuffle, servers",3,2002
+13,"signature, undeniable signature, undeniable, digital signature, proxy",5,2002
+14,"voting, electronic voting, voters, electronic, evoting",6,2002
+19,"dynamic accumulator, accumulator, dynamic, value, dynamic accumulators",1,2002
+23,"statistical, complexity, languages, error, oneway functions",7,2002
+24,"subliminal channels, subliminal, channels, closing, regarding",3,2002
+28,"concurrent, omegalog, zeroknowledge, transformation, public coin",3,2002
+31,"watermark, image, watermarking, digital, detection",3,2002
+32,"encryption, key, encryption schemes, key generation, rsa key",4,2002
+35,"shuffling, card, mental, player, mixnet",1,2002
+37,"group, signatures, undeniable, undeniable signatures, group signatures",3,2002
+40,"ecash, cash, payment, coin, digital cash",4,2002
+41,"concurrent, blackbox, polynomialtime, zeroknowledge, constantround",6,2002
+44,"commitment, nonmalleable, commitments, trapdoor, commitment schemes",4,2002
+45,"market, buying, selling, definition, shares",1,2002
+46,"identification, broadcasting, identification protocols, stem, protocols",3,2002
+47,"3coloring, graph, problem, graphs, resettable",3,2002
+4,"quantum, state, perfect, statistical, perfect statistical",2,2003
+8,"password, corporate, authentication, companies, security",4,2003
+9,"exchange, parties, fair exchange, protocol prover, untrusted parties",3,2003
+13,"signature, threshold cryptography, dark, cryptography, digital signature",3,2003
+14,"voting, verifiability, electronic voting, voters, universal",3,2003
+23,"help, szk, public random, string, computable",3,2003
+24,"update, set, zeroknowledge sets, updated, relative",4,2003
+27,"deniable, ro model, property, definitions, ro",2,2003
+28,"concurrent, publickey, resettable, 3round, model",5,2003
+31,"watermark, watermarking, detection, 3coloring, image",8,2003
+32,"commutative, partially, nonmalleable, free, ciphertext",4,2003
+33,"adhoc networks, networks, adhoc, cryptographically secure, peertopeer",1,2003
+34,"gq, arithmetic, attacks, diophantine, inputs",2,2003
+37,"digital signature, signature, liu, chen, group",1,2003
+38,"identification, hash chains, multicast, secret, fiatshamir",2,2003
+39,"statistical zeroknowledge, statistical, zeroknowledge efficient, efficient provers, integers",2,2003
+40,"coin, coins, cash, advantage, digital cash",1,2003
+41,"zeroknowledge, reduction, simulation zeroknowledge, simulation, does exist",3,2003
+44,"commitment, commitments, nonmalleable, commitment schemes, schemes",4,2003
+45,"auction, highest, bid, price, root",1,2003
+46,"identification, problem, lowcost, identification schemes, smart cards",2,2003
+47,"graph, set, problems, independent, neighbor",1,2003
+2,"institution, institutions, patient, string, random string",1,2004
+4,"quantum, quantum attacks, classical, string, withstanding",1,2004
+8,"conference, email, key, servers, exchange",4,2004
+9,"functions, multiparty, protocol, majority, oneway",6,2004
+13,"signature, proxy, signatures, signer, digital signature",13,2004
+14,"voting, voters, electronic voting, electronic, voting protocol",3,2004
+20,"database, query, queries, answers, consistent",2,2004
+22,"rfid, consumer, related, lifecycle, potential",1,2004
+23,"onemessage, equals, class problems, unconditional, szk",2,2004
+24,"hash tree, zeroknowledge, et als, statistical zeroknowledge, als",7,2004
+25,"content, escrow, economic, limited time, prevent",1,2004
+26,"languages, nipzk, compositions, pzk, perfect zeroknowledge",1,2004
+27,"imperfect, publiccoin, sources, entropy, wi",2,2004
+28,"resettable, bare, concurrent, model, publickey",4,2004
+29,"mix, correctness privacy, correctness, network, efficiency compromising",1,2004
+31,"watermark, watermarking, detection, image, information",7,2004
+32,"encryption, encryption schemes, schemes, primes, random oracle",4,2004
+33,"mobile, agent, security problem, problem current, problem presented",1,2004
+34,"witness, noninteractive, immediate, signature, servers",2,2004
+37,"group, signature, group signature, membership, schemes",4,2004
+38,"elliptic, identification, elliptic curve, curve, protocol",8,2004
+40,"electronic, coin, bank, electronic cash, cash",1,2004
+41,"concurrent, concurrent zeroknowledge, problem, zeroknowledge, np",4,2004
+44,"statisticallyhiding, commitment, assumptions needed, verifiable secret, commitment schemes",3,2004
+46,"identification, hamming weight, hamming, low, weight",3,2004
+47,"graph, interactive zeroknowledge, interactive, theory, graphs",3,2004
+4,"quantum, oneway, oneway functions, quantum attacks, statistical",3,2005
+6,"safe primes, shared secret, primes, optimizations, safe",1,2005
+8,"key, authentication, protocol, new, private key",13,2005
+9,"mixnet, shuffling, shuffle, mixnets, elgamal",3,2005
+13,"signature, signatures, message, subliminal, protocols",11,2005
+14,"voting, vote, electronic voting, electronic, votes",5,2005
+15,"framework zeroknowledge, compiler, zeroknowledge protocols, framework, protocols",1,2005
+19,"federation, identity, access, certificates, user",2,2005
+20,"argument systems, argument, roundefficient, systems, np",1,2005
+23,"nizk, statistical, zeroknowledge, unconditional, public parameter",4,2005
+24,"zeroknowledge, nonzero, notion, notions, statement",5,2005
+25,"mobile, agents, agent, schemes springerverlag, systems known",1,2005
+28,"concurrent, protocols, bare, resettable, publickey",4,2005
+29,"distancebounding, wish, malicious, frauds, alice bob",2,2005
+31,"watermark, watermarking, detection, information, image",11,2005
+32,"encryption, cryptosystem, adversary, cryptography, zeroknowledge sets",5,2005
+33,"nodes, adhoc, networks, base, authentication",5,2005
+34,"nizk, ves, homomorphisms, np, np language",3,2005
+35,"mental, games, card, player, ttp",2,2005
+37,"group, signature, group signature, signatures, group signatures",7,2005
+38,"identification, elliptic, curve, protocol, elliptic curve",3,2005
+40,"ecash, offline, cash, coin, payment",6,2005
+41,"concurrent, expected polynomialtime, polynomialtime, expected, concurrent zeroknowledge",3,2005
+44,"commitments, mercurial, trapdoor, commitment, trapdoor commitments",9,2005
+46,"identification, problem, hardonaverage, real time, identification schemes",3,2005
+47,"problem, independent, set, graph, zeroknowledge independent",2,2005
+3,"identity theft, prevention, theft, aggregated, practical",1,2006
+4,"quantum, simulator, blackbox, classical, amplification",2,2006
+8,"authentication, rfid, protocol, grouporiented, keyexchange",6,2006
+9,"multiparty protocols, multiparty, protocols, strings, efficient",7,2006
+13,"signature, digital signature, signatures, digital, signer",15,2006
+14,"voting, electronic voting, electronic, elections, noninteractive publicly",4,2006
+15,"attestation, propertybased, configurations, binary, desired security",1,2006
+19,"release, credentials, framework, credential systems, anonymous",3,2006
+23,"statistical, statistical zeroknowledge, zeroknowledge, np, zk",9,2006
+24,"goldreich, background, concurrent zeroknowledge, concurrent, additional",5,2006
+27,"random, protocols, setup, vrf, oracle",6,2006
+28,"concurrent, argument, model, nonmalleable, setup assumptions",5,2006
+29,"ownership, granular, computation, secure multiparty, practical protocols",2,2006
+31,"watermark, watermarking, detection, image, detector",8,2006
+32,"encryption, semantically secure, semantically, group, groups",6,2006
+33,"ad hoc, hoc, nodes, ad, network",7,2006
+34,"nizk, string, problems, zaps, assumption",6,2006
+37,"group, signature, group signature, dynamic, schemes",5,2006
+38,"low cost, identitybased, cheap, identification, unknown order",2,2006
+39,"generalized, compact, knapsack, problem, 2002",1,2006
+40,"ecash, cash, elliptic curve, electronic cash, electronic",3,2006
+41,"concurrent, interval, committed, blackbox, blackbox zeroknowledge",5,2006
+43,"revocation, member, group, group signatures, group signature",1,2006
+44,"protocols, commitment, zks, oblivious, notion",4,2006
+45,"auctions, auction, correctness, bid, computation single",1,2006
+46,"zeroknowledge identity, matrices, identity verification, finite, method zeroknowledge",1,2006
+47,"batch processing, batch, processing, method preserves, generic method",1,2006
+49,"biometric, authentication, biometric authentication, biometric data, strong authentication",1,2006
+3,"identity, identifiers, individuals, digital, biometric",1,2007
+4,"quantum, classical, help, statistical, zeroknowledge",7,2007
+8,"authentication, key, password, trust, protocol",14,2007
+9,"covert, shuffle, hvzk, computation, integer",4,2007
+13,"signature, digital signature, digital, signatures, undeniable",21,2007
+14,"voting, voting protocol, internet, 2007 ieee, protocol",3,2007
+16,"por, files, file, storage, user verifier",1,2007
+19,"credential, anonymous credential, anonymous, users, make",1,2007
+20,"size, formula, communication complexity, boolean formula, zeroknowledge communication",1,2007
+23,"hiding, statistically hiding, zeroknowledge, em, sets",5,2007
+24,"nizkp, deterministic, noninteractive, zeroknowledge, efficient variant",3,2007
+27,"adaptive security, adaptive, static, security, zk",3,2007
+28,"concurrent, resettable, np, constantround, arguments np",6,2007
+29,"algorithms, malicious, operations, computation, arithmetic operations",3,2007
+31,"watermark, detection, detector, sensitivity, attacks zeroknowledge",3,2007
+32,"shuffle, zeroknowledge correctness, correctness shuffle, signcryption, threshold",2,2007
+33,"networks, node, nodes, network, authentication",6,2007
+34,"noninteractive, zaps, noninteractive zeroknowledge, groups, bilinear",4,2007
+35,"physical, puzzle, sudoku, cards, physical zeroknowledge",2,2007
+37,"signature, group, blind, group signature, signatures",7,2007
+38,"elliptic, differential, oneround, elliptic curve, curve",4,2007
+39,"cryptosystem, used public, stronger assumption, latticebased, assumption required",1,2007
+40,"ecash, cash, electronic, counts, payment",4,2007
+41,"precise, concurrent, zeroknowledge, concurrent zeroknowledge, np",8,2007
+43,"revocation, group, backward, group signature, signature",1,2007
+44,"commitments, trapdoor, commitment, trapdoor commitments, hashing",5,2007
+45,"price, pir, lists, database, auction",1,2007
+46,"ot, identification, 1outof2, approximate, problem",3,2007
+47,"graph, adhoc, node, membership, adhoc networks",2,2007
+49,"fingerprint, rates, neural network, protocol, neural",1,2007
+-1,"copies, host, pattern, strings, input verifier",1,2008
+0,"pvss, shares, schoenmakers, feature, dealer",1,2008
+2,"oriented, platform, patients, health, web",1,2008
+3,"identity, aggregate, identities, impersonating, aggregate zeroknowledge",1,2008
+4,"quantum, classical, cryptosystems, honest verifier, zeroknowledge",6,2008
+5,"mobile, code, methods protecting, chapter, securing",1,2008
+6,"quadratic, forms, problems, bit, nphardness",1,2008
+8,"authentication, password, mobile, key, p2p",9,2008
+9,"asynchronous, initialization, shuffle, parties, synchronous",7,2008
+13,"signature, proxy, undeniable signature, undeniable, message",5,2008
+14,"voting, machine, vote, online voting, channels",2,2008
+15,"zkpok, compiler, highlevel, protocol, currently",1,2008
+16,"verifiable secret, secret sharing, secret, proactive, publicly",1,2008
+19,"credentials, delegatable anonymous, delegatable, anonymous credentials, negotiation",2,2008
+20,"interactive, length, pcps, size, time",3,2008
+22,"rfid, tags, rfid tags, authentication, rf",2,2008
+23,"pzk, perfect, perfect zeroknowledge, probabilistic, zeroknowledge",8,2008
+24,"mathematical, theoretical computer, theory, complexity theory, computer science",3,2008
+25,"p2p, trust, p2p network, bayesian, world",3,2008
+27,"dolevyao, protocols, symbolic, security, cryptographic operations",6,2008
+28,"resettable, concurrent, bare, publickey, model",7,2008
+29,"data mining, mining, malicious, distributed data, computation",4,2008
+31,"watermarking, watermark, detection, embedding, party",4,2008
+32,"encryption, key, pkg, broadcast, chosen",3,2008
+33,"nodes, ad hoc, hoc, mobile, ad",3,2008
+34,"nizk, noninteractive, witness, existence, existence trapdoor",3,2008
+36,"chameleon, chameleon hash, hash, hash functions, functions",2,2008
+37,"group, signature, group signature, signatures, dynamic",10,2008
+38,"fractal, identification, elliptic, protocol, smart cards",5,2008
+39,"lattice, lattice problems, shortest, problems, shortest vector",1,2008
+40,"ecash, resource management, resource, cash, electronic",3,2008
+41,"concurrent, np, zeroknowledge, blackbox zeroknowledge, blackbox",6,2008
+42,"mixes, mix, forking, output, local",2,2008
+44,"commitment, commitments, nonmalleable, commitment schemes, mercurial",14,2008
+46,"identification, schemes, identification schemes, problem, privacy new",3,2008
+47,"graph, isomorphism, authentication schemes, graph isomorphism, double",4,2008
+49,"biometric, authentication, biometric authentication, biometric data, device",3,2008
+0,"patent, trading platform, trading, platform, transaction",1,2009
+4,"quantum, coinflipping, classical, blackbox, discuss",5,2009
+6,"blind, blind signatures, blind signature, signature, blinded",1,2009
+8,"key, authentication, protocol, zkpok, protocols",12,2009
+9,"protocol, protocols, computation, 2009, verifiable",10,2009
+13,"signature, signatures, rsa, 2009, undeniable",11,2009
+14,"vote, voting, electronic voting, electronic, validity",4,2009
+15,"zkpok, protocols zeroknowledge, implementation, cryptographic, static",2,2009
+19,"anonymous, identity, identity attributes, attributes, player",7,2009
+22,"receipts, mobile devices, mobile, devices, transaction",1,2009
+23,"multiprover zeroknowledge, multiprover, learning, nonmalleable, zeroknowledge",3,2009
+24,"zeroknowledge, elimination, witness, zeroknowledge witness, roots",10,2009
+26,"committed, matrix, sublinear size, sublinear, zeroknowledge argument",1,2009
+27,"vrfs, random, random oracle, protocols, oracle",5,2009
+28,"concurrent, resettable, argument, bare, zeroknowledge",12,2009
+29,"computation, malicious, tuple, databases, data mining",3,2009
+31,"watermark, marks, watermarking, ip, public verification",3,2009
+32,"uc, escrow, encryption, key, deniability",5,2009
+33,"network, nodes, adhoc, group key, mobile",6,2009
+34,"noninteractive, noninteractive zeroknowledge, grothsahai, groups, zeroknowledge arguments",8,2009
+37,"group, signature, signatures, trace, member",5,2009
+38,"gps, identification, elliptic, protocol, 2009",9,2009
+39,"lattice problems, lattice, problems known, factors, problems",1,2009
+40,"ecash, cash, proxy, electronic cash, buyer",4,2009
+41,"precise, reconstructed, view, zeroknowledge, concurrent",3,2009
+42,"cramer et, cramer, logic, zk verification, verification",2,2009
+44,"oneway, functions, commitment, nonmalleable, oneway functions",7,2009
+46,"identification, identification schemes, deniability, zeroknowledgeness, gps",4,2009
+47,"graph, graph isomorphism, isomorphism, graphs, radio",3,2009
+49,"biometric, biometric authentication, network traffic, network, computational complexity",1,2009
+0,"bank, accounts, purchases, account, tax",1,2010
+3,"web, usage, identity, existing, control",1,2010
+4,"quantum, classical, secure quantum, constructions new, quantum secure",3,2010
+6,"problem, multivariate, multivariate quadratic, signature, sterns",3,2010
+7,"polynomial, commitment, polynomial commitment, commitment schemes, schemes",1,2010
+8,"authentication, key, protocol, key exchange, password",16,2010
+9,"computation, adversary, secure, protocol, twoparty",8,2010
+13,"signature, blind signature, blind, signatures, signer",7,2010
+14,"voting, voters, evoting, vote, elections",5,2010
+15,"zkpok, compiler, automatic, language, zeroknowledge zkpok",4,2010
+16,"access privacy, access, oblivious ram, server, retention",1,2010
+19,"users, anonymous, sso, credentials, trust",5,2010
+20,"ppt, expected, randomized, reductions, oracle",3,2010
+21,"meters, smart, plugin, billing, backend",1,2010
+23,"entropy, degree polynomials, f2, distinguishes, case",2,2010
+24,"constantround zeroknowledge, existence constantround, constantround, zeroknowledge, existence",9,2010
+25,"trust, p2p, bayesian, publishsubscribe, reputation",3,2010
+26,"zeroknowledge circuit, circuit satisfiability, noninteractive zeroknowledge, satisfiability, noninteractive",1,2010
+27,"oracle, tokens, basing, unconditional, protocols",5,2010
+28,"concurrent, concurrent nonmalleable, round complexity, round, protocols",8,2010
+29,"data mining, mining, privacypreserving data, publishsubscribe, data items",2,2010
+31,"image, watermarking, watermark, statistical, permutation",2,2010
+32,"encryption, ccasecure, key, encryption schemes, schemes",9,2010
+33,"sensor, network, nodes, wireless, key",3,2010
+34,"groups, grothsahai, noninteractive zeroknowledge, noninteractive, ecient",4,2010
+35,"physical zeroknowledge, sudoku, physical, puzzle, 1990s",1,2010
+37,"group, signature, signatures, group signature, bilinear",5,2010
+38,"elliptic, elliptic curve, curve, zeroknowledge identity, daa",7,2010
+40,"ecash, piracy, software, payment, electronic",5,2010
+41,"concurrent, zeroknowledge, concurrent zeroknowledge, zeroknowledge protocols, honestverifier zeroknowledge",5,2010
+44,"commitment, nonmalleable, commitments, nonmalleability, oneway",6,2010
+45,"bid, server, auction, winning, auctions",1,2010
+46,"identification, problem, identification schemes, zeroknowledge identification, 2010",6,2010
+47,"protocol introduced, graphs, word, graph, leaves",1,2010
+48,"paradigm, simulation, simulator, definitions, indistinguishability",1,2010
+49,"biometric, identifiers, identity verification, empirical evaluation, image",1,2010
+-1,"theory applications, theory, arithmetic, applications, nuclear",1,2011
+0,"contract, chain, bilateral, contracts, supply chain",1,2011
+1,"trust, users, novel privacy, learning, privacy present",1,2011
+4,"quantum, classical, quantumsecure, fully simulatable, mixed",3,2011
+5,"privacy model, uc, gps, uc framework, universal composability",1,2011
+6,"mq, problem, publickey, supersingular, schemes",2,2011
+8,"key, authentication, protocol, group key, password",14,2011
+9,"computation, homomorphic, protocols, secure, malleability",6,2011
+13,"signature, signatures, signer, nontransferable, universally",7,2011
+14,"voting, evoting, ballot, vote, nizk protocol",6,2011
+15,"formal, theorem, logical, steps, interactive",1,2011
+16,"cloud, data, storage, por, bits",4,2011
+19,"attributes, anonymous, user, credential, service",8,2011
+20,"extractable, noninteractive succinct, construction, existence, succinct",1,2011
+21,"meters, microcontrollers, smart, billing, energy",2,2011
+22,"rfid, home, authentication, privacy issues, rfid systems",3,2011
+23,"zeroknowledge, complexity, computational, provers, statistical",9,2011
+24,"nizkp, zeroknowledge, deterministic, address question, efficient variant",7,2011
+25,"reputation, scores, tiered, aggregate, social",4,2011
+26,"zeroknowledge arguments, sublinear, linear algebraic, arguments linear, algebraic relations",1,2011
+27,"zap, protocols, ucsecure, specification, exists",2,2011
+28,"resettable, concurrent, zeroknowledge, protocols, nonmalleable",12,2011
+29,"social, shuffling, social networks, relations, dna",5,2011
+31,"watermark, marks, ip, detection, watermarking",3,2011
+32,"encryption, key encryption, selective opening, key, constructions",7,2011
+33,"sensor, nodes, networks, wireless, station",9,2011
+34,"noninteractive zeroknowledge, noninteractive, nizk, notion, zeroknowledge",9,2011
+37,"group, signature, group signature, signatures, abs",5,2011
+38,"elliptic, curve, identification, zkip, elliptic curve",5,2011
+39,"lattice, problems, lattices, latticebased, worstcase",2,2011
+42,"leakage, protocol execution, entire, leakageresilient, allowed",1,2011
+43,"group, group members, members, group signature, signing keys",1,2011
+44,"commitments, commitment, blackbox, selective opening, binding",5,2011
+45,"bidding, auction, strong anonymity, prices, anonymity",1,2011
+46,"identification, problem, zeroknowledge identification, new, identification schemes",6,2011
+47,"graph, npcomplete, zeroknowledge systems, theory, abstract zeroknowledge",1,2011
+49,"biometric, usable, fuzzy, health, security privacy",1,2011
+-1,"la, en, los, del, se",1,2012
+1,"profiling, forests, markov, gather, service providers",1,2012
+2,"patients, ehealth, medical, medical services, attributes",2,2012
+4,"quantum, problem, promise, trace, decide",4,2012
+5,"vehicular, formal, includes, formal analysis, node",2,2012
+7,"polynomials, mercurial, polynomial, commitments, committed",3,2012
+8,"authentication, password, key, protocol, authenticated",10,2012
+9,"computation, secure computation, protocols, secure, protocol",9,2012
+13,"signature, signatures, ring, directed, signer",13,2012
+14,"voting, ballot, elections, voters, servers",3,2012
+15,"easycrypt, compilers, tools, cryptographic, delivered",2,2012
+16,"cloud, storage, data, cloud storage, file",11,2012
+19,"credential, anonymous, credentials, identity, player",9,2012
+20,"np, snargs, pcps, succinct, arguments",8,2012
+21,"statistics, energy, grid, smart, faulttolerant",1,2012
+22,"devices, qr, mobile, mobile devices, services",1,2012
+23,"mu, learning parity, parity noise, parity, lpn",1,2012
+24,"multiple instances, batch, partial, attack, multiple",4,2012
+25,"profiles, reputation, social, documents, location",4,2012
+26,"zeroknowledge arguments, arguments, linear, linear algebraic, algebraic relations",3,2012
+27,"fiatshamir, random, random oracle, oracle, publiccoin",13,2012
+28,"resettable, concurrent, argument, constantround, simultaneously",9,2012
+29,"coefficients, similarity, malicious adversaries, protocol secure, 2012",1,2012
+32,"encryption, malleability, publickey encryption, types, publickey",6,2012
+33,"sensor, wireless, network, networks, nodes",11,2012
+34,"nizk, noninteractive, em, crs, algebraic",8,2012
+35,"problems, puzzle, use authentication, puzzles, efficiency schemes",1,2012
+37,"signature, group, structurepreserving, signatures, equations",6,2012
+38,"elliptic, identification, elliptic curve, protocols, electrical",8,2012
+39,"leakageresilient, lattice, amortized communication, gap, problem",3,2012
+40,"electronic cash, cash, doublespending, idbased, electronic",1,2012
+41,"constantround, zeroknowledge, concurrent, blackbox, 2message",7,2012
+44,"commitments, commitment, nonmalleable, captcha, oneway",11,2012
+45,"auction, auctions, values, bid, input values",3,2012
+46,"identification, visual, zeroknowledge identity, rfid, embedded systems",3,2012
+49,"biometric, biometric authentication, template, authentication, protocols basic",1,2012
+50,"online, randomized, codes, encodings, encoding",1,2012
+-1,"nfc, ntru, alert, google, mobile",2,2013
+0,"compiler, produces, query, cryptography security, computations private",1,2013
+4,"quantum, going, channel, operation, voting",4,2013
+5,"adhoc networks, vehicular, adhoc, experimental implementation, anonymous authentication",2,2013
+6,"undeniable signature, undeniable, signature, stern, codebased",1,2013
+8,"otp, authentication, web, password, key",9,2013
+9,"turing, computation, protocol, protocols, secure",15,2013
+10,"g2, trapdoor, bilinear, composite order, compositeorder",1,2013
+11,"smart cards, authentication protocols, main protocol, protocols smart, secure active",1,2013
+13,"signature, template, message, digital, signatures",6,2013
+14,"voting, evoting, everlasting, voters, homomorphic",2,2013
+15,"programs, program, von, running, bits security",3,2013
+16,"cloud, storage, data, cloud storage, integrity",14,2013
+19,"anonymous, credential, credentials, users, declarative",6,2013
+20,"program, np, succinct, randomaccess, arguments",3,2013
+21,"smart grid, grid, deploying, automation, certificates",1,2013
+22,"authentication, devices, iot, rfid, cloud",8,2013
+23,"statistical, argument, zeroknowledge, problem, probabilistic",5,2013
+24,"zeroknowledge, noninteractive, noninteractive zeroknowledge, tutorial, reviews",3,2013
+25,"reputation, users, attributes, reputation systems, posted",2,2013
+26,"wire, span, checker, programs, argument",1,2013
+27,"symbolic, auxiliary input, auxiliary, pseudorandom, functions",4,2013
+28,"concurrent, resettable, publiccoin, constantround, concurrent zeroknowledge",7,2013
+29,"malicious, malicious model, clustering, model, privacypreserving",7,2013
+31,"ip, fpga, marks, watermark, watermarking",2,2013
+32,"encryption, quasiadaptive, pake, ciphertext, verifiable encryption",12,2013
+33,"sensor, nodes, sensor nodes, wireless, network",4,2013
+34,"nizk, ot, grothsahai, batch zeroknowledge, batch",4,2013
+37,"signature, group, signatures, malleable, macs",5,2013
+38,"elliptic, elliptic curve, curve, elliptic curves, identification",10,2013
+39,"latticebased, lattice, isis, cryptographic constructions, security guarantees",2,2013
+40,"nfc, payment, mobile, infringement, ntru",3,2013
+41,"concurrent, zeroknowledge, player, constantround, np",4,2013
+42,"pinocchio, inputs, computation, nodes, classical zeroknowledge",2,2013
+44,"commitment, nonmalleability, commitments, commitment schemes, nonmalleable",4,2013
+45,"bid, auction, auctions, verifiability, homomorphic",3,2013
+46,"identification, zeroknowledge identification, identification protocols, identification protocol, identification schemes",4,2013
+47,"polynomial function, graph, zeroknowledge protocol, mathematics, root",1,2013
+49,"biometric, credentials, fuzzy, extractor, digital credential",1,2013
+50,"code equivalence, equivalence, code, fq, codebased cryptography",1,2013
+-1,"nuclear, nuclear warhead, warhead verification, communication technologies, warhead",3,2014
+0,"bitcoin, zerocoin, payments, coin, transaction",4,2014
+2,"healthcare, medical, ehealth, patients, attributes",1,2014
+3,"citizens, identity, attributes, abc, threats",1,2014
+4,"quantum, bit commitment, classical, bit, secure quantum",4,2014
+5,"vehicles, location, vehicle, active attacks, node",3,2014
+6,"signature, codebased, codes, rank, signatures",5,2014
+8,"password, authentication, key exchange, key, protocol",10,2014
+9,"computation, secure, blackbox, protocols, leakageresilient",12,2014
+13,"signature, signatures, signer, ring, number message",5,2014
+14,"voting, vote, voter, evoting, processes",3,2014
+15,"code, zkpk, existing zeroknowledge, applications, automatically",1,2014
+16,"cloud, data, storage, outsourced, integrity",14,2014
+19,"credential, credentials, attributes, anonymous, user",3,2014
+20,"rational, arguments, noninteractive, np, encoding",5,2014
+21,"usage, energy, electricity, customers, data parties",1,2014
+22,"devices, rfid, authentication, smartcards, mechanisms provide",4,2014
+23,"extraction, simulation extraction, sublinearcommunication, zkaok, simulation",3,2014
+24,"physical, noninteractive, zeroknowledge, physical zeroknowledge, match",6,2014
+25,"reputation, users, user, discovery, anonymous",4,2014
+26,"programs, arguments, span, 2014, size",3,2014
+27,"reference, random oracle, reference string, oracle, random",3,2014
+28,"concurrent, blackbox, arguments, stoc, resettable",6,2014
+29,"malicious, similarity, coefficients, malicious model, malicious adversaries",6,2014
+31,"watermarking, watermark, ambiguity, facing, detection",2,2014
+32,"encryption, membership, chen, wee, assumption",4,2014
+33,"network, node, nodes, wireless, mobile",6,2014
+34,"nizk, elements, list, noninteractive, group elements",7,2014
+37,"signatures, signature, group, batch, malleable",8,2014
+38,"elliptic, elliptic curve, curve, protocol, secret sharing",4,2014
+40,"ecash, spectrum, cognitive, radio, licensed",2,2014
+41,"zeroknowledge, protocols, concurrent, leakageresilient, zeroknowledge arguments",4,2014
+42,"flow, data flow, carrying, cuckoo, zksnarks",5,2014
+43,"group, latticebased, constructions known, latticebased constructions, group signatures",1,2014
+44,"nonmalleable, commitment, commitments, nonmalleability, continuous",8,2014
+45,"bid, sealed, auction, auctions, proposal",1,2014
+46,"identification, identification schemes, reset, attacks, schemes",2,2014
+47,"graph, topology, graphs, certification, camenischlysyanskaya",4,2014
+48,"strongly, existentially, simulationextractable, simulator, generated",1,2014
+49,"biometric, credentials, authentication, prevent unauthorized, credential",2,2014
+-1,"polynomial, correctly computed, computed, generalization, generalized",3,2015
+0,"dark, exchanges, provisions, customers, hawk",3,2015
+1,"dp, randomness, releasing, statistics, counting",1,2015
+3,"authentication method, method, cloud, analysis comparison, sersc",1,2015
+4,"quantum, protocol, separable, state, classical",7,2015
+5,"group key, vehicles, vehicle, road, group",5,2015
+6,"codebased, signature, identification, multivariate, postquantum",3,2015
+8,"password, authentication, protocol, key, web",18,2015
+9,"computation, physical, 2015, protocols, multiparty",8,2015
+11,"protocol smart, smart cards, efficient statistical, cards, zeroknowledge authentication",1,2015
+12,"bitcoin, voting, previous protocols, winning, fund",1,2015
+13,"signature, ring, signatures, signer, ring signatures",11,2015
+14,"voting, ballot, voters, electronic voting, election",9,2015
+15,"warhead, arms, arms control, reference, template",1,2015
+16,"cloud, data, storage, outsourced, service",9,2015
+19,"identity, set, users, service, providers",3,2015
+20,"sat, witness, instance, compression, polylog",3,2015
+22,"authentication, internet, internet things, things, rfid",3,2015
+23,"pcps, secretsharing, statistical, perfect, complexity",5,2015
+24,"mpc, look, application, algorithmic, informationtheoretic",3,2015
+25,"participants, personal data, users location, aggregate statistics, aggregate",2,2015
+26,"circuits, zkaok, double discrete, circuit, double",5,2015
+27,"transform, adaptive, fiatshamir, random, adaptively",7,2015
+28,"concurrent, simulation, publiccoin, simulation technique, goyal",9,2015
+29,"reconciliation, malicious, queries, computation, multiparty",7,2015
+32,"encryption, ciphertext, construction, decryption, message",12,2015
+33,"wireless, host, nodes, sensor, networks",6,2015
+34,"mathbb, algebraic, witness, grothsahai, ddh",6,2015
+35,"novel protocol, packing, protocol, security time, protocols vulnerable",1,2015
+37,"signature, signatures, group, structurepreserving, group signatures",7,2015
+38,"daa, protocols, grouping, attributes, protocols proving",3,2015
+39,"secretsharing, problem, secretsharing schemes, lattice, hard problem",3,2015
+41,"constantround, 3round, np, knowledgeofexponent assumption, protocols np",1,2015
+42,"prf, service, applications, public parameters, linear programming",7,2015
+43,"group, group signature, signature, latticebased, group signatures",2,2015
+44,"pedersen, commitments, pedersen commitments, commitment, longlived",1,2015
+46,"identification, matrix, identitybased identification, pairings, identification schemes",2,2015
+47,"graph, graphs, isomorphism, graph isomorphism, cluster",4,2015
+49,"biometric, implicit, zeroknowledge arguments, ddh assumption, ddh",1,2015
+50,"online, randomized, randomized encodings, codes, encodings",1,2015
+-1,"abstract, zeroknowledge easy, nuclear, crypto, zeroknowledge differential",3,2016
+0,"bitcoin, contracts, cryptocurrencies, smart contracts, smart",5,2016
+2,"access, authentication access, access control, control, ehealth",1,2016
+4,"quantum, complexity class, complexity, classical, complexity classes",5,2016
+5,"pufs, vehicles, knowing secret, techniques verify, cloned",1,2016
+6,"signature, symmetrickey primitives, postquantum, symmetrickey, schemes",2,2016
+7,"functional commitment, commitment, linear functions, commitments, polynomial",1,2016
+8,"authentication, password, key, protocol, client",10,2016
+9,"mpc, computation, protocol, covert, protocols",10,2016
+10,"aes, small field, main result, preprocessing, multiplication",1,2016
+13,"signatures, simple assumptions, signature, efficient protocols, protocols simple",2,2016
+14,"voting, verifiability, vote, voters, evoting",5,2016
+16,"cloud, data, storage, auditing, cloud storage",10,2016
+19,"credentials, credential, anonymous, certificates, identity",6,2016
+20,"iops, pcps, ips, query complexity, complexity",9,2016
+21,"energy, grid, smart grid, smart, power",4,2016
+22,"iot, home, authentication, devices, things",9,2016
+23,"szk, statistical, complexity, class, perfect",5,2016
+24,"zeroknowledge, verifier, prover, reviewed, zeroknowledge systems",8,2016
+25,"privacypreserving way, incentives, issued, accumulation, reputation",1,2016
+26,"circuit, argument, circuits, arithmetic, logarithmic",3,2016
+27,"protocols, fiatshamir, composability, set, fs",6,2016
+28,"concurrent, resettable, publickey, protocols, constantround",7,2016
+29,"answers, queries, malicious, malicious model, value",2,2016
+31,"watermark, watermarking, ip, image, detection",4,2016
+32,"encryption, ciphertext, nizk, ciphertexts, construction",13,2016
+33,"wireless, sensor, network, wireless sensor, nodes",5,2016
+34,"les, randomization, diverse, assumptions, corruption",6,2016
+35,"grid, respecting, physical, games, given",1,2016
+36,"cipher, hash, multiplicative, main component, symmetric cryptography",2,2016
+37,"signature, signatures, group, schemes, keyhomomorphic",5,2016
+38,"integer factorization, zeroknowledge technique, factorization, integer, algorithm given",2,2016
+39,"lattice, latticebased, lattices, policybased, packing",3,2016
+40,"cash, electronic cash, electronic, payment, commerce",2,2016
+41,"motion, xi, provers, slow, gr",1,2016
+42,"trusted hardware, sidechannel, applications, sgx, sidechannel attacks",1,2016
+43,"group, group signature, signature, members, group signatures",4,2016
+44,"commitments, uc, commitment, rsa assumption, integers",4,2016
+45,"auction, bid, semihonest model, semihonest, public verifiable",1,2016
+46,"identification, near, zeroknowledge identification, ring, identification schemes",4,2016
+47,"graph, interactive prover, graph isomorphism, isomorphism, claim",4,2016
+48,"snarks, oracles, extraction, definition, exist",1,2016
+49,"biometric, authorisation, biometric authentication, sets, biometric data",1,2016
+-1,"nuclear, phenomena, physical, monte, monte carlo",1,2017
+0,"public ledger, bitcoin, blockchain, ledger, trusted",11,2017
+3,"identity, identity management, management, users, proofing",2,2017
+4,"quantum, classical, state, problem, shuffle",7,2017
+5,"vehicles, messages, data transmission, transmission, real identities",1,2017
+6,"signature, postquantum, primitives, ring, signatures",9,2017
+8,"password, authentication, passwords, key, protocol",11,2017
+9,"ot, garbled, protocols, mpc, computation",14,2017
+12,"voting, transparent secure, offers, anonymity, electronic",1,2017
+13,"ring, signature, sap, ring signatures, ring signature",3,2017
+14,"voting, voters, electronic, electronic voting, election",8,2017
+15,"crs, subversion, positive, 2016, sound",1,2017
+16,"cloud, storage, deduplication, data, clients",5,2017
+17,"holistic, internet things, things, internet, management",1,2017
+19,"anonymous, credentials, anonymous credentials, attributes, delegatable",5,2017
+20,"hardness, nondeterministic, np, delegation, subexponential",2,2017
+21,"smart, electricity, grid, fault tolerance, users privacy",2,2017
+22,"iot, devices, home, authentication, internet",7,2017
+23,"statistical, verifier, time verifier, algebraic, interactive",5,2017
+24,"zeroknowledge, fuzzy, modelling, zeroknowledge membership, implementations",10,2017
+25,"users, location, social, location privacy, applications",2,2017
+26,"et al, al, et, circuit, argument",6,2017
+27,"witness hiding, witness, classic, protocols, plaintext space",3,2017
+28,"resettable, argument, concurrent, zeroknowledge argument, round",5,2017
+29,"yaos, data, statistics, aggregate statistics, bitcoin",3,2017
+31,"watermarking, watermark, document, infringement, sensitive information",2,2017
+32,"encryption, ciphertexts, locks, codes, updatable",8,2017
+33,"wireless, nodes, network, sensor, networks",6,2017
+34,"trapdoor, nizk, trapdoor permutations, permutations, noninteractive",5,2017
+37,"group, signature, equations, signatures, ggm",6,2017
+38,"elliptic, elliptic curves, pairing, curves, schnorr",3,2017
+39,"latticebased, factor, lattice, polynomial, small",8,2017
+40,"bitcoin, meaning, digital signatures, exchange digital, exchange",1,2017
+41,"augmented, blackbox, simulation, blackbox simulation, zeroknowledge",3,2017
+42,"bulletproofs, pinocchio, sql, vc, accumulator",8,2017
+43,"group, group signature, signature, latticebased, dynamic",2,2017
+44,"nonmalleable commitments, commitments, nonmalleable, subexponential, functions exist",3,2017
+45,"auction, strain, bid, auctions, cryptographically secure",2,2017
+46,"identification, user identification, zeroknowledge identification, problem, galois",4,2017
+48,"group elements, smallest size, simulationextractable, smallest, elements",1,2017
+49,"biometric, authentication solution, mobile phones, authentication, phones",1,2017
+-1,"nuclear, warhead, radiation, measurement, information",4,2018
+0,"transactions, blockchain, transaction, privacy, cryptocurrencies",29,2018
+1,"distributed secure, framework distributed, ml, framework, distributed",1,2018
+3,"claim, identity, selfsovereign, legally, solution",1,2018
+4,"quantum, statistical, prove, classical, statistical zeroknowledge",3,2018
+5,"vehicle, vehicles, group, units, firmware",4,2018
+6,"signature, picnic, postquantum, signatures, attack",7,2018
+7,"constant sized, batching techniques, sized, constant, techniques",1,2018
+8,"authentication, password, key, protocol, web",14,2018
+9,"protocol, mpc, ot, protocols, parties",12,2018
+12,"voting, blockchain, voting systems, voter, verifiable voting",2,2018
+13,"signature, signatures, ring, signing, signer",7,2018
+14,"voting, electronic voting, voters, online voting, election",5,2018
+15,"art, 100, memory, study various, set new",1,2018
+16,"cloud, data, storage, cloud storage, auditing",14,2018
+17,"iot, fog, devices, fog computing, internet things",5,2018
+19,"credentials, attributes, anonymous, credential, attributebased",6,2018
+20,"snargs, succinct, soundness, snarg, nondeterministic",5,2018
+21,"trading, power, mechanism protect, key technologies, data proposes",1,2018
+22,"rfid, authentication, devices, tags, iot",7,2018
+23,"twomessage, search, statistical, problems, zeroknowledge",6,2018
+24,"zeroknowledge, search, problems, mips, prover",11,2018
+25,"consumers, social, reputation, feedback, social media",4,2018
+26,"prover, time, program, arithmetic, vole",8,2018
+27,"fiatshamir, protocols, correlation, function, hash",7,2018
+28,"nonmalleable zeroknowledge, concurrent, nonmalleable, round, simulation",4,2018
+29,"accountability, court, computation, surveillance, csp",6,2018
+31,"watermark, detection, intellectual, watermarking, intellectual property",2,2018
+32,"pke, encryption, tampering, smooth, notion",6,2018
+33,"sensor, wireless sensor, wireless, sensor network, sensor networks",1,2018
+34,"nizk, multitheorem, assumptions, preprocessing, nizks",6,2018
+35,"sudoku, cards, physical, puzzle, physical zeroknowledge",2,2018
+36,"family, cipher, hash, bensasson, function",1,2018
+37,"abs, signatures, signature, group, schemes",7,2018
+38,"rlwe, elliptic, cryptographic protocol, protocol, curves",4,2018
+39,"latticebased, formula presented, formula, presented, lattice",6,2018
+40,"ecommerce, coin, electronic, payment, ecash",3,2018
+41,"zeroknowledge, multiprover, weak zeroknowledge, blackbox, np",3,2018
+42,"crs, zksnarks, computation, vc, hawk",3,2018
+43,"group, group signature, signature, latticebased, revocation",11,2018
+44,"commitments, uc, onemessage, commitment, nonmalleable",2,2018
+45,"auction, contract, smart contract, ethereum blockchain, auctions",2,2018
+46,"identification, kernel, zeroknowledge identification, problem, combinatorial",3,2018
+47,"pairingbased zeroknowledge, zeroknowledge graph, pairingbased, graph, information",1,2018
+48,"groth, groths, simulation, requires additional, consists group",1,2018
+50,"codes, fri, rs, proximity, complexity",1,2018
+-1,"alert, cyclotomic, satellite, number, surveillance",5,2019
+0,"blockchain, transaction, privacy, transactions, blockchains",48,2019
+1,"training, ml, assurances, learning, service",3,2019
+2,"medical, data, medical information, healthcare, information",5,2019
+3,"identity, blockchain, users, users identity, user",8,2019
+4,"quantum, classical, secure quantum, postquantum, zeroknowledge",19,2019
+5,"charging, vehicles, vehicular, vehicle, ad",10,2019
+6,"signature, postquantum, codebased, schemes, ring",19,2019
+7,"polynomial, commitment, polynomial commitment, range, polynomials",9,2019
+8,"password, authentication, protocol, key, mobile",12,2019
+9,"mpc, computation, formula presented, protocol, formula",11,2019
+10,"recursive composition, composition, recursive, curve25519, primeorder",2,2019
+12,"voting, evoting, voter, vote, electronic",3,2019
+13,"signature, undeniable, undeniable signature, signatures, message",4,2019
+14,"voting, voters, e2e, votes, vote",6,2019
+15,"gadgets, proving time, commitandprove, legosnark, proving",1,2019
+16,"cloud, data, integrity, storage, cloud storage",9,2019
+17,"iot, devices, iot devices, blockchain, internet things",6,2019
+18,"permissioned blockchain, permissioned, blockchain, permissionless blockchain, traceability",1,2019
+19,"user, anonymous, credential, identity, credentials",5,2019
+20,"iops, complexity, vdf, length, iop",3,2019
+21,"riskbased, security assessment, cyber attacks, ics, authentication authorization",1,2019
+22,"iot, authentication, devices, things, rfid",11,2019
+23,"problem, subgroup, statistical, round optimal, hidden",3,2019
+24,"observation, interaction, causal, reasoning, subjective",4,2019
+25,"reputation, sensing, user, mobile, crowdsourcing",9,2019
+26,"circuit, circuits, prover, succinct, arithmetic",9,2019
+27,"fiatshamir, transform, hash, soundness, protocols",10,2019
+28,"concurrent, publiccoin, resettable, argument, zk",5,2019
+29,"model, chinese remainder, computational model, secret, shareholders",1,2019
+30,"contents, artificial, educational, approved, world",1,2019
+31,"watermark, watermarking, ip, ips, detection",4,2019
+32,"encryption, pke, security, construction, ciphertext",12,2019
+33,"nodes, network, key exchange, identity authentication, key",2,2019
+34,"nizk, nizks, assumptions, assumption, groups",22,2019
+35,"physical, physical zeroknowledge, puzzle, cards, cells",3,2019
+36,"hash, chameleon hash, chameleon, hash function, hash functions",6,2019
+37,"group, signatures, signature, structurepreserving, agm",7,2019
+38,"elliptic, cryptographic protocol, protocol, curves, discrete logarithm",4,2019
+39,"latticebased, lattice, relations, latticebased zeroknowledge, soundness",10,2019
+40,"ecash, cash, electronic cash, tracing, electronic",4,2019
+41,"provers, advantage, simulators, weak, sound",1,2019
+42,"structured reference, updatable, srs, universal, structured",6,2019
+43,"group, revocation, member, latticebased, secretkey",3,2019
+44,"commitment, commitments, protocols, uc, nonmalleable",7,2019
+45,"auctions, integers, comparisons, sealed, auction",1,2019
+46,"identification, problem, satellite, formula, formula presented",4,2019
+47,"pairingbased zeroknowledge, zeroknowledge graph, efficiency improvement, graph, pairingbased",1,2019
+48,"zksnark, simulationextractable, simulation, soundness, subversion",9,2019
+49,"biometric, authentication, biometricbased, cloud computing, user",2,2019
+50,"codes, delta, distance, radius, proximity",1,2019
+-1,"logarithmicsize ring, nuclear warhead, composite residuosity, simulationsound nizk, warhead verification",3,2020
+0,"blockchain, transaction, privacy, transactions, data",69,2020
+1,"learning, federated, model, machine, accuracy",7,2020
+2,"medical, patients, healthcare, data, ehealth",11,2020
+3,"identity, users, digital, identity management, blockchain",11,2020
+4,"quantum, classical, postquantum, bit, zeroknowledge",17,2020
+5,"vehicles, vehicle, privacy, vehicular, service",12,2020
+6,"signature, picnic, postquantum, signatures, codebased",10,2020
+7,"commitment, polynomial, polynomial commitment, pcs, polynomials",14,2020
+8,"authentication, secret, password, key, protocol",14,2020
+9,"protocol, protocols, parties, computation, mpc",18,2020
+10,"curves, pairingfriendly elliptic, elliptic, elliptic curves, pairingfriendly",4,2020
+12,"voting, election, evoting, voting systems, electronic voting",6,2020
+13,"signature, signatures, ring, linkable ring, linkable",7,2020
+14,"voting, evoting, electronic voting, voters, electronic",12,2020
+15,"processor, programs, zk, compiler, zkpk",4,2020
+16,"cloud, data, cloud storage, storage, integrity",8,2020
+17,"iot, devices, data, iot devices, internet",10,2020
+18,"supply, supply chain, chain, traceability, supply chains",3,2020
+19,"distancebounding, anonymous, credentials, credential, users",7,2020
+20,"snarg, succinct, arguments, np, argument",11,2020
+21,"energy, trading, blockchain, grid, privacy",3,2020
+22,"devices, authentication, iot, communication, mobile",10,2020
+23,"perfect, zeroknowledge, szk, perfect zeroknowledge, statistical",5,2020
+24,"zeroknowledge, secrets, identifying, statement, revealing secrets",6,2020
+25,"location, users, reputation, incentive, privacypreserving",17,2020
+26,"arithmetic, circuit, circuits, arithmetic circuits, prover",24,2020
+27,"fiatshamir, sigma, hash, ci, soundness",14,2020
+28,"database, entry, formula presented, concurrent, formula",3,2020
+29,"malicious, malicious model, problem, secure, computation",4,2020
+32,"encryption, key, secure, box, cca",8,2020
+33,"networks, nodes, routing, wireless, sensor",2,2020
+34,"nizks, nizk, assumption, assumptions, groups",20,2020
+35,"physical, puzzle, cards, physical zeroknowledge, cells",9,2020
+36,"hash, hash functions, functions, collision, attack",3,2020
+37,"signature, signatures, labs, attributebased, attributebased signatures",2,2020
+38,"entity, discrete logarithm, logarithm, rho, discrete",4,2020
+39,"latticebased, latticebased zeroknowledge, relations, lattice, sizes",6,2020
+40,"wallet, data protection, loophole, financial, personal",1,2020
+41,"zeroknowledge, fully blackbox, blackbox zeroknowledge, blackbox, 2round",4,2020
+42,"oneoutofmany, contact, blockchain privacy, automated contact, relying standard",3,2020
+43,"group, group signature, revocation, signature, signing keys",7,2020
+44,"commitment, commitment schemes, commitments, statistically, schemes",4,2020
+46,"identification, sdp, zeroknowledge identification, identification schemes, problem",3,2020
+47,"graph, signature, connectivity, graphs, isolation",4,2020
+48,"simulation, updatable, snarks, se, zksnarks",10,2020
+49,"biometric, authentication, semihonest, template, devices",3,2020
+50,"codes, proximity, ag, iopp, code",1,2020
+-1,"tor, traffic, exit, abuse, highvolume",2,2021
+0,"blockchain, transaction, privacy, data, transactions",77,2021
+1,"learning, federated, federated learning, model, neural",23,2021
+2,"health, patients, medical, healthcare, data",8,2021
+3,"identity, selfsovereign, authentication, blockchain, selfsovereign identity",23,2021
+4,"quantum, classical, postquantum, zeroknowledge, blackbox",26,2021
+5,"vehicles, vehicular, vehicle, authentication, data",14,2021
+6,"signature, postquantum, signatures, ring, codebased",30,2021
+7,"commitment, polynomial, polynomial commitment, pcs, snarks",13,2021
+8,"authentication, password, key, protocol, algorithm",16,2021
+9,"mpc, protocols, parties, protocol, tracing",22,2021
+10,"curve, curves, elliptic, multiplication, elliptic curve",8,2021
+11,"quantum, password, consensus mechanism, consensus, lattices",3,2021
+12,"voting, evoting, electronic voting, election, electronic",8,2021
+13,"signature, signatures, ring, key, signer",10,2021
+14,"voting, electronic voting, vote, electronic, evoting",8,2021
+15,"programs, zk, program, compiler, circuits",16,2021
+16,"storage, cloud, data, file, cloud storage",6,2021
+17,"iot, devices, data, internet things, things",9,2021
+18,"supply, supply chain, chain, traceability, trade",4,2021
+19,"credential, anonymous, users, credentials, attributes",9,2021
+20,"snargs, snarg, arguments, size, pcp",10,2021
+21,"energy, trading, electricity, grid, power",9,2021
+22,"authentication, iot, devices, things, internet things",12,2021
+23,"randomness, complexity, derandomization, statistical, reductions",4,2021
+24,"zeroknowledge, thing, verifier, prover, output",4,2021
+25,"reputation, participants, anonymous, users, rating",12,2021
+26,"arithmetic, circuit, circuits, size, field",18,2021
+27,"protocols, fiatshamir, logarithm problem, discrete logarithm, logarithm",5,2021
+28,"batch verification, szk, batch, statistical zeroknowledge, communication complexity",1,2021
+29,"integer interval, malicious, interval, relationship, library",2,2021
+30,"education, answers, answer, agile, higher education",2,2021
+32,"encryption, schemes, plaintext, ciphertext, key",15,2021
+33,"mobile, handover, node, authentication, network",2,2021
+34,"nizk, nizks, np, assumptions, assumption",13,2021
+35,"cards, physical, puzzle, physical zeroknowledge, cardbased",10,2021
+36,"hash, hash function, ciphers, function, poseidon",8,2021
+37,"group, signature, signatures, group signature, gq",5,2021
+38,"blum, feige, threshold ecdsa, fiat, bandwidth",2,2021
+39,"latticebased, lattice, lattices, size, set",10,2021
+40,"spending, payment, essential security, offline, schnorrs",1,2021
+41,"delay functions, verifiable delay, delay, functions, recent times",1,2021
+42,"zksnarks, zeroknowledge, provers, computation, prover",20,2021
+43,"group, group signature, signature, revocation, group signatures",7,2021
+44,"commitment, commitment schemes, formalise, protocols, schemes protocols",2,2021
+45,"auction, bidding, bid, auctions, price",5,2021
+46,"identification, masked, identification schemes, heuristic, codebased",3,2021
+48,"updatable, snarks, srs, simulation, snark",5,2021
+49,"biometric, biometric verification, classifier, attackers, adversaries",3,2021
+0,"blockchain, transaction, privacy, transactions, data",102,2022
+1,"learning, model, federated, data, training",14,2022
+2,"data, medical, insurance, healthcare, patients",17,2022
+3,"identity, users, authentication, management, blockchain",19,2022
+4,"quantum, classical, postquantum, succinct, protocols",13,2022
+5,"vehicles, vehicle, authentication, vehicular, iov",20,2022
+6,"signature, signatures, postquantum, codebased, ring",18,2022
+7,"polynomial, commitment, polynomial commitment, commitments, vector",23,2022
+8,"authentication, satellite, password, key, protocol",10,2022
+9,"protocol, parties, mpc, computation, protocols",24,2022
+10,"curves, msm, elliptic, multiplication, curve",14,2022
+11,"postquantum, quantum, cloud, transaction efficiency, cloud computing",5,2022
+12,"voting, evoting, voters, voter, voting systems",12,2022
+13,"signature, signatures, ring, ecdsa, signing",10,2022
+14,"voting, evoting, voters, ballot, vote",10,2022
+15,"zk, programs, r1cs, circuit, circuits",14,2022
+16,"cloud, data, storage, integrity, data integrity",15,2022
+17,"iot, data, devices, blockchain, internet things",12,2022
+18,"traceability, chain, supply, data, blockchain",9,2022
+19,"credentials, credential, anonymous, users, anonymous credential",11,2022
+20,"succinct, iops, arguments, snargs, pcps",23,2022
+21,"energy, trading, grid, power, data",12,2022
+22,"iot, authentication, devices, internet, things",13,2022
+23,"improved communication, efficient modular, ofknowledge, relations, transformation",1,2022
+24,"mathematics, game, zeroknowledge, theory, assumptions compared",4,2022
+25,"reputation, spam, users, messaging, user",6,2022
+26,"circuit, size, range, prover, circuits",17,2022
+27,"protocols, fiatshamir, random, oracle, random oracle",14,2022
+28,"zeroknowledge, session, transformation, concurrent, interactive zeroknowledge",3,2022
+29,"malicious, malicious model, secure, semihonest, computing",9,2022
+30,"hyperledger indy, indy, academic, security features, credentials",2,2022
+31,"steganographic, watermark, provably impossible, rely standard, phase",1,2022
+32,"encryption, associated data, cryptographic, witness encryption, key",6,2022
+33,"congestion, sensor, nodes, networks, sensor nodes",2,2022
+34,"nizk, relations, des, nizks, noninteractive",16,2022
+35,"cardbased, cards, physical, puzzle, puzzles",10,2022
+36,"hash, poseidon, hash functions, hash function, functions",7,2022
+37,"signatures, signature, group, blind, epid",8,2022
+38,"sidh, elliptic, isogeny, elliptic curve, curve",5,2022
+39,"latticebased, lattice, arguments, problem, range",11,2022
+40,"ecash, ecommerce, payment, coin, method",2,2022
+42,"bp, prover, verifiers, zeroknowledge, state",22,2022
+43,"group, group signature, signature, latticebased, lattice",7,2022
+44,"nonmalleable, commitment, commitments, tampering, nonmalleable commitment",6,2022
+45,"auction, bid, auctions, price, bidding",6,2022
+46,"satellite, identification, satellite communication, leo, communication systems",4,2022
+47,"graph, distributed, prover, graphbased, theoretical computer",2,2022
+48,"updatable, crs, qanizk, snarks, snark",3,2022
+49,"biometric, identification, fingerprint, constants, noninteractive argument",1,2022
+50,"codes, proximity, iopp, reedsolomon, reedsolomon codes",1,2022
+-1,"unnecessary, understand, safely, people, want",1,2023
+0,"blockchain, transaction, transactions, data, privacy",133,2023
+1,"learning, federated, federated learning, model, training",41,2023
+2,"healthcare, medical, data, patients, health",20,2023
+3,"identity, users, authentication, digital, blockchain",34,2023
+4,"quantum, classical, postquantum, state, complexity",18,2023
+5,"vehicles, vehicle, vehicular, privacy, authentication",23,2023
+6,"signature, postquantum, signatures, ring, mpcith",23,2023
+7,"polynomial, commitment, polynomial commitment, multilinear, commitments",23,2023
+8,"authentication, password, protocol, authentication protocol, satellite",14,2023
+9,"protocol, mpc, computation, homomorphic, fhe",19,2023
+10,"msm, multiplication, ntt, curves, curve",20,2023
+11,"postquantum, quantum, vrf, wallets, randomness",7,2023
+12,"voting, evoting, electronic voting, blockchain, vote",13,2023
+13,"signature, signatures, ring, threshold, signer",12,2023
+14,"voting, voters, electronic voting, voter, electronic",12,2023
+15,"circuits, program, programs, zk, memory",27,2023
+16,"cloud, data, storage, cloud storage, integrity",10,2023
+17,"iot, authentication, devices, data, device",22,2023
+18,"supply, supply chain, chain, traceability, food",13,2023
+19,"credentials, anonymous, credential, users, attributes",15,2023
+20,"np, mathsfnp, arguments, snargs, snarg",12,2023
+21,"energy, trading, power, grid, electricity",10,2023
+22,"iot, authentication, devices, internet, things",15,2023
+23,"classes, statistical, promise, problem, subgroup",3,2023
+24,"zeroknowledge, additional information, information, having, step",5,2023
+25,"reputation, crowdsourcing, anonymous, workers, users",15,2023
+26,"circuit, arithmetic, circuits, prover, size",25,2023
+27,"protocols, fiatshamir, interactive, oracle, random",21,2023
+28,"reference strings, strings, formation, common reference, reference",2,2023
+29,"malicious, matching, malicious model, computation, semihonest",15,2023
+30,"education, educational, credentials, academic, higher education",7,2023
+31,"image, watermarking, watermark, image authentication, photo",2,2023
+32,"encryption, ciphertexts, functional, mixnets, list",10,2023
+33,"sensor, sensors, trust, increase trust, readings",1,2023
+34,"nizk, group, witness, agm, groups",16,2023
+35,"physical, puzzle, cells, cards, physical zeroknowledge",11,2023
+36,"hash, poseidon, hash functions, functions, function",14,2023
+37,"signatures, blind, signature, group, blind signatures",7,2023
+38,"elliptic, endomorphism ring, endomorphism, curve, elliptic curve",5,2023
+39,"latticebased, size, lattice, relations, ring",15,2023
+41,"streaming, zeroknowledge, planning, concurrent, selection",3,2023
+42,"zksnarks, prover, verifier, zksnark, verification",18,2023
+43,"group, group signature, signature, latticebased, symmetric primitives",3,2023
+44,"commitment, commitments, longterm security, statistically, statistically hiding",4,2023
+45,"auction, auctions, bid, bidding, price",6,2023
+46,"identification, rank, key size, identification protocol, lock",3,2023
+47,"graphs, connectivity, resources, graph, directed",1,2023
+48,"snarks, updatable, zksnarks, simulation extractability, simulation",10,2023
+49,"biometric, fingerprint, biometric authentication, source, biometric data",2,2023
+50,"codes, proximity, reedsolomon, code, reedsolomon codes",5,2023
+-1,"metaverse, measurements, folding, nuclear, chapter",3,2024
+0,"blockchain, data, privacy, transaction, transactions",186,2024
+1,"learning, federated, model, federated learning, training",103,2024
+2,"healthcare, medical, data, health, patient",34,2024
+3,"identity, authentication, blockchain, users, digital",52,2024
+4,"quantum, classical, postquantum, zeroknowledge, deletion",19,2024
+5,"vehicles, vehicle, authentication, iov, communication",31,2024
+6,"signature, signatures, postquantum, ring, schemes",29,2024
+7,"polynomial, commitment, polynomial commitment, prover, size",39,2024
+8,"authentication, key, password, protocol, security",18,2024
+9,"protocol, computation, parties, protocols, homomorphic",31,2024
+10,"msm, curves, multiplication, multiscalar, curve",38,2024
+11,"quantum, postquantum, security, authentication, cryptographic",15,2024
+12,"voting, evoting, electronic voting, electronic, voter",17,2024
+13,"signature, ring, signatures, ring signatures, threshold",13,2024
+14,"voting, ballot, voters, voter, evoting",11,2024
+15,"circuits, programs, zk, program, circuit",26,2024
+16,"cloud, data, storage, cloud storage, outsourced",21,2024
+17,"iot, data, devices, authentication, internet things",32,2024
+18,"supply, traceability, chain, supply chain, blockchain",12,2024
+19,"credentials, credential, anonymous, attributes, user",22,2024
+20,"snarg, succinct, snargs, np, arguments",17,2024
+21,"energy, trading, market, grid, p2p",9,2024
+22,"iot, devices, authentication, things, internet things",22,2024
+23,"statistical, np, statistical zeroknowledge, perfect, zeroknowledge",15,2024
+24,"onchain zeroknowledge, applications ranging, privacy 2024, secure communications, introduction zeroknowledge",5,2024
+25,"reputation, la, crowdsourcing, workers, des",15,2024
+26,"circuit, circuits, arithmetic, prover, size",37,2024
+27,"transform, protocols, fiatshamir, special soundness, security",15,2024
+28,"resettable, key model, model, simultaneously, round complexity",4,2024
+29,"malicious, intersection, malicious model, computation, data",14,2024
+30,"educational, academic, education, credential, students",13,2024
+31,"watermark, image, images, watermarking, embedding",2,2024
+32,"encryption, key, witness encryption, ciphertext, sidh",5,2024
+33,"nodes, transmission, network, node, identification data",3,2024
+34,"nizk, witness, amplify, assuming, arguments",8,2024
+35,"puzzle, physical, puzzles, cards, cardbased",9,2024
+36,"hash, functions, hash functions, poseidon, hash function",12,2024
+37,"abs, signature, group, signatures, group signature",4,2024
+38,"elliptic, elliptic curves, curves, modular, protocol",5,2024
+39,"latticebased, lattice, folding, relations, size",16,2024
+40,"payment, ecash, ad, assets, doublespending",4,2024
+41,"tau, formulae, clauses, cnf, zeroknowledge",2,2024
+42,"prover, zksnarks, zksnark, snark, applications",42,2024
+43,"group, group signature, signature, accumulator, latticebased",4,2024
+44,"commitments, mercurial, openings, commitment, set",2,2024
+45,"auction, auctions, bid, sealed, winning",11,2024
+46,"subgroup, distance, ensure robust, pseudorandom number, problem study",1,2024
+47,"graph, 3coloring, problem, protocols privacy, analysis computational",1,2024
+48,"plonk, snarks, snark, extractability, zksnarks",9,2024
+49,"biometric, authentication, fingerprint, biometric authentication, biometricbased",9,2024
+50,"codes, proximity, reedsolomon, reedsolomon codes, fri",5,2024
+-1,"reads, medical, consensus, authentication, key exchange",4,2025
+0,"blockchain, transaction, privacy, transactions, data",267,2025
+1,"learning, federated, federated learning, model, ai",227,2025
+2,"healthcare, data, health, medical, patient",86,2025
+3,"identity, authentication, management, digital, identity management",93,2025
+4,"quantum, classical, postquantum, zeroknowledge, protocol",34,2025
+5,"vehicles, vehicle, authentication, vehicular, privacy",48,2025
+6,"signature, postquantum, signatures, ring, schemes",52,2025
+7,"polynomial, commitment, polynomial commitment, pcs, prover",61,2025
+8,"authentication, key, protocol, password, security",19,2025
+9,"fhe, computation, homomorphic, parties, protocols",32,2025
+10,"msm, multiplication, ntt, accelerator, gpu",35,2025
+11,"quantum, postquantum, security, quantumresistant, framework",78,2025
+12,"voting, evoting, voter, vote, election",59,2025
+13,"signature, signatures, ring, ring signatures, ring signature",19,2025
+14,"voting, vote, evoting, voters, voter",20,2025
+15,"programs, zk, circuits, program, bugs",48,2025
+16,"cloud, data, storage, cloud storage, integrity",33,2025
+17,"iot, devices, authentication, data, things",61,2025
+18,"supply, chain, supply chain, traceability, blockchain",53,2025
+19,"credentials, anonymous, credential, identity, attributes",40,2025
+20,"snargs, np, succinct, arguments, assumptions",18,2025
+21,"energy, trading, power, grid, data",27,2025
+22,"authentication, iot, devices, things, internet",19,2025
+23,"error, perfect, zeroknowledge, oneway, randomized",6,2025
+24,"training, zeroknowledge, criminal, prove, model",9,2025
+25,"reputation, location, privacy, workers, crowdsourcing",21,2025
+26,"prover, circuits, circuit, arithmetic, size",33,2025
+27,"fiatshamir, oracle, random oracle, random, transformation",16,2025
+28,"autonomous, mathematical, theoretical, zeroknowledge, keyless",4,2025
+29,"computation, malicious, intersection, fhe, data",21,2025
+30,"academic, credential, verification, education, credentials",31,2025
+31,"watermark, watermarking, image, detection, content",10,2025
+32,"encryption, ciphertext, threshold, key, witness encryption",14,2025
+33,"signaling, authentication, integrated, network, key",2,2025
+34,"nizk, combiner, witness, nizks, noninteractive",11,2025
+35,"cardbased, puzzle, physical, cards, sudoku",8,2025
+36,"hash, hash functions, functions, zkfriendly, poseidon",19,2025
+37,"signatures, signature, group, schnorr, keys",6,2025
+38,"elliptic, elliptic curve, curve, blind, ecdsa",5,2025
+39,"latticebased, lattice, relations, isomorphism, problem",16,2025
+40,"payment, offline, electronic, transactions, ecash",2,2025
+41,"streaming, zeroknowledge, simulation, considered, protocols",1,2025
+42,"zksnarks, verifiable, prover, zksnark, verification",61,2025
+43,"group, group signature, signature, latticebased, group signatures",6,2025
+44,"commitments, commitment, toolbox, mechanism, commit",3,2025
+45,"auction, auctions, bid, multiobjective, trade",5,2025
+46,"matrix, identification, information systems, verification information, identification protocol",2,2025
+47,"graph, graphs, edges, zeroknowledge graph, connectivity",6,2025
+48,"srs, simulation, snarks, simulation extractability, extractability",7,2025
+49,"biometric, authentication, biometric data, biometric authentication, fingerprint",11,2025
+50,"codes, proximity, reedsolomon, reedsolomon codes, rs",10,2025
+-1,"procurement, isogeny, curves, public, adapter",11,2026
+0,"blockchain, transaction, privacy, transactions, data",204,2026
+1,"learning, federated, model, federated learning, training",256,2026
+2,"healthcare, data, health, medical, access",72,2026
+3,"identity, decentralized, authentication, digital, privacy",81,2026
+4,"quantum, classical, postquantum, qrom, arguments",28,2026
+5,"vehicles, vehicle, authentication, vehicular, iov",52,2026
+6,"signature, postquantum, signatures, schemes, ring",57,2026
+7,"polynomial, commitment, polynomial commitment, pcs, prover",66,2026
+8,"authentication, key, password, security, protocol",23,2026
+9,"mpc, protocol, threshold, computation, parties",34,2026
+10,"msm, multiplication, ntt, gpu, hardware",54,2026
+11,"quantum, postquantum, framework, security, quantumresistant",66,2026
+12,"voting, voter, evoting, vote, electronic voting",36,2026
+13,"signature, signatures, ring, signer, ring signatures",11,2026
+14,"voting, ballot, voters, election, vote",13,2026
+15,"circuits, constraint, constraints, programs, zk",38,2026
+16,"cloud, data, storage, cloud storage, integrity",23,2026
+17,"iot, devices, authentication, access, data",41,2026
+18,"supply, chain, supply chain, traceability, data",51,2026
+19,"credentials, credential, anonymous, anonymous credentials, identity",54,2026
+20,"snargs, np, succinct, arguments, soundness",23,2026
+21,"energy, trading, power, grid, consensus",18,2026
+22,"authentication, iot, devices, things, internet things",18,2026
+23,"statistical, zeroknowledge, statistical zeroknowledge, pcps, interactive",17,2026
+24,"vulnerability, penetration, zeroknowledge, focs, method",10,2026
+25,"reputation, crowdsourcing, privacypreserving, anonymous, location",23,2026
+26,"circuit, prover, verifier, circuits, arithmetic",23,2026
+27,"fiatshamir, random, transformation, protocols, oracle",18,2026
+28,"resettable, threeround, resetting, zeroknowledge, accumulation",4,2026
+29,"malicious, data, aggregation, similarity, secure aggregation",10,2026
+30,"academic, verification, credential, education, credentials",34,2026
+31,"image, watermark, watermarking, images, compression",8,2026
+32,"encryption, tight security, ciphertext, tight, reencryption",4,2026
+33,"node, nodes, network, wireless, sensor",2,2026
+34,"nizk, zk, witness, np, agm",11,2026
+35,"cardbased, puzzle, grid, puzzles, physical",4,2026
+36,"hash, hash functions, poseidon, functions, hash function",24,2026
+37,"group, signature, signatures, blind, group signature",18,2026
+39,"latticebased, lattice, relations, zeroknowledge, folding",19,2026
+40,"payment, offline, payments, ecash, cash",6,2026
+41,"networks, timesensitive, timing, flows, generation time",1,2026
+42,"verification, zksnarks, zeroknowledge, prover, verifiable",57,2026
+43,"group, signature, revocation, group signature, lattice",6,2026
+44,"commitments, commitment, timed, sqisign, nonmalleable",7,2026
+45,"auction, bid, auctions, onchain, bidding",7,2026
+46,"matrix, shared secret, cryptosystem, permutations, bruteforce",1,2026
+47,"graph, isomorphism, graph isomorphism, graphs, problem",6,2026
+48,"zksnarks, simulation extractability, simulation, rom, extractability",11,2026
+49,"biometric, authentication, biometric authentication, fingerprint, template",12,2026
+50,"codes, proximity, reedsolomon, distance, code",25,2026

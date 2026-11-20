@@ -1,0 +1,52 @@
+topic,label,label_short
+0,Blockchain transaction privacy,Blockchain transaction privacy
+1,ZK for federated / machine learning,ZK for federated / machine learning
+2,Healthcare data sharing and e-health security,Healthcare data and e-health security
+3,Blockchain-based digital identity,Blockchain-based digital identity
+4,Quantum ZK and post-quantum security of proofs,Quantum ZK and PQ security of proofs
+5,Vehicular network (IoV/VANET) privacy and authentication,IoV/VANET privacy and authentication
+6,"Post-quantum signatures from ZK (MPC-in-the-head, code-based)",Post-quantum signatures from ZK
+7,Polynomial commitments,Polynomial commitments
+8,Password and key authentication,Password and key authentication
+9,ZK and secure multi-party computation,ZK and secure multi-party computation
+10,"Hardware/GPU acceleration of ZK provers (MSM, NTT)",Hardware acceleration of ZK provers
+11,Quantum-resistant frameworks (applied),Quantum-resistant frameworks (applied)
+12,Blockchain-based e-voting systems,Blockchain-based e-voting systems
+13,"Ring, undeniable and traceable signatures","Ring, undeniable, traceable signatures"
+14,"Cryptographic e-voting protocols (verifiability, coercion resistance)",Cryptographic e-voting protocols
+15,"ZK programming: languages, compilers and circuit correctness","ZK languages, compilers, correctness"
+16,Cloud storage verification,Cloud storage verification
+17,Blockchain-based IoT identity and access control,Blockchain IoT identity and access
+18,Supply-chain traceability,Supply-chain traceability
+19,Anonymous and attribute-based credentials,Anonymous/attribute-based credentials
+20,"Succinct arguments and proof-system theory (SNARGs, PCPs, IOPs)",SNARGs and proof-system theory
+21,Energy trading and smart grid,Energy trading and smart grid
+22,Lightweight IoT/RFID authentication protocols,Lightweight IoT/RFID authentication
+23,Statistical and perfect ZK (theory),Statistical and perfect ZK (theory)
+24,General and miscellaneous ZK,General and miscellaneous ZK
+25,"Reputation, crowdsensing and location privacy","Reputation, crowdsensing, location"
+26,Efficient arguments for arithmetic circuits,Efficient arguments for arithmetic circuits
+27,Fiat–Shamir and random-oracle proofs,Fiat–Shamir and random-oracle proofs
+28,Concurrent and resettable ZK in public-key models,Concurrent and resettable ZK
+29,Maliciously secure computation,Maliciously secure computation
+30,Academic credential verification,Academic credential verification
+31,Watermarking and media authenticity,Watermarking and media authenticity
+32,Encryption schemes with ZK,Encryption schemes with ZK
+33,Wireless sensor and ad-hoc network authentication,Wireless sensor/ad-hoc authentication
+34,NIZKs from standard assumptions,NIZKs from standard assumptions
+35,Physical and card-based ZK,Physical and card-based ZK
+36,ZK-friendly hash functions,ZK-friendly hash functions
+37,Group and other advanced signatures,Group and other advanced signatures
+38,DL/EC-based identification schemes,DL/EC-based identification schemes
+39,Lattice-based proofs,Lattice-based proofs
+40,E-cash and payments,E-cash and payments
+41,"ZK round complexity, simulation and composition",ZK round complexity and composition
+42,zkSNARK delegation and verifiable computation,zkSNARK delegation and verifiable computation
+43,Lattice-based group signatures,Lattice-based group signatures
+44,Commitment schemes,Commitment schemes
+45,Sealed-bid auctions,Sealed-bid auctions
+46,Identification schemes from combinatorial problems,Combinatorial identification schemes
+47,Graph-based ZK (isomorphism and graph properties),Graph-based ZK
+48,SNARK simulation-extractability and updatability,SNARK simulation-extractability and updatability
+49,Biometric authentication,Biometric authentication
+50,Reed–Solomon proximity and FRI,Reed–Solomon proximity and FRI

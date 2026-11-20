@@ -1,0 +1,62 @@
+{
+  "first_round": {
+    "main": {
+      "sampled": 400,
+      "labelled": 400,
+      "false_exclusions": 1,
+      "rate": 0.0025,
+      "upper95_one_sided": 0.0118
+    },
+    "extra_majority": {
+      "sampled": 100,
+      "labelled": 100,
+      "false_exclusions": 2,
+      "rate": 0.02,
+      "upper95_one_sided": 0.0616
+    },
+    "criterion4_met": true
+  },
+  "adjudicated": {
+    "main": {
+      "sampled": 400,
+      "labelled": 400,
+      "false_exclusions": 3,
+      "rate": 0.0075,
+      "upper95_one_sided": 0.019269229283
+    },
+    "extra_majority": {
+      "sampled": 100,
+      "labelled": 100,
+      "false_exclusions": 4,
+      "rate": 0.04,
+      "upper95_one_sided": 0.089196250159
+    },
+    "criterion4_met": true
+  },
+  "reinstated_after_repeat_labelling": {
+    "main": [
+      "ZK1AF8318E99",
+      "ZK463A901452"
+    ],
+    "extra_majority": [
+      "ZK3F8FA31AAE",
+      "ZK8BA055A4BD"
+    ]
+  },
+  "adjudication": {
+    "disagreements": 11,
+    "by_source": {
+      "audit": 5,
+      "human": 6
+    },
+    "final": {
+      "audit:E": 1,
+      "audit:I": 4,
+      "human:I": 6
+    },
+    "audit_items_by_stratum": {
+      "extra_majority": 3,
+      "main": 2
+    }
+  }
+}

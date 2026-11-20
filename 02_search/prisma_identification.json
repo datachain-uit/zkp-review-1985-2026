@@ -1,0 +1,123 @@
+{
+  "per_source": {
+    "scopus": {
+      "files": [
+        "scopus_p1.csv",
+        "scopus_p2.csv",
+        "scopus_p3_rev1.csv"
+      ],
+      "rows_raw": 9987,
+      "unique_in_source": 9987,
+      "after_concept_and_year_filter": 9986
+    },
+    "wos": {
+      "files": [],
+      "rows_raw": 0,
+      "unique_in_source": 0,
+      "after_concept_and_year_filter": 0
+    },
+    "openalex": {
+      "files": [
+        "openalex.jsonl"
+      ],
+      "rows_raw": 39276,
+      "unique_in_source": 17227,
+      "after_concept_and_year_filter": 16272
+    },
+    "dblp": {
+      "files": [
+        "dblp.jsonl"
+      ],
+      "rows_raw": 0,
+      "unique_in_source": 0,
+      "after_concept_and_year_filter": 0
+    },
+    "eprint": {
+      "files": [
+        "eprint.jsonl"
+      ],
+      "rows_raw": 27550,
+      "unique_in_source": 27550,
+      "after_concept_and_year_filter": 2836
+    },
+    "arxiv": {
+      "files": [
+        "arxiv.jsonl"
+      ],
+      "rows_raw": 2499,
+      "unique_in_source": 1174,
+      "after_concept_and_year_filter": 1093
+    }
+  },
+  "records_identified_databases": 55938,
+  "records_identified_other_sources": 3,
+  "removed_before_screening": {
+    "not_matching_concept_or_years (mostly full ePrint harvest)": 25751,
+    "duplicate_records": 11804,
+    "of_which_near_duplicate_merges": 90,
+    "ineligible_by_metadata_automation": {
+      "AUTO-EC3 non-report record type (dataset, software, editorial, erratum, proceedings front matter, retracted, ...)": 937,
+      "AUTO-SCOPE deposit on a general-purpose repository only (Zenodo, SSRN, Figshare, Research Square, HAL, ...)": 1288
+    }
+  },
+  "records_screened_title_abstract": 16161,
+  "records_flagged_non_english_metadata": 672,
+  "records_without_abstract": 772,
+  "by_year_first": {
+    "1985": 6,
+    "1986": 10,
+    "1987": 27,
+    "1988": 29,
+    "1989": 24,
+    "1990": 73,
+    "1991": 56,
+    "1992": 43,
+    "1993": 62,
+    "1994": 53,
+    "1995": 47,
+    "1996": 59,
+    "1997": 57,
+    "1998": 81,
+    "1999": 84,
+    "2000": 82,
+    "2001": 89,
+    "2002": 134,
+    "2003": 139,
+    "2004": 174,
+    "2005": 228,
+    "2006": 213,
+    "2007": 223,
+    "2008": 255,
+    "2009": 281,
+    "2010": 273,
+    "2011": 293,
+    "2012": 342,
+    "2013": 345,
+    "2014": 335,
+    "2015": 353,
+    "2016": 363,
+    "2017": 372,
+    "2018": 431,
+    "2019": 583,
+    "2020": 679,
+    "2021": 794,
+    "2022": 862,
+    "2023": 1141,
+    "2024": 1547,
+    "2025": 2501,
+    "2026": 2418
+  },
+  "preprint_only": 1638,
+  "gold_recall": {
+    "found_by_search": 72,
+    "total": 75,
+    "recall": 0.96,
+    "missed_by_search": [
+      "G04 How to prove yourself: practical solutions to identification and signature problems",
+      "G06 Computationally sound proofs",
+      "G07 Efficient identification and signatures for smart cards"
+    ],
+    "missing_from_corpus": [],
+    "auto_excluded_and_not_in_corpus": []
+  }
+}

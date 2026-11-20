@@ -1,0 +1,11 @@
+rid,tier2,q_venue,q_impact,q_seminal,core_rank,core_match,ccf,sjr_q1,sjr_best_cs_math,sjr_title,citations,cohort_top10_threshold,cited_by_secondary,gold,is_secondary,year_first,year_published,is_preprint_only,venue,conference_name,title
+ZK17BCCE9C14,0,0,0,0,,,,0,,,3,74,0,0,0,1995,1995,0,Lecture notes in computer science,,Multifeature security through homomorphic encryption
+ZKCF03634858,0,0,0,0,,,,0,,,6,119,0,0,0,2010,2010,0,Procedia Computer Science,,A protocol for verification of an auction without revealing bid values
+ZK3F8FA31AAE,1,1,0,0,A,International Conference on the Theory and Application of Cryptology and Information Security [2020],,0,,,36,59,0,0,0,2020,2020,0,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),"26th International Conference on the Theory and Application of Cryptology and Information Security, ASIACRYPT 2020",KVaC: Key-Value Commitments for Blockchains and Beyond
+ZK463A901452,0,0,0,0,,,,0,,,0,44,0,0,0,2021,2021,0,Sovremennaya nauka i innovatsii,,DEVELOPMENT OF A METHOD FOR CONSTRUCTING A MODULAR COMPOSITE CODE FOR A NOISE-PROOF SATELLITE AUTHENTICATION SYSTEM
+ZK1AF8318E99,0,0,0,0,,,,0,,,0,44,0,0,0,2021,2021,0,,,Protecting Cloud Information for Government Oversight Audits Using a Zero-Knowledge Protocol
+ZK91D7CD5313,0,0,0,0,,,,0,,,0,26,0,0,0,2023,2023,0,Journal of Surveillance Security and Safety,,Zero knowledge registration of PKI authentication for symbiotic security in FIDO IoT
+ZKD4CD932B22,0,0,0,0,,,,0,,,4,15,0,0,0,2024,2024,0,Financial innovation and technology,,Privacy-Enhancing Technologies
+ZK67A2E12F5F,0,0,0,0,,,,0,,,0,,0,0,0,2026,2026,0,Figshare,,3PaaS: Privacy-Preserving Post-Compromise Security as a Service (ZKP)
+ZKF5E6BF947F,0,0,0,0,,,,0,,,0,,0,0,0,2026,2026,1,HAL,,Fast Polynomial Arithmetic in the Exponent without Roots of Unity
+ZK8BA055A4BD,0,0,0,0,,,,0,,,0,,0,0,0,2026,2026,1,arXiv (Cornell University),,PQ-Vault: Provably Quantum-Safe Asset Custody for Unmodified Ethereum

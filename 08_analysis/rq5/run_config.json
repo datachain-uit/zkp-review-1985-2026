@@ -1,0 +1,8 @@
+{
+ "model": "sentence-transformers/all-MiniLM-L6-v2",
+ "seed": 20261112,
+ "n_docs": 10190,
+ "min_cluster_size": 40,
+ "n_topics": 51,
+ "outliers_after_reduction": 55
+}

@@ -1,0 +1,399 @@
+sid,rid,title,core,commit,setup,hard,model,repr,inter,comp,pq
+S1,SB83F904B06D,A private interactive test of a boolean predicate a minimum-knowledge public-key cryptosystems,IP,NONE,T,NS,STD,NS,I,NO,N
+S2,SBAE91CFC936,A robust and verifiable cryptographically secure election scheme,IP,NONE,T,NS,STD,NS,I,NO,N
+S3,ZKD9AC5B0EB9,Knowledge complexity of interactive proof systems,IP,NONE,T,NS,NS,NS,I,NO,N
+S4,ZKAF8417B890,How to prove yourself: practical solutions to identification and signature problems,IP,NONE,T,NS,ROM,NS,B,NO,N
+S5,ZKC26959B796,Proofs that Yield Nothing but Their Validity or All Languages in NP Have Zero-Knowledge Proof Systems,IP,NONE,T,SYM,STD,ALGREL,I,NO,N
+S6,ZKD2520CD4D0,COMPLEXITY OF PERFECT ZERO-KNOWLEDGE.,IP,NONE,T,NS,NS,NS,I,NO,N
+S7,SBFF4E191896,Direct Minimum-Knowledge Computations (Extended Abstract),IP,NONE,T,SYM,STD,CIRC,I,NO,N
+S8,ZKFD7B11988A,PERFECT ZERO-KNOWLEDGE LANGUAGES CAN BE RECOGNIZED IN TWO ROUNDS.,IP,NONE,T,NS,NS,NS,I,NO,N
+S9,ZK0A6123C0B9,ZERO KNOWLEDGE PROOFS OF IDENTITY.,IP,NONE,T,SYM,STD,NS,I,NO,N
+S10,SB73AA87E269,Abuses in Cryptography and How to Fight Them,IP,NONE,T,SYM,STD,CIRC,B,NO,N
+S11,ZK6831143806,Everything provable is provable in zero-knowledge,IP,NONE,T,SYM,STD,ALGREL;CIRC,I,NO,N
+S12,ZK3BF639E5F7,Non-interactive zero-knowledge and its applications,ALG,NONE,T,NS,STD,ALGREL,N,NO,N
+S13,ZK36B90A1377,Efficient identification and signatures for smart cards,IP,NONE,T,DL,ROM,NS,B,NO,N
+S14,ZK62E97FBEAF,Multiple noninteractive zero knowledge proofs under general assumptions,ALG;HIDDEN,NONE,T,SYM,STD,ALGREL,N,NO,N
+S15,ZK4A3134AA87,On the composition of zero-knowledge proof systems,IP,NONE,T,NS,STD,NS,I,NO,N
+S16,ZK5C97F3F5D5,Public-key cryptosystems provably secure against chosen ciphertext attacks,ALG,NONE,T,NS,STD,NS,N,NO,N
+S17,ZKFDA7296408,Publicly verifiable non-interactive zero-knowledge proofs,HIDDEN,NONE,T,SYM,STD,ALGREL,N,NO,N
+S18,ZKCB059701FF,Witness indistinguishable and witness hiding protocols,IP,NONE,T,DL,ROM,NS,B,NO,N
+S19,ZKFB02A7B686,Noninteractive zero-knowledge,HIDDEN;IP,NONE,T,NS,STD,CIRC,N,NO,N
+S20,ZK7A0EF30E6C,A note on efficient zero-knowledge proofs and arguments (extended abstract),IP;PCP,HASH,T,DL,STD,CIRC,I,NO,N
+S21,ZK9D9F5E8B73,On the security of the permuted kernel identification scheme,IP,NONE,T,NS,STD,NS,I,NO,N
+S22,SB69AEB8B90F,Provably Secure and Practical Identification Schemes and Corresponding Signature Schemes,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S23,ZK603F140C97,Random oracles are practical,IP,NONE,T,SYM,ROM,NS,N,NO,N
+S24,ZK128BD6EB1F,Computationally sound proofs,IP;PCP,HASH,T,SYM,ROM,ALGREL,B,NO,N
+S25,ZK412E72CB38,Definitions and properties of zero-knowledge proof systems,IP,NONE,T,NS,STD,NS,I,NO,N
+S26,ZK335E897DE7,Proofs of partial knowledge and simplified design of witness hiding protocols,IP,NONE,T,NS,STD,NS,B,NO,N
+S27,ZKE3FA8FEC5A,How to construct constant-round zero-knowledge proof systems for NP,IP,NONE,T,DL;GUO,STD,ALGREL,I,NO,N
+S28,SB1E2EE5E64D,Security Arguments for Digital Signatures and Blind Signatures,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S29,SBB64419F7E5,Efficient group signature schemes for large groups,IP,NONE,T,DL;GUO,ROM,ALGREL,N,NO,N
+S30,ZK6A804445D6,Non-interactive zero-knowledge: A low-randomness characterization of np (extended abstract),HIDDEN,NONE,T,NS,STD,CIRC,N,NO,N
+S31,ZK916DE24B6E,Non-malleable non-interactive zero knowledge and adaptive chosen-ciphertext security,ALG,NONE,T,SYM,STD,NS,N,NO,N
+S32,ZK8A169ED87E,On the concurrent composition of zero-knowledge proofs,IP,NONE,T,SYM,STD,NS,I,NO,N
+S33,SB94C36A14A0,A Practical and Provably Secure Coalition-Resistant Group Signature Scheme,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S34,SB257103767B,Efficient Proofs that a Committed Number Lies in an Interval,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S35,SB6AA6DDA0D6,Provably Secure Partially Blind Signatures,IP,NONE,T,DL,ROM,NS,B,NO,N
+S36,SB46D5235864,A verifiable secret shuffle and its application to e-voting,IP,NONE,T,DL,ROM,NS,B,NO,N
+S37,SBDDFCF2DC0F,An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation,IP,NONE,T,DL;GUO,ROM,ALGREL,B,NO,N
+S38,ZKC480656DF1,Practical multi-candidate election system,IP,NONE,T,NS,ROM,NS,B,NO,N
+S39,ZK4A90CD84DF,Deniable ring authentication,IP,NONE,T,DL,STD,NS,I,NO,N
+S40,SB38F18D9DC7,Design and implementation of the idemix anonymous credential system,IP,NONE,T,GUO,STD,NS,B,NO,N
+S41,ZK72EB2603C8,Dynamic accumulators and application to efficient revocation of anonymous credentials,IP,NONE,T,DL;GUO,STD,ALGREL,B,NO,N
+S42,SBFBD2E118F3,A Signature Scheme with Efficient Protocols,IP,NONE,T,GUO,STD,ALGREL,I,NO,N
+S43,SB3027596950,On the (In)security of the Fiat-Shamir paradigm,IP,HASH,T,SYM,ROM,NS,B,NO,N
+S44,SBAAC4D0C041,Direct anonymous attestation,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S45,SBF9AACC0538,Short Group Signatures,ALG;IP,NONE,T,DL;PAIR,ROM,ALGREL,B,NO,N
+S46,ZK936A675989,Compact Group Signatures Without Random Oracles.,ALG,NONE,C,PAIR,STD,ALGREL,N,NO,N
+S47,ZKF56A5CE4E7,Perfect non-interactive zero knowledge for NP,ALG,NONE,C,PAIR,STD,CIRC,N,NO,N
+S48,ZKC6F4E508D2,Communication-efficient non-interactive proofs of knowledge with online extractors,IP,NONE,T,DL;PAIR,ROM,NS,N,NO,N
+S49,ZKE5934D83F4,Construction of a non-malleable encryption scheme from any semantically secure one,IP,NONE,T,SYM,STD,NS,N,NO,N
+S50,ZKC57CC16176,Non-interactive zaps and new techniques for NIZK,ALG,OTHER,T,PAIR,STD,CIRC,N,NO,N
+S51,SBE93172E7E8,Efficient Arguments without Short PCPs,LPCP,OTHER,T,NS,ROM,CIRC,I,REC,N
+S52,ZK9A5188A367,Efficient non-interactive proof systems for bilinear groups,ALG,OTHER,U,DL;PAIR,STD,ALGREL,N,NO,N
+S53,ZKC1765DAEDB,Zero-knowledge from secure multiparty computation,MPCITH,NONE,T,SYM,STD,CIRC,B,NO,N
+S54,ZK52922ECA74,Delegating computation: Interactive proofs for Muggles,IP;MULTI,NONE,T,SYM,STD,CIRC,B,NO,N
+S55,ZK27F043C9E8,Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma,IP,NONE,T,DL,ROM,NS,B,NO,N
+S56,SBE75F1B7343,PEREA,IP,NONE,T,DL;GUO,STD,ALGREL,I,NO,N
+S57,ZKC8D9D05402,Pseudo trust: Zero-knowledge authentication in anonymous P2Ps,IP,NONE,T,DL,STD,NS,I,NO,N
+S59,SBEB9C83F2EE,An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials,ALG;IP,NONE,T,DL;PAIR,STD,NS,I,NO,N
+S60,ZK5836AAB222,Linear algebra with sub-linear zero-knowledge arguments,IP;IPA,OTHER,T,DL,STD,CIRC,B,NO,N
+S61,ZK326A5E4AF4,Short pairing-based non-interactive zero-knowledge arguments,ALG,OTHER,U,DL;PAIR,KNOW,CIRC,N,NO,N
+S62,ZK0EC5B71D36,Constant-size commitments to polynomials and their applications,ALG,KZG,U,DL;PAIR,STD,NS,N,NO,N
+S63,SB0E90EB8ADD,Non-interactive Verifiable Computing: Outsourcing Computation to Untrusted Workers,COMPILER,NONE,C,SYM,STD,CIRC,N,NO,N
+S64,ZKD92DABC4B0,Proof-Carrying Data and Hearsay Arguments from Signature Cards.,NS,OTHER,NS,SYM,STD,ALGREL,N,REC,N
+S65,ZK006AA18435,"From Extractable Collision Resistance to Succinct Non-Interactive Arguments of Knowledge, and Back Again.",IP,HASH,U,DL;LAT,KNOW,ALGREL,N,NO,N
+S66,SB8595879FD7,Practical Verified Computation with Streaming Interactive Proofs,IP;MULTI,NONE,T,NS,NS,CIRC,B,NO,N
+S67,SBD595FF1851,Verifiable Delegation of Computation over Large Datasets,ALG,OTHER,T,DL;PAIR,STD,ALGREL,I,NO,N
+S68,ZKF713670F10,Cooperative provable data possession for integrity verification in multicloud storage,ALG;IP,NONE,T,PAIR,ROM,NS,I,NO,N
+S69,ZKAA4E134FD2,Efficient zero-knowledge argument for correctness of a shuffle,IP,OTHER,T,DL,ROM,ALGREL,I,NO,N
+S70,ZK625609E430,Full proof cryptography: Verifiable compilation of efficient zero-knowledge protocols,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S71,SB42867BA37B,Group Signatures with Almost-for-Free Revocation,ALG,OTHER,U,DL;PAIR,STD,ALGREL,N,NO,N
+S72,ZKBDE699CD9A,Quadratic Span Programs and Succinct NIZKs without PCPs.,LPCP,NONE,C,PAIR,KNOW,ALGREL;CIRC;R1CS,N,NO,N
+S73,ZK6D47133875,Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data.,LPCP,NONE,NS,PAIR,KNOW,ALGREL,N,REC,N
+S74,ZKACC41DF5E3,Succinct non-interactive arguments via linear interactive proofs,LPCP,NONE,C,DL;PAIR,KNOW,CIRC;R1CS,N,NO,N
+S75,ZK25E475ABE3,"How to use indistinguishability obfuscation: Deniable encryption, and more",COMPILER,NONE,C,SYM,STD,NS,N,NO,N
+S76,ZKEDC7429EB9,New Techniques for SPHFs and Efficient One-Round PAKE Protocols.,ALG;IP,NONE,U,DL;PAIR,STD,ALGREL,I,NO,N
+S77,ZK059872769D,Pinocchio: Nearly Practical Verifiable Computation.,LPCP,OTHER,C,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S78,SB133A2F71E5,Signatures of Correct Computation,ALG,KZG,C,PAIR,ROM,ALGREL,N,NO,N
+S79,ZK2C30D4833E,SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge.,LPCP,NONE,C,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S80,ZKED78DD90AD,Succinct non-interactive zero knowledge for a von neumann architecture,LPCP,NONE,C,DL;PAIR,KNOW,CIRC;R1CS,N,NO,N
+S81,ZKB777991A6B,Universally Composable Symbolic Analysis for Two-Party Protocols based on Homomorphic Encryption.,ALG,NONE,NS,NS,STD,NS,N,NO,N
+S82,SBC6745CBF97,Verifying computations with state,IP;LPCP,NONE,C,LAT;PAIR,KNOW,R1CS,B,NO,N
+S83,SBC0C3573DD8,Zerocoin: Anonymous Distributed E-Cash from Bitcoin,IP,NONE,C,DL;GUO,ROM,ALGREL,N,NO,N
+S84,SBBBF25D443C,Efficient RAM and control flow in verifiable outsourced computation.,LPCP,NONE,C,PAIR,KNOW,R1CS,N,NO,N
+S85,ZKB1864F57C5,Non-interactive zero-knowledge proofs in the quantum random oracle model,IP,NONE,T,SYM,ROM,NS,N,NO,Y
+S86,ZK014DF5F4B5,One-out-of-Many Proofs: Or How to Leak a Secret and Spend a Coin.,IP,OTHER,T,DL,ROM,ALGREL,B,NO,N
+S87,ZK181311AE61,PrivBioMTAuth: Privacy Preserving Biometrics-Based and User Centric Protocol for User Authentication from Mobile Phones,IP,NONE,T,DL,ROM,NS,I,NO,N
+S88,ZK42ED5277D4,Quantum Attacks on Classical Proof Systems - The Hardness of Quantum Rewinding,IP,NONE,T,NS,ROM,NS,B,NO,N
+S89,ZK468D59BB8B,Scalable Zero Knowledge via Cycles of Elliptic Curves.,LPCP,NONE,C,DL;PAIR,KNOW,CIRC;R1CS,N,REC,N
+S90,ZKD1414982D3,Square span programs with applications to succinct NIZK arguments,LPCP,NONE,C,PAIR,KNOW,ALGREL;CIRC,N,NO,N
+S91,SBECBA778568,TRUESET: Faster verifiable set computations,LPCP,NONE,C,PAIR,KNOW,ALGREL;R1CS,N,NO,N
+S92,ZKB33A4594E4,Zerocash: Decentralized anonymous payments from bitcoin,LPCP,OTHER,C,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S93,ZKD18E773E0B,ZØ: An optimizing distributing zero-knowledge compiler,IP;LPCP,NONE,C,GUO;PAIR,STD,ALGREL;CIRC;R1CS,N,NO,N
+S94,SB607B24F4AD,ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data,LPCP,NONE,C,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S95,ZK19EB8E8214,End-to-End Verifiable Elections in the Standard Model∗,IP,NONE,T,DL,STD,ALGREL,I,NO,N
+S96,SB44904541B9,Geppetto: Versatile Verifiable Computation,LPCP,OTHER,C,PAIR,KNOW,R1CS,N,REC,N
+S97,ZK85E817842E,Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts,LPCP,NONE,C,SYM,KNOW,CIRC;R1CS,N,NO,N
+S98,SBD3B3BD2A66,IntegriDB,ALG,NONE,C,PAIR,KNOW,NS,N,NO,N
+S99,ZK9E1366A0E3,Privacy and access control for outsourced personal records,ALG;IP,NONE,U,PAIR,ROM,NS,B,NO,N
+S100,ZK26B5AC8C6B,Provisions: Privacy-preserving proofs of solvency for bitcoin exchanges,IP,OTHER,T,DL,ROM,ALGREL,B,NO,N
+S101,ZK160B90B234,Quasi-adaptive NIZK for linear subspaces revisited,ALG,NONE,C,PAIR,STD,ALGREL,N,NO,N
+S102,ZK8623A375F6,Secure sampling of public parameters for succinct zero knowledge proofs,IP;LPCP,NONE,C,DL;PAIR,ROM,CIRC;R1CS,N,NO,N
+S103,ZKAF8D7FF2E6,Security of the J-PAKE password-authenticated key exchange protocol,IP,NONE,T,DL,KNOW;ROM,NS,N,NO,N
+S104,ZK6344499AE1,Short group signatures via structure-preserving signatures: Standard model security from simple assumptions,ALG,NONE,C,DL;PAIR,STD,ALGREL,N,NO,N
+S105,ZK96180F0D14,Accountable privacy for decentralized anonymous payments,LPCP,NONE,C,SYM,KNOW,CIRC,N,NO,N
+S106,ZK0D77469947,"Design in Type-I, run in Type-III: Fast and scalable bilinear-type conversion using integer programming",ALG,NONE,U,DL;PAIR,STD,ALGREL,N,NO,N
+S107,ZK47844BB44D,Efficient zero-knowledge arguments for arithmetic circuits in the discrete log setting,IP;IPA,DLC,T,DL,ROM,ALGREL;CIRC,B,NO,N
+S108,ZKAA3A3661C5,Identity-Based Remote Data Integrity Checking with Perfect Data Privacy Preserving for Cloud Storage,ALG;IP,NONE,T,PAIR,ROM,NS,B,NO,N
+S109,ZK6D14274500,Interactive Oracle Proofs,IP;UNI,HASH,T,NS,ROM,NS,B,NO,N
+S110,ZK55A7A6FFF8,On the size of pairing-based non-interactive arguments,LPCP,NONE,C,PAIR,KNOW,R1CS,N,NO,N
+S111,ZKDAD16B4DC8,PhotoProof: Cryptographic Image Authentication for Any Set of Permissible Transformations,LPCP,NONE,C,PAIR,KNOW,R1CS,N,REC,N
+S112,ZKFBA21771B1,The Ring of Gyges: Investigating the Future of Criminal Smart Contracts.,LPCP,NONE,C,NS,KNOW;ROM,CIRC,N,NO,N
+S113,SB799E94A28B,Verifiable ASICs,IP;MULTI,NONE,T,NS,STD,CIRC,I,NO,N
+S114,ZK14EF34FC9B,ZKBOo: Faster zero-knowledge for boolean circuits,IP;MPCITH,NONE,T,SYM,ROM,CIRC,B,NO,N
+S115,ZK18910B0192,A multi-party protocol for constructing the public parameters of the Pinocchio zk-SNARK,IP;LPCP,OTHER,C,DL;PAIR,KNOW;ROM,R1CS,N,NO,N
+S116,SB50667127FB,Bolt,ALG;IP,OTHER,T,DL;PAIR,ROM,NS,B,NO,N
+S117,ZK213C053C4F,Bulletproofs: Short Proofs for Confidential Transactions and More,IPA,DLC,T,DL,ROM,ALGREL;CIRC,B,NO,N
+S118,ZKDD1F032464,Doubly-Efficient zkSNARKs Without Trusted Setup,MULTI,DLC,T,DL,ROM,CIRC,B,NO,N
+S119,SBC12A9C6BE5,Full Accounting for Verifiable Outsourcing,IP;MULTI,NONE,T,NS,NS,CIRC,I,NO,N
+S120,ZKFAF2AC4EF0,Ligero: lightweight sublinear arguments without a trusted setup,MPCITH,HASH,T,SYM,ROM,CIRC,B,NO,Y
+S121,ZK95037FEBE0,Overdrive: Making SPDZ great again,IP,NONE,T,LAT,ROM,NS,B,NO,N
+S122,ZK171D776886,Post-quantum zero-knowledge and signatures from symmetric-key primitives,IP;MPCITH,NONE,T,SYM,ROM,CIRC,B,NO,Y
+S123,ZK57FC395475,Practical UC-Secure delegatable credentials with attributes and their application to blockchain,ALG;IP,NONE,U,DL;PAIR,ROM,ALGREL,N,NO,N
+S124,SB7A5FFA339C,RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero,ALG;IP,NONE,C,DL;PAIR,ROM,ALGREL,N,NO,N
+S125,SB0642C8D707,SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud,IP;MULTI,NONE,T,NS,NS,CIRC,I,NO,N
+S126,ZK0DA2357627,Snarky Signatures: \\ Minimal Signatures of Knowledge from Simulation-Extractable SNARKs,LPCP,NONE,C,PAIR,KNOW,ALGREL;CIRC;R1CS,N,NO,N
+S127,ZK62950E2D80,The algebraic group model and its applications,LPCP,NONE,C,DL;PAIR,KNOW;ROM,R1CS,N,NO,N
+S128,ZKF110869313,VSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases,MULTI,KZG,U,DL;PAIR,KNOW;ROM,CIRC,B,NO,N
+S129,ZKC13C0C6958,Zero-Knowledge contingent payments revisited: Attacks and payments for services,LPCP;MPCITH,NONE,C,PAIR,KNOW,CIRC;R1CS,B,NO,N
+S130,ZK7EDFA058F9,Aurora: Transparent succinct arguments for R1CS,UNI,HASH,T,SYM,ROM,R1CS,B,NO,Y
+S131,ZK1864E77D9A,Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains,IP,OTHER,T,GUO,ROM,NS,B,NO,N
+S132,ZKCFD4743733,Compressing vector OLE,IP;VOLE,NONE,T,SYM,ROM,CIRC;R1CS,B,NO,N
+S133,ZK300839697C,DIZK: A Distributed Zero Knowledge Proof System.,LPCP,NONE,C,PAIR,STD,R1CS,N,NO,N
+S134,SBA317148C1B,Efficient Proof Composition for Verifiable Computation,LPCP;MULTI,NONE,C,LAT;PAIR,KNOW;ROM,CIRC;R1CS,N,REC,N
+S135,ZKCB01A255FE,Fast reed-solomon interactive oracle proofs of proximity,UNI,HASH,T,SYM,ROM,NS,B,NO,Y
+S136,ZK5F51D1B36A,Improved non-interactive zero knowledge with applications to post-quantum signatures,MPCITH,NONE,T,SYM,ROM,CIRC,B,NO,Y
+S137,ZK5463E32CDC,Multi-Target Attacks on the Picnic Signature Scheme and Related Protocols.,MPCITH,NONE,T,SYM,ROM,CIRC,N,NO,Y
+S138,ZKC06E95DD3D,Ouroboros crypsinous: Privacy-preserving proof-of-stake,LPCP,NONE,C,DL,ROM,R1CS,N,NO,N
+S139,ZK2198E263EE,Proving the correct execution of concurrent services in zero-knowledge.,LPCP,NONE,C,DL;PAIR,KNOW;ROM,R1CS,N,NO,N
+S140,ZK4155FDA9EA,Quisquis: A new design for anonymous cryptocurrencies,IP;IPA,OTHER,T,DL,ROM,ALGREL,N,NO,N
+S141,ZK56C3D3F7D1,"Scalable, transparent, and post-quantum secure computational integrity",UNI,HASH,T,SYM,ROM,AIR,B,NO,Y
+S142,ZK92F56FC7A2,Updatable and universal common reference strings with applications to zk-SNARKs,LPCP,OTHER,U,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S143,SBD5E0AD11CF,xJsnark: A Framework for Efficient Verifiable Computation,LPCP,NONE,C,NS,NS,CIRC;R1CS,N,NO,N
+S144,SB863788D8A9,ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain,LPCP,NONE,C,NS,KNOW;ROM,CIRC,N,NO,N
+S145,ZK3640685DB0,ZEXE: Enabling decentralized private computation,LPCP,NONE,C,DL;PAIR,KNOW,R1CS,N,REC,N
+S146,ZK142E33E430,BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs,LPCP,NONE,C,PAIR,ROM,CIRC;R1CS,N,NO,N
+S147,ZK49AEF53851,DECO: Liberating Web Data Using Decentralized Oracles for TLS,LPCP;MPCITH,NONE,C,DL,ROM,R1CS,B,NO,N
+S148,ZK81274D0E6D,Fiat-Shamir: From practice to theory,IP;MULTI,NONE,T,LAT,STD,CIRC,N,NO,N
+S149,ZK8D1B629E3A,Fractal: Post-quantum and transparent recursive proofs from holography,UNI,HASH,T,SYM,ROM,R1CS,N,REC,Y
+S150,ZK36CCEE439B,LegoSNARK: Modular Design and Composition of Succinct Zero-Knowledge Proofs.,IP;LPCP;MULTI,OTHER,C,DL;PAIR,KNOW;ROM,ALGREL;CIRC;R1CS,N,NO,N
+S151,ZK928CB900EE,Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation,MULTI,OTHER,U,PAIR,KNOW;ROM,CIRC,B,NO,N
+S152,ZK036A8EC703,Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS.,UNI,KZG,U,DL;PAIR,KNOW;ROM,R1CS,B,NO,N
+S153,ZK7F10F29EAE,Noninteractive Zero Knowledge for NP from (Plain) Learning with Errors,IP,NONE,T,LAT,STD,CIRC,N,NO,Y
+S154,ZK8A34DF560B,PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge,UNI,KZG,U,DL;PAIR,KNOW;ROM,PLONK,B,NO,N
+S155,ZK841F61F80C,POSEIDON: A new hash function for zero-knowledge proof systems,LPCP;UNI,DLC;KZG,T,SYM,ROM,AIR;PLONK;R1CS,NS,NO,N
+S156,ZK41F8DB96B5,Privacy aspects and subliminal channels in ZCaSH,LPCP,NONE,C,DL,STD,R1CS,N,NO,N
+S157,ZKAB4FAE20A3,Proofs for Inner Pairing Products and Applications,LPCP,DLC;KZG,U,DL;PAIR,KNOW;ROM,R1CS,B,NO,N
+S158,ZK09D1000E9C,Recursive Proof Composition without a Trusted Setup,UNI,DLC,T,DL,ROM,ALGREL;CIRC,B,REC,N
+S159,ZK78AEA067FA,Scaling verifiable computation using efficient set accumulators,LPCP,NONE,C,GUO,ROM,R1CS,N,NO,N
+S160,ZK7131F24183,Sonic: Zero-knowledge snarks from linear-size universal and updatable structured reference strings,UNI,KZG,U,DL;PAIR,KNOW;ROM,ALGREL;R1CS,N,NO,N
+S161,ZK426832BC3B,Spartan: Efficient and general-purpose zkSNARKs without trusted setup.,MULTI,DLC,T,DL,KNOW;ROM,R1CS,B,NO,N
+S162,ZKA3BE0198BC,The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption,IP,NONE,T,DL,ROM,ALGREL,N,NO,N
+S163,ZK8D5C50B4FB,Transparent polynomial delegation and its applications to zero knowledge proof,MULTI;UNI,HASH,T,SYM,ROM,CIRC,B,NO,Y
+S164,ZK3CC5A82D7C,Transparent SNARKs from DARK Compilers.,UNI,OTHER,T,GUO,ROM,AIR;ALGREL;CIRC;PLONK;R1CS,B,NO,N
+S165,ZKFFB7AE0594,VeriML: Enabling Integrity Assurances and Fair Payments for Machine Learning as a Service,LPCP,NONE,C,SYM,STD,CIRC;R1CS,N,NO,N
+S166,ZK0F1561261C,WI Is Not Enough: Zero-Knowledge Contingent (Service) Payments Revisited.,LPCP,NONE,C,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S167,ZKF2E8B0C74A,Zero-Knowledge Proofs on Secret-Shared Data via Fully Linear PCPs,IP;MPCITH;MULTI,NONE,T,SYM,ROM,CIRC,B,NO,N
+S168,SB1A20FD10BA,ZETH: On Integrating Zerocash on Ethereum,LPCP,NONE,C,PAIR,KNOW,R1CS,N,NO,N
+S169,ZK97B7856862,Zether: Towards Privacy in a Smart Contract World,IP;IPA,DLC,T,DL,ROM,CIRC,N,NO,N
+S170,ZKEDFBF3425F,Zkay: Specifying and enforcing data privacy in smart contracts,LPCP,NONE,C,NS,STD,CIRC,N,NO,N
+S171,SB0F9569EA21,Agora: A Privacy-Aware Data Marketplace,IP,NONE,T,DL,ROM,NS,B,NO,N
+S173,SBC591D2C64D,Coda: Decentralized Cryptocurrency at Scale.,LPCP,NONE,C,SYM,KNOW,R1CS,N,REC,N
+S174,SB9AC522EC4B,DCAP: A Secure and Efficient Decentralized Conditional Anonymous Payment System Based on Blockchain,IP,NONE,T,DL,ROM,NS,N,NO,N
+S175,ZK6BE3D05A02,Did you mix me? Formally verifying verifiable mix nets in electronic voting,IP,OTHER,T,DL,ROM,ALGREL,I,NO,N
+S176,ZK1EDC74AC16,"Dory: Efficient, Transparent Arguments for Generalised Inner Products and Polynomial Commitments",IPA,DLC,T,DL;PAIR,ROM,NS,B,NO,N
+S177,SBA6A82DA579,How not to prove your election outcome,IP,NONE,T,DL,ROM,NS,N,NO,N
+S178,ZK90D1DE4CB2,Lunar: A Toolbox for More Efficient Universal and Updatable zkSNARKs and Commit-and-Prove Extensions,LPCP;UNI,KZG,U,PAIR,KNOW;ROM,ALGREL;R1CS,N,NO,N
+S179,ZKDD6A3FAA2A,MuSig-DN: Schnorr Multi-Signatures with Verifiably Deterministic Nonces,IPA,DLC,T,DL,ROM,CIRC,N,NO,N
+S180,ZKDF0A61B2C5,Out of Oddity -- New Cryptanalytic Techniques against Symmetric Primitives Optimized for Integrity Proof Systems,UNI,NONE,T,NS,NS,NS,NS,NO,N
+S181,ZK96B60594D9,PACE: Privacy-Preserving and Quality-Aware Incentive Mechanism for Mobile Crowdsensing,IP,NONE,T,DL,STD,NS,I,NO,N
+S182,ZK74ED5C6FDD,plookup: A simplified polynomial protocol for lookup tables,UNI,KZG,U,NS,KNOW,PLONK,I,NO,N
+S183,SBA5E6ED0B48,Pointproofs: Aggregating Proofs for Multiple Vector Commitments,ALG,OTHER,U,PAIR,KNOW;ROM,NS,N,NO,N
+S184,ZKAF0DDB301F,Privacy-preserving traffic management: A blockchain and zero-knowledge proof inspired approach,IP,NONE,T,DL,ROM,NS,N,NO,N
+S185,ZKD056206F47,Remote side-channel attacks on anonymous transactions,LPCP,NONE,C,NS,NS,NS,N,NO,N
+S186,SB38235A47A9,RingCT 3.0 for Blockchain Confidential Transaction: Shorter Size and Stronger Security,IP;IPA,DLC,T,DL,ROM,ALGREL,N,NO,N
+S187,ZK731E7A45B3,SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis,IP;MPCITH,NONE,T,SYM,ROM,CIRC,B,NO,Y
+S188,SB9700266544,Toward Verifiable and Privacy Preserving Machine Learning Prediction,ALG,OTHER,C,DL;PAIR,STD,ALGREL,N,NO,N
+S189,SBDC85A1FB06,Two-Sided Malicious Security for Private Intersection-Sum with Cardinality,IP,NONE,T,DL;GUO,ROM,NS,B,NO,N
+S190,ZK261372FF8E,VCNN: Verifiable Convolutional Neural Network Based on zk-SNARKs,LPCP,NONE,C,PAIR,STD,ALGREL;R1CS,N,NO,N
+S191,ZK12BA963398,"Wolverine: Fast, scalable, and communication-efficient zero-knowledge proofs for boolean and arithmetic circuits",VOLE,NONE,T,LAT,ROM,CIRC,B,NO,N
+S192,ZK1F70EBF525,Zero Knowledge Proofs for Decision Tree Predictions and Accuracy,UNI,HASH,T,SYM,ROM,CIRC;R1CS,B,NO,Y
+S193,ZKA7D2647B9A,Zilch: A Framework for Deploying Transparent Zero-Knowledge Proofs,UNI,HASH,T,SYM,ROM,AIR,I,NO,Y
+S194,ZK7EBE11A467,A Compressed Σ -Protocol Theory for Lattices,IP;IPA,LATC,T,LAT,ROM,CIRC,B,REC,N
+S195,ZK4E0334DBC8,Brakedown: Linear-Time and Field-Agnostic SNARKs for R1CS,MULTI,HASH,T,SYM,ROM,R1CS,B,NO,Y
+S196,SB3414A21E25,Cairo - a Turing-complete STARK-friendly CPU architecture.,UNI,HASH,T,SYM,ROM,AIR,B,REC,N
+S197,ZKFD6F90949D,"Cross-domain access control encryption: Arbitrary-policy, constant-size, efficient",ALG;IP,NONE,T,DL;PAIR,ROM,ALGREL,N,NO,N
+S198,ZKDDF99D4C5B,Decentralized Privacy-Preserving Fair Exchange Scheme for V2G Based on Blockchain,LPCP,NONE,C,PAIR,KNOW;ROM,CIRC,N,NO,N
+S199,ZK277B40C658,DualRing: Generic Construction of Ring Signatures with Efficient Instantiations,IP;IPA,NONE,T,DL;GUO;LAT,ROM,NS,N,NO,N
+S200,ZKE50CD3837E,Efficient Representation of Numerical Optimization Problems for SNARKs.,MULTI,OTHER,T,DL,STD,R1CS,N,NO,N
+S201,SBD291EF85C8,Efficient Sum-Check Protocol for Convolution,IP;MULTI,NONE,T,NS,ROM,ALGREL;CIRC,I,NO,N
+S202,ZKB54904B358,Enabling Secure and Efficient Decentralized Storage Auditing with Blockchain,ALG;IP,KZG,U,DL;PAIR,ROM,NS,B,NO,N
+S203,ZKDD355E88DE,Eunomia: Anonymous and Secure Vehicular Digital Forensics Based on Blockchain,IP;IPA,OTHER,T,DL;GUO;PAIR,ROM,ALGREL,N,NO,N
+S204,ZKECF8BF0803,Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets,LPCP;UNI,KZG,U,PAIR,KNOW;ROM,PLONK;R1CS,N,NO,N
+S205,ZKB947FD1E3C,Fine-Grained Secure Attribute-Based Encryption,NS,NONE,C,NS,STD,ALGREL,N,NO,N
+S206,ZK5A5AE55C49,Machine-checked ZKP for NP relations: Formally Verified Security Proofs and Implementations of MPC-in-the-Head,MPCITH,NONE,T,DL,STD,CIRC,I,NO,N
+S207,ZKE57C9FCD17,Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning.,VOLE,NONE,T,SYM,ROM,CIRC,I,NO,N
+S208,ZK29132D0332,Nova: Recursive Zero-Knowledge Arguments from Folding Schemes,MULTI,DLC,T,DL,ROM,R1CS,B,FOLD,N
+S209,ZKA196452ABC,"On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography",IP,NONE,T,NS,ROM,NS,I,NO,N
+S210,ZK09909D3D75,On Using zk-SNARKs and zk-STARKs in Blockchain-Based Identity Management,LPCP;UNI,NONE,C,PAIR,STD,R1CS,N,NO,N
+S211,ZK0277710E32,P2B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics,IPA,DLC,T,DL,STD,CIRC,N,NO,N
+S212,ZKFFAE03EC4C,P2BA: A Privacy-Preserving Protocol with Batch Authentication against Semi-Trusted RSUs in Vehicular Ad Hoc Networks,ALG;IP,NONE,T,DL;PAIR,ROM,NS,N,NO,N
+S213,ZK5C5A33605C,PipeZK: Accelerating zero-knowledge proof with a pipelined architecture,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S214,ZK5C1C33EE70,Practical Non-interactive Publicly Verifiable Secret Sharing with Thousands of Parties,IP;IPA,OTHER,T,DL;LAT,ROM,ALGREL,N,NO,N
+S215,ZK2FE7885C55,"Practical, Round-Optimal Lattice-Based Blind Signatures",IP,LATC,T,LAT,ROM,ALGREL,N,NO,Y
+S216,ZKBD32B394BC,PriScore: Blockchain-Based Self-Tallying Election System Supporting Score Voting,IP,NONE,T,DL,ROM,NS,N,NO,N
+S217,ZK360D6A3868,QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field,VOLE,NONE,T,NS,ROM,ALGREL;CIRC,B,NO,N
+S218,ZK4C1F6F58E9,SNARGs for P from LWE,PCP,OTHER,T,LAT,STD,ALGREL,N,REC,N
+S219,ZKA2805E7BA6,SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq,IP,NONE,T,DL,STD,NS,I,NO,N
+S220,ZK0E1FFCDCB8,Threshold Schnorr with Stateless Deterministic Signing from Standard Assumptions,NS,NONE,T,DL,ROM,CIRC,I,NO,N
+S221,ZK8E3EE42A24,"Viaduct: An extensible, optimizing compiler for secure distributed programs",LPCP,NONE,C,SYM,STD,CIRC,N,NO,N
+S222,ZK0354D29D88,Zero knowledge for everything and everyone: Fast ZK processor with cached ORAM for ANSI C programs,MPCITH,NONE,T,SYM,ROM,ALGREL;CIRC,I,NO,N
+S223,ZKF8DA80398A,Zero-Knowledge Middleboxes,LPCP,NONE,C,DL;PAIR,ROM,R1CS,N,NO,N
+S224,ZKD6AC5E7A80,ZkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy,MULTI,DLC,T,DL,ROM,CIRC,B,NO,N
+S225,ZKDED8F9E2F9,An Algebraic Framework for Silent Preprocessing with Trustless Setup and Active Security,IP,OTHER,T,DL;GUO,ROM,ALGREL,B,NO,N
+S226,ZKB89068F4D2,Batch Arguments for NP and More from Standard Bilinear Group Assumptions,ALG;PCP,OTHER,U,DL;PAIR,STD,CIRC,N,REC,N
+S227,ZK493070DC32,Blockchain-Based Credential Management for Anonymous Authentication in SAGVN,IP,KZG,T,DL;PAIR,ROM,NS,N,NO,N
+S228,ZK917197D432,Circom: A Circuit Description Language for Building Zero-Knowledge Applications,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S229,ZK8D7B95DA67,cuZK: Accelerating Zero-Knowledge Proof with A Faster Parallel Multi-Scalar Multiplication Algorithm on GPUs,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S230,ZK673351023F,Distilling Constraints in Zero-Knowledge Protocols,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S231,SB7AA1B6ED3C,EBCPA: Efficient Blockchain-based Conditional Privacy-preserving Authentication for VANETs,IP,NONE,T,DL,ROM,NS,N,NO,N
+S232,SB0FE704F16F,EIFFeL,MPCITH,NONE,T,DL,STD,CIRC,N,NO,N
+S233,ZK4F829358A0,Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment,IP;LPCP,NONE,C,DL,STD,CIRC;R1CS,N,NO,N
+S234,ZK1F5E31CED2,ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline,MULTI,DLC,T,DL,ROM,R1CS,N,NO,N
+S236,ZKB24E13B985,HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates,MULTI;UNI,HASH;KZG,U,PAIR,KNOW;ROM,ALGREL;PLONK,N,NO,N
+S237,ZK31C0DA3280,LaBRADOR: Compact Proofs for R1CS from Module-SIS,IP,LATC,T,LAT,ROM,ALGREL;R1CS,B,REC,Y
+S238,ZK24228A68EE,"Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable: (Extended Abstract)",NS,LATC,U,LAT,KNOW;ROM,ALGREL;R1CS,N,REC,Y
+S239,ZKE3208B1E31,"Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General",IP,LATC,T,LAT,ROM,ALGREL,B,NO,Y
+S241,ZK65D8F776CC,Orion: Zero Knowledge Proof with Linear Prover Time,MULTI;UNI,HASH,T,SYM,ROM,CIRC;R1CS,B,REC,Y
+S242,ZK4F1C48201A,Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation,LPCP,NONE,C,NS,ROM,R1CS,N,NO,N
+S243,ZK2A5FA34A9D,Practical Post-Quantum Signature Schemes from Isomorphism Problems of Trilinear Forms,IP,NONE,T,NS,ROM,NS,B,NO,Y
+S244,ZK345BD5D089,PvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing,LPCP,OTHER,C,PAIR,KNOW;ROM,ALGREL;R1CS,N,NO,N
+S245,ZK82CC7515B0,Secure Multiparty Computation from Threshold Encryption Based on Class Groups,IP,NONE,T,GUO,ROM,ALGREL,B,NO,N
+S246,ZK9087ECDF2C,Subversion-Resistant and Consistent Attribute-Based Keyword Search for Secure Cloud Storage,IP,NONE,T,DL;PAIR,STD,NS,N,NO,N
+S247,ZK6138F855BE,Syndrome Decoding in the Head: Shorter Signatures from Zero-Knowledge Proofs,MPCITH,NONE,T,SYM,ROM,ALGREL,B,NO,Y
+S248,ZK576F3E5669,ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs,LPCP,NONE,C,DL;PAIR,KNOW,R1CS,N,NO,N
+S249,ZKA7592CBBB6,zk-AuthFeed: Protecting Data Feed to Smart Contracts With Authenticated Zero Knowledge Proof,LPCP,NONE,C,PAIR,KNOW,CIRC;R1CS,N,NO,N
+S250,ZKE2F6F9381C,Zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure,LPCP,NONE,C,DL;PAIR,KNOW;ROM,R1CS,N,NO,N
+S251,ZKC90F18F180,zkBridge: Trustless Cross-chain Bridges Made Practical,LPCP;MULTI;UNI,HASH,C,PAIR,KNOW;ROM,CIRC;R1CS,N,REC,N
+S252,ZKEA13DA15E6,A Blockchain-Based Copyright Protection Scheme With Proactive Defense,IP,OTHER,T,DL,ROM,NS,N,NO,N
+S253,ZKEFC333EC49,A Privacy-Preserving and Reputation-Based Truth Discovery Framework in Mobile Crowdsensing,IP,NONE,T,DL,ROM,NS,N,NO,N
+S254,ZK1963640C56,A Privacy-Preserving Zero-Knowledge Proof for Blockchain,IP,NONE,T,DL;LAT,STD,NS,B,NO,Y
+S255,ZK2920C5B3C6,BaseFold: Efficient Field-Agnostic Polynomial Commitment Schemes from Foldable Codes,MULTI;UNI,HASH,T,SYM,ROM,PLONK,B,NO,N
+S256,ZK776EBD23AD,Blockchain-Based Fair and Fine-Grained Data Trading with Privacy Preservation,ALG;IP,NONE,NS,DL;PAIR,ROM,ALGREL,N,NO,N
+S257,SBE6EE49CCA6,Boosting Batch Arguments and RAM Delegation,PCP,NONE,NS,DL;LAT;PAIR,STD,CIRC,N,REC,N
+S258,ZKE849D15589,Boosting the Performance of High-Assurance Cryptography: Parallel Execution and Optimizing Memory Access in Formally-Verified Line-Point Zero-Knowledge,VOLE,NONE,T,NS,STD,CIRC,N,NO,N
+S260,ZKFE5A0A98E6,Certifying Zero-Knowledge Circuits with Refinement Types,LPCP,NONE,NS,NS,NS,R1CS,NS,NO,N
+S261,SB92609801B5,Correlation Intractability and SNARGs from Sub-exponential DDH,IP;IPA,NONE,T,DL,STD,CIRC,N,NO,N
+S262,ZKD9F60B1F3E,Decentralized Threshold Signatures With Dynamically Private Accountability,IP,NONE,NS,DL,ROM,NS,N,NO,N
+S263,ZK12950F29D8,Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference,MPCITH,NONE,T,SYM,ROM,CIRC,B,REC,N
+S264,ZKA946F87B15,Efficient Blockchain-Based Data Integrity Auditing for Multi-Copy in Decentralized Storage,ALG,KZG,U,DL;PAIR,KNOW;ROM,NS,I,NO,N
+S265,ZKD604ECFEC4,EOS: Efficient Private Delegation of zkSNARK Provers,MPCITH;UNI,KZG,U,PAIR,KNOW;ROM,R1CS,N,NO,N
+S266,ZKA6822C6406,Experimenting with Zero-Knowledge Proofs of Training,MPCITH;UNI,HASH,T,SYM,ROM,ALGREL,B,NO,N
+S267,SB18EEBFBC4F,Fixing and Mechanizing the Security Proof of Fiat-Shamir with Aborts and Dilithium,IP,NONE,T,LAT,ROM,NS,B,NO,Y
+S268,ZK1C0B0DA9E2,Formalizing Soundness Proofs of Linear PCP SNARKs,LPCP,NONE,C,DL;PAIR,KNOW,R1CS,N,NO,N
+S269,ZK57AF67BE0F,GZKP: A GPU Accelerated Zero-Knowledge Proof System,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S270,ZKF918C8DC96,HyperNova: Recursive Arguments for Customizable Constraint Systems,MULTI,OTHER,T,DL,ROM,AIR;CCS;PLONK;R1CS,B,FOLD,N
+S271,ZK637C8A6E9A,Jolt: SNARKs for Virtual Machines via Lookups,MULTI,DLC;KZG,NS,NS,ROM,ALGREL;R1CS,N,NO,N
+S272,ZKEAAFF06AE0,M&M’S: Mix and Match Attacks on Schnorr-Type Blind Signatures with Repetition,IP,NONE,T,NS,ROM,NS,B,NO,N
+S273,ZKAAA0196418,Machine-checking Multi-Round Proofs of Shuffle: Terelius-Wikstrom and Bayer-Groth,IP,NONE,T,DL,ROM,NS,I,NO,N
+S274,ZK196A8903BC,martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture,LPCP,NONE,C,PAIR,KNOW,R1CS,N,NO,N
+S275,ZKDA6FBA0F6C,Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs,UNI,KZG,U,PAIR,KNOW;ROM,PLONK,N,NO,N
+S276,ZKE2A3BF83E7,PILE: Robust Privacy-Preserving Federated Learning Via Verifiable Perturbations,IP,NONE,T,NS,ROM,ALGREL,I,NO,N
+S278,ZKFCECCB32D9,Publicly Verifiable Secret Sharing Over Class Groups and Applications to DKG and YOSO,IP,NONE,T,DL;GUO,ROM,NS,N,NO,N
+S279,ZK1558A4DB26,Publicly Verifiable Zero-Knowledge and Post-Quantum Signatures from VOLE-in-the-Head,MPCITH;VOLE,NONE,T,SYM,ROM,ALGREL,B,NO,Y
+S280,ZKC41C4D23A5,Revisiting BBS Signatures,ALG;IP,NONE,T,DL;PAIR,KNOW;ROM,NS,B,NO,N
+S282,ZK69A2C5725F,Scalable Off-chain Auction,LPCP,NONE,C,PAIR,STD,CIRC;R1CS,N,NO,N
+S283,ZK3CD0BC2D8C,Split: A Hash-Based Memory Optimization Method for Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK),LPCP,NONE,C,SYM,STD,R1CS,N,NO,N
+S284,ZK035C3530B1,Succinct Arguments over Towers of Binary Fields,MULTI;UNI,HASH,T,SYM,ROM,ALGREL;PLONK,N,NO,N
+S285,SB3D88BDA8D5,"Threshold Signatures from Inner Product Argument: Succinct, Weighted, and Multi-threshold",ALG,KZG,U,PAIR,KNOW;ROM,ALGREL,N,NO,N
+S286,ZK191F553DBD,Toward Practical Lattice-Based Proof of Knowledge from Hint-MLWE,IP,LATC,T,LAT,STD,NS,I,NO,Y
+S287,ZK8C2BDFD59C,Unlocking the Lookup Singularity with Lasso,MULTI,DLC,T,DL,ROM,ALGREL,B,NO,N
+S288,ZK10CFD9D627,Verifiable Carbon Accounting in Supply Chains,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S289,ZK80768CCE58,Weak Fiat-Shamir Attacks on Modern Proof Systems,IP;MULTI;UNI,DLC;KZG,T,DL,ROM,PLONK;R1CS,N,NO,N
+S290,ZK1B3C60CE29,zkSaaS: Zero-Knowledge SNARKs as a Service,LPCP;MPCITH;UNI,KZG,C,PAIR,ROM,PLONK;R1CS,N,NO,N
+S291,ZK1D5660D60B,ZKSQL: Verifiable and Efiicient Query Evaluation with Zero-Knowledge Proofs,VOLE,NONE,T,NS,STD,CIRC,I,NO,N
+S292,ZKE58C67BB3A,A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction,IP,NONE,T,DL;LAT,ROM,ALGREL,N,NO,N
+S294,ZK500887AE82,A Verifiable and Privacy-Preserving Federated Learning Training Framework,MULTI,DLC,T,DL,ROM,ALGREL;R1CS,B,NO,N
+S295,ZK50BA3CCFE8,A2-DIDM: Privacy-Preserving Accumulator-Enabled Auditing for Decentralized Identity of DNN Model,UNI,KZG,U,PAIR,KNOW;ROM,PLONK;R1CS,N,REC,N
+S296,ZK153611528D,Accelerating Multi-Scalar Multiplication for Efficient Zero Knowledge Proofs with Multi-GPU Systems,LPCP,NONE,NS,NS,NS,R1CS,N,NO,N
+S297,ZK3902DE4625,Accelerating Zero-Knowledge Proofs Through Hardware-Algorithm Co-Design,MULTI,HASH,T,SYM,ROM,R1CS,N,NO,Y
+S298,ZK9F8F6068C7,Atomic and Fair Data Exchange via Blockchain,ALG;IP,KZG,U,DL;PAIR,KNOW;ROM,ALGREL,N,NO,N
+S299,ZK403E2A9322,Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement,IP,NONE,T,DL,ROM,NS,N,NO,N
+S300,ZKC5CB313550,BatchZK: A Fully Pipelined GPU-Accelerated System for Batch Generation of Zero-Knowledge Proofs,MULTI,HASH,T,SYM,STD,CIRC,N,NO,N
+S301,ZKA110223FD7,"Ceno: Non-uniform, Segment and Parallel Zero-Knowledge Virtual Machine",MULTI,OTHER,NS,NS,ROM,ALGREL;CIRC,B,REC,N
+S302,ZK79B1DA25BC,Confidential-DPproof: CONFIDENTIAL PROOF OF DIFFERENTIALLY PRIVATE TRAINING,VOLE,NONE,T,SYM,ROM,CIRC,I,NO,N
+S303,ZKD9ECEC84DD,Data Sharing in the Metaverse With Key Abuse Resistance Based on Decentralized CP-ABE,IP,NONE,T,DL;PAIR,ROM,ALGREL,N,NO,N
+S304,ZKD98F6D08B1,EDCOMA: Enabling Efficient Double Compressed Auditing for Blockchain-Based Decentralized Storage,LPCP,OTHER,C,PAIR,ROM,CIRC;R1CS,N,NO,N
+S305,ZK4436F64C5E,Efficient Revocable Cross-Domain Anonymous Authentication Scheme for IIoT,ALG;IP,NONE,T,DL;PAIR,ROM,NS,N,NO,N
+S306,ZK40BF6C79AC,"Elastic MSM: A Fast, Elastic and Modular Preprocessing Technique for Multi-Scalar Multiplication Algorithm on GPUs",LPCP,NONE,T,NS,NS,NS,N,NO,N
+S307,ZK5CF9562AF9,Falic: An FPGA-Based Multi-Scalar Multiplication Accelerator for Zero-Knowledge Proof,LPCP,NONE,NS,NS,NS,R1CS,N,NO,N
+S308,ZKE50559571D,fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup,LPCP;UNI,NONE,T,NS,NS,NS,NS,NO,N
+S309,ZK5742BD9C51,Fully Homomorphic Encryption Beyond IND-CCA1 Security: Integrity Through Verifiability,COMPILER,NONE,NS,NS,ROM,NS,N,NO,N
+S312,ZKD9C478D87A,"Lavida: Large-Universe, Verifiable, and Dynamic Fine-Grained Access Control for E-Health Cloud",ALG,NONE,C,DL,ROM,NS,N,NO,N
+S313,ZKA38F05C1B5,Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser,MPCITH,HASH,T,SYM,ROM,ALGREL;CIRC,N,NO,Y
+S314,ZKC13E0C94B2,Load-Balanced Parallel Implementation on GPUs for Multi-Scalar Multiplication Algorithm,LPCP;UNI,NONE,T,NS,NS,NS,NS,NO,N
+S315,ZK955764CC9B,MSMAC: Accelerating Multi-Scalar Multiplication for Zero-Knowledge Proof,LPCP,NONE,NS,NS,NS,NS,N,NO,N
+S316,ZKE7EF0E83DB,Nebula: Proving Machine Executions via Folding Schemes,MULTI,OTHER,T,DL,ROM,CCS;R1CS,N,FOLD,N
+S317,ZK3510B6A3FB,PriRoAgg: Achieving Robust Model Aggregation With Minimum Privacy Leakage for Federated Learning,MPCITH,OTHER,C,DL,STD,CIRC,N,NO,N
+S318,ZK3AA2A1F18D,Quantum Oblivious LWE Sampling and Insecurity of Standard Model Lattice-Based SNARKs,LPCP,NONE,T,LAT,KNOW,NS,N,NO,N
+S319,ZK1C0F934024,RollStore: Hybrid Onchain-Offchain Data Indexing for Blockchain Applications,LPCP,NONE,C,SYM,STD,R1CS,N,NO,N
+S320,ZK9529245E96,Scalable Collaborative zk-SNARK and Its Application to Fully Distributed Proof Delegation,MPCITH;MULTI;UNI,KZG,U,PAIR,ROM,PLONK,N,NO,N
+S322,ZKFE920264AF,Secure Multiparty Computation of Threshold Signatures Made More Efficient,IP,NONE,T,DL,ROM,NS,B,NO,N
+S323,ZK52C5094447,SFOM-DT: A Secure and Fair One-to-Many Data Trading Scheme Based on Blockchain,IP,NONE,T,DL;PAIR,STD,NS,I,NO,N
+S324,ZKDD1B581794,"Shaken, not Stirred - Automated Discovery of Subtle Attacks on Protocols using Mix-Nets",IP,NONE,T,DL,ROM,NS,N,NO,N
+S325,ZK76095784CC,Siniel: Distributed Privacy-Preserving zkSNARK,LPCP;MPCITH;UNI,KZG,U,PAIR,KNOW;ROM,CIRC;R1CS,N,NO,N
+S326,ZK5E0E6E0D78,STIR: Reed-Solomon Proximity Testing with Fewer Queries,UNI,HASH,T,SYM,ROM,R1CS,B,NO,N
+S327,ZKA83DEA39E6,The 2Hash OPRF Framework and Efficient Post-quantum Instantiations,MPCITH;VOLE,NONE,T,NS,ROM,ALGREL,I,NO,Y
+S328,ZK11F0BCBE13,The LaZer Library: Lattice-Based Zero Knowledge and Succinct Proofs for Quantum-Safe Privacy,IP,LATC,T,LAT,STD,ALGREL;R1CS,N,NO,Y
+S329,ZKA6FD2B8E79,Trusted Model Aggregation with Zero-Knowledge Proofs in Federated Learning,MPCITH,NONE,T,DL,ROM,CIRC,B,NO,N
+S330,ZKB2B729318C,ValidCNN: A Large-Scale CNN Predictive Integrity Verification Scheme Based on zk-SNARK,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S331,ZKE02B3236FA,VerITAS: Verifying Image Transformations at Scale,MULTI;UNI,HASH,T,LAT,ROM,ALGREL;PLONK,N,NO,N
+S332,ZKD5ECE566F1,WHIR: Reed-Solomon Proximity Testing with Super-Fast Verification,MULTI;UNI,HASH,T,SYM,ROM,ALGREL;R1CS,B,NO,Y
+S333,ZKDF9DDBAEFD,ZENO: A Type-based Optimization Framework for Zero Knowledge Neural Network Inference,LPCP,NONE,NS,PAIR,STD,CIRC;R1CS,N,NO,N
+S334,ZK0CA40370F2,Zero-Knowledge Proofs of Training for Deep Neural Networks,MULTI,HASH,T,SYM,ROM,ALGREL;CIRC,N,FOLD,N
+S335,ZK492A59E0A6,Zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms,LPCP;UNI,KZG,NS,NS,NS,PLONK;R1CS,N,NO,N
+S336,ZK51F73E7D3C,zkLLM: Zero Knowledge Proofs for Large Language Models,MULTI,DLC,T,DL,ROM,ALGREL,I,NO,N
+S337,ZK988D5AF3DB,zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials,LPCP,NONE,C,SYM,STD,R1CS,N,NO,N
+S338,ZK923272111C,ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs,UNI,DLC;KZG,U,DL;PAIR,STD,PLONK,N,NO,N
+S339,ZKAC01017CC0,ZKWASM: A ZKSNARK WASM Emulator,UNI,KZG,U,NS,NS,PLONK,N,REC,N
+S340,ZK5424281AE5,'Check-Before-you-Solve': Verifiable Time-Lock Puzzles,IP;LPCP,OTHER,C,DL;GUO,KNOW;ROM,R1CS,B,NO,N
+S341,ZK3DB4C720B2,A Framework for Witness Encryption from Linearly Verifiable SNARKs and Applications,LPCP;MULTI,KZG,U,PAIR,KNOW;ROM,ALGREL,N,NO,N
+S342,ZK3E46AC52C7,A Scheme of Robust Privacy-Preserving Multi-Party Computation via Public Verification,IP,NONE,T,DL,ROM,NS,N,NO,N
+S343,ZK4EE59E2579,Accelerating Number Theoretic Transform with Multi-GPU Systems for Efficient Zero Knowledge Proof,UNI,NONE,U,NS,NS,NS,N,NO,N
+S344,ZKDF2BCC05B0,Armadillo: Robust Single-Server Secure Aggregation for Federated Learning with Input Validation,IP;IPA,DLC,T,DL;LAT,ROM,ALGREL,N,NO,N
+S345,ZK38CFAB5E4F,Automated Soundness and Completeness Vetting of Polygon zkEVM,UNI,HASH,NS,NS,NS,AIR;ALGREL,NS,REC,N
+S347,ZKFEC6DE6F03,Bring Your Device Group (BYDG): Efficient and Privacy-Preserving User-Device Authentication Protocol in Multi-Access Edge Computing,IP,NONE,T,DL,ROM,NS,I,NO,N
+S348,ZK8DB0830210,CAPE: Commitment-Based Privacy-Preserving Payment Channel Scheme in Blockchain,LPCP,NONE,C,SYM,ROM,R1CS,N,NO,N
+S349,SB0106FDEA7A,Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains,ALG,KZG,U,DL;PAIR,STD,NS,N,NO,N
+S350,ZK1642A70739,ConsCS: Effective and Efficient Verification of Circom Circuits,LPCP,NONE,T,NS,NS,R1CS,NS,NO,N
+S351,ZK4FD27F87A8,DFS: Delegation-friendly zkSNARK and Private Delegation of Provers,MPCITH;MULTI,KZG,U,PAIR,ROM,R1CS,N,NO,N
+S352,ZKB15D089F9C,Efficient Constant-Size Linkable Ring Signatures for Ad-Hoc Rings via Pairing-Based Set Membership Arguments,LPCP,KZG,C,DL;PAIR,KNOW;ROM,ALGREL;R1CS,N,NO,N
+S353,ZK3C4FF1E9FF,Efficient Proofs of Possession for Legacy Signatures,IP;LPCP;MULTI,DLC;KZG,T,DL,ROM,ALGREL;R1CS,N,NO,N
+S354,ZKC463397598,EPREAR:An Efficient Attribute-Based Proxy Re-Encryption Scheme With Fast Revocation for Data Sharing in AIoT,IP,NONE,T,DL;PAIR,ROM,NS,N,NO,N
+S355,ZK0809AC04C5,Evaluating Compiler Optimization Impacts on zkVM Performance,UNI,NONE,T,NS,NS,NS,NS,NO,N
+S356,ZK8D7D2881E3,Fiat-Shamir in the Plain Model from Derandomization (Or: Do Efficient Algorithms Believe that NP = PSPACE?),IP,NONE,T,SYM,STD,NS,N,NO,N
+S357,ZK9F13919A38,Founding Zero-Knowledge Proofs of Training on Optimum Vicinity,MPCITH;VOLE,NONE,T,NS,ROM,CIRC,I,NO,N
+S358,ZKE735ED90D2,FPGA-Based Hardware Accelerator of zk-SNARK,LPCP,NONE,NS,NS,NS,R1CS,N,NO,N
+S359,ZKB7E91C531E,From Σ-Protocol-Based Signatures to Ring Signatures: General Construction and Applications,IP;IPA,NONE,T,DL,ROM,ALGREL,N,REC,N
+S360,ZKC1E42B0F35,Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain,ALG;IP,NONE,T,DL;PAIR,ROM,ALGREL,N,NO,N
+S361,ZK269FBCC98A,Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE,NS,OTHER,U,LAT,STD,CIRC,N,NO,N
+S362,ZK6B491E9E60,How to Prove False Statements: Practical Attacks on Fiat-Shamir,MULTI,OTHER,NS,SYM,ROM,CIRC,B,NO,N
+S363,ZK66E122CDAB,HydraProofs: Optimally Computing All Proofs in a Vector Commitment (With Applications to Efficient zkSNARKs Over Data from Multiple Users),MULTI,HASH;KZG,U,PAIR,KNOW;ROM,CIRC,B,FOLD,N
+S364,ZKBA13784B53,Improved Round-by-round Soundness IOPs via  Reed-Muller Codes,MULTI;UNI,HASH,T,NS,STD,R1CS,I,NO,N
+S365,ZK540A3FD2EE,Incrementally Verifiable Computation for NP from Standard Assumptions,PCP,NONE,C,LAT;PAIR,STD,CIRC,N,REC,N
+S367,ZK311B1420DB,KZH-Fold: Accountable Voting from Sublinear Accumulation,MULTI,DLC;KZG,U,DL;PAIR,KNOW;ROM,R1CS,N,FOLD,N
+S368,ZKE9C672F617,"Leakage-Resilient Circuits Against NC1, Revisited",NS,NONE,C,NS,STD,CIRC,N,NO,N
+S369,ZKB0B544DB6C,LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof,LPCP;UNI,KZG,NS,NS,NS,R1CS,N,NO,N
+S370,ZK15B0450F04,LETA: A Lattice-Based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs,IP,NONE,T,LAT,ROM,NS,N,NO,Y
+S371,ZK016CC556FB,Malicious Security in Collaborative zk-SNARKs: More than Meets the Eye,LPCP;UNI,DLC;KZG,NS,DL;PAIR,ROM,CIRC;PLONK;R1CS,N,NO,N
+S373,ZK7A6669EB1C,Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs,MULTI;UNI,KZG,U,PAIR,ROM,PLONK,N,NO,N
+S374,ZK7615EB4DF9,On the Impossibility of SNARGs with Short CRS : (or: Revisiting Gentry-Wichs Barrier in the Non-adaptive Setting),PCP,NONE,T,LAT,STD,NS,N,REC,N
+S375,ZK23A2A7B6AB,Papercraft: Lattice-Based Verifiable Delay Function Implemented,IP,LATC,T,LAT,STD,ALGREL,B,FOLD,Y
+S376,ZK4E773E3B6F,Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES,MULTI;UNI;VOLE,HASH,T,SYM,ROM,CIRC,B,NO,Y
+S377,ZK0592CCACB5,Post-Quantum Rollup: Falcon Signature Aggregation Based on SNARG With Enhanced Gates,MULTI;UNI,HASH,T,SYM,ROM,ALGREL;PLONK,N,NO,Y
+S378,ZK06541A003E,Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head,VOLE,NONE,T,SYM,ROM,ALGREL;CIRC,N,NO,Y
+S379,ZK04317BA433,Preprocessing for Life: Dishonest-Majority MPC with a Trusted or Untrusted Dealer,MPCITH,NONE,T,SYM,ROM,CIRC,B,NO,N
+S380,ZKC54409E84D,Query-Optimal IOPPs for Linear-Time Encodable Codes,MULTI;UNI,HASH,T,NS,ROM,ALGREL,B,NO,N
+S381,ZK69356D9B2D,Relaxed Vector Commitment for Shorter Signatures,MPCITH,OTHER,T,SYM,ROM,CIRC,N,NO,Y
+S383,ZK8F22617E86,Server-Aided Anonymous Credentials,IP,NONE,T,DL,ROM,ALGREL,B,NO,N
+S384,ZK9E7218085E,"Shorter, Tighter, FAESTer: Optimizations and Improved (QROM) Analysis for VOLE-in-the-Head Signatures",VOLE,NONE,T,SYM,ROM,ALGREL,N,NO,Y
+S385,ZK814809569F,Single-Server Private Outsourcing of zk-SNARKs,LPCP;UNI,KZG,NS,PAIR,ROM,PLONK;R1CS,B,FOLD,N
+S386,ZKB642818311,UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping,UNI,HASH,T,SYM,ROM,AIR;PLONK,N,REC,N
+S387,ZKE7FED927D3,Unmasking TRaccoon: A Lattice-Based Threshold Signature with An Efficient Identifiable Abort Protocol,IP,LATC,T,LAT,ROM,ALGREL,N,NO,Y
+S388,ZK826E16A225,Verifiable Computation for Approximate Homomorphic Encryption Schemes,MULTI,HASH,T,SYM,ROM,ALGREL;CIRC,B,NO,N
+S389,ZKEB9B915ABD,Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems,LPCP,NONE,C,PAIR,STD,R1CS,N,NO,N
+S390,ZKF59D8D481D,ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer,LPCP,NONE,C,PAIR,STD,R1CS,N,NO,N
+S391,ZK823AE06844,Zkfhed: A Verifiable and Scalable Blockchain-Enhanced Federated Learning System,UNI,NONE,NS,DL;LAT,ROM,R1CS,N,NO,N
+S393,ZKB347F08B31,zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference,MULTI,DLC,T,DL,ROM,ALGREL;CIRC,N,NO,N
+S394,ZK7097D6B5C5,"ZkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates",MULTI;UNI,KZG,U,NS,NS,ALGREL;PLONK,N,NO,N
+S395,ZKDB4B168289,ZKProphet: Understanding Performance of Zero-Knowledge Proofs on GPUs,LPCP,KZG,C,NS,NS,R1CS,N,NO,N
+S396,ZKBD80827609,ZkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing,LPCP;MULTI;UNI,OTHER,T,PAIR,STD,R1CS,N,NO,N
+S397,ZK40AB46EE74,Attribute-Based Credentials with Verifiable Human Binding: Toward Compactness and Revocability,ALG;IP,NONE,T,DL;PAIR,ROM,NS,B,NO,N
+S398,ZK2D4FBB2577,Chopin: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG,ALG,KZG,U,PAIR,ROM,ALGREL,B,NO,N
+S399,ZK6080B9FBE7,Cyclo: Lightweight Lattice-Based Folding via Partial Range Checks,MULTI,LATC,T,LAT,ROM,ALGREL;CCS;R1CS,B,FOLD,Y
+S400,ZK2510A7545A,DeSA: Decentralized Secure Aggregation for Federated Learning in Zero-Trust D2D Networks,LPCP,KZG,C,DL;PAIR,KNOW,ALGREL;R1CS,N,REC,N
+S401,ZKEDB01B9272,Dishonest Majority Passive-to-Active Compiler Over Rings for MPC With Constant Online Communication,IP;MPCITH;MULTI;VOLE,NONE,T,NS,ROM,CIRC,I,REC,N
+S402,ZKAD4C7376E3,"Grant, Verify, Revoke: A User-Centric Pattern for Blockchain Compliance",LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S403,ZKE2A68574E8,LightZK: An Efficient GPU Acceleration Framework for Large-Scale Zero-Knowledge Proofs,LPCP,NONE,C,NS,NS,R1CS,N,NO,N
+S404,ZKD6868F4733,MegaZK: A Memory Efficient GPU System Accelerating End-to-end Zero-Knowledge Proof,UNI,HASH,T,NS,NS,PLONK,N,NO,N
+S405,ZK303A1A56AE,MobCred: A New Mobile-Cloud Integration Anonymous Credential Framework With Universal Access Policy,IP;LPCP,OTHER,C,DL;PAIR,KNOW,R1CS,N,NO,N
+S406,ZK14693822D0,On Proximity Gaps of Reed-Solomon Codes,UNI,HASH,T,NS,NS,AIR,I,NO,N
+S407,ZK9AADB8F2B0,Pipelonk: Accelerating End-to-End Zero-Knowledge Proof Generation on GPUs for PLONK-Based Protocols,UNI,KZG,U,NS,NS,PLONK,N,NO,N
+S408,ZK176EE43636,Privacy-Accountable Distributed Collaborative Authentication for Malicious Node Resistance in Vehicular Ad Hoc Networks,IP,NONE,T,DL,ROM,NS,N,NO,N
+S409,ZKA162D697E2,PVCA: Privacy-Preserving and Verifiable Cross-System Authorization for Platoon Communications in VANETs,ALG;IP,NONE,T,PAIR,ROM,NS,NS,NO,N
+S410,ZKFCAAC9FE92,Quantum-Resistant Data Sharing Scheme With Auditability for Internet of Vehicles,IP,NONE,T,LAT,ROM,ALGREL,N,NO,Y
+S411,ZKAFA7F6EECB,"SNARGs for NP and Non-signaling PCPs, Revisited",PCP,NONE,U,DL;LAT;PAIR,STD,ALGREL;CIRC,N,NO,N
+S412,ZK8FD8470BFF,TensorZKP: Repurposing GPU Tensor Cores for High-Performance Zero-Knowledge Proofs,MULTI;UNI,HASH,T,SYM,ROM,PLONK,N,NO,N
+S413,ZK0DAD27BC92,Zk-Guard: A Privacy-Preserving Access Control Framework Based on zk-SNARKs and Blockchain for Decentralized Data Sharing,LPCP,NONE,C,PAIR,KNOW,R1CS,N,NO,N
+S414,ZK93A6541371,ZKVeil: A Privacy-Preserving Compliance Verification Scheme for Blockchain-Enabled Supply Chain Transactions,LPCP,NONE,C,DL;PAIR,STD,R1CS,N,NO,N

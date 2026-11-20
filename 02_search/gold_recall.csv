@@ -1,0 +1,76 @@
+gold_id,title,year,group,axis,retrieved_by_search,corpus_rid,auto_excluded
+G01,The knowledge complexity of interactive proof-systems,1985,landmark,constructions,1,ZKD9AC5B0EB9,1
+G02,Proofs that yield nothing but their validity or all languages in NP have zero-knowledge proof systems,1991,landmark,constructions,1,ZKC26959B796,0
+G03,Non-interactive zero-knowledge and its applications,1988,landmark,constructions,1,ZKC46E7E4456,0
+G04,How to prove yourself: practical solutions to identification and signature problems,1986,landmark,constructions,0,ZKAF8417B890,0
+G05,A note on efficient zero-knowledge proofs and arguments,1992,landmark,constructions,1,ZK7A0EF30E6C,0
+G06,Computationally sound proofs,2000,landmark,constructions,0,ZK128BD6EB1F,0
+G07,Efficient identification and signatures for smart cards,1989,landmark,constructions,0,ZK36B90A1377,0
+G08,Zero-knowledge from secure multiparty computation,2007,landmark,constructions,1,ZKC1765DAEDB,0
+G09,Delegating computation: interactive proofs for muggles,2008,landmark,constructions,1,ZK5A6E83A37F,0
+G10,Constant-size commitments to polynomials and their applications,2010,landmark,constructions,1,ZK0EC5B71D36,0
+G11,Proof-carrying data and hearsay arguments from signature cards,2010,landmark,constructions,1,ZKD92DABC4B0,0
+G12,Quadratic span programs and succinct NIZKs without PCPs,2013,landmark,constructions,1,ZKBDE699CD9A,0
+G13,Pinocchio: nearly practical verifiable computation,2013,landmark,systems,1,ZK059872769D,0
+G14,SNARKs for C: verifying program executions succinctly and in zero knowledge,2013,landmark,systems,1,ZK2C30D4833E,0
+G15,Succinct non-interactive zero knowledge for a von Neumann architecture,2014,landmark,systems,1,ZKED78DD90AD,0
+G16,Scalable zero knowledge via cycles of elliptic curves,2014,landmark,constructions,1,ZK468D59BB8B,0
+G17,Zerocash: decentralized anonymous payments from Bitcoin,2014,landmark,applications,1,ZKB33A4594E4,0
+G18,ZKBoo: faster zero-knowledge for Boolean circuits,2016,landmark,constructions,1,ZK14EF34FC9B,0
+G19,Interactive oracle proofs,2016,landmark,constructions,1,ZK6D14274500,0
+G20,On the size of pairing-based non-interactive arguments,2016,landmark,constructions,1,ZK55A7A6FFF8,0
+G21,Hawk: the blockchain model of cryptography and privacy-preserving smart contracts,2016,landmark,applications,1,ZK85E817842E,0
+G22,Post-quantum zero-knowledge and signatures from symmetric-key primitives,2017,landmark,constructions,1,ZK171D776886,0
+G23,Ligero: lightweight sublinear arguments without a trusted setup,2017,landmark,constructions,1,ZKFAF2AC4EF0,0
+G24,vSQL: verifying arbitrary SQL queries over dynamic outsourced databases,2017,landmark,applications,1,ZKF110869313,0
+G25,Bulletproofs: short proofs for confidential transactions and more,2018,landmark,constructions,1,ZK213C053C4F,0
+G26,"Scalable, transparent, and post-quantum secure computational integrity",2018,landmark,constructions,1,ZK56C3D3F7D1,0
+G27,Fast Reed-Solomon interactive oracle proofs of proximity,2018,landmark,constructions,1,ZKCB01A255FE,0
+G28,Doubly-efficient zkSNARKs without trusted setup,2018,landmark,constructions,1,ZKDD1F032464,0
+G29,Aurora: transparent succinct arguments for R1CS,2019,landmark,constructions,1,ZK7EDFA058F9,0
+G30,Sonic: zero-knowledge SNARKs from linear-size universal and updatable structured reference strings,2019,landmark,constructions,1,ZK7131F24183,0
+G31,PLONK: permutations over Lagrange-bases for oecumenical noninteractive arguments of knowledge,2019,landmark,constructions,1,ZK8A34DF560B,0
+G32,Recursive proof composition without a trusted setup,2019,landmark,constructions,1,ZK09D1000E9C,0
+G33,Libra: succinct zero-knowledge proofs with optimal prover computation,2019,landmark,constructions,1,ZK928CB900EE,0
+G34,Zero-knowledge proofs on secret-shared data via fully linear PCPs,2019,landmark,constructions,1,ZKF2E8B0C74A,0
+G35,Transparent SNARKs from DARK compilers,2020,landmark,constructions,1,ZK3CC5A82D7C,0
+G36,Transparent polynomial delegation and its applications to zero knowledge proof,2020,landmark,constructions,1,ZK8D5C50B4FB,0
+G37,ZEXE: enabling decentralized private computation,2020,landmark,applications,1,ZK3640685DB0,0
+G38,plookup: a simplified polynomial protocol for lookup tables,2020,landmark,constructions,1,ZK74ED5C6FDD,0
+G39,Zero knowledge proofs for decision tree predictions and accuracy,2020,landmark,applications,1,ZK1F70EBF525,0
+G40,zkCNN: zero knowledge proofs for convolutional neural network predictions and accuracy,2021,landmark,applications,1,ZKD6AC5E7A80,0
+G41,Mystique: efficient conversions for zero-knowledge proofs with applications to machine learning,2021,landmark,applications,1,ZKE57C9FCD17,0
+G42,"Wolverine: fast, scalable, and communication-efficient zero-knowledge proofs for boolean and arithmetic circuits",2021,landmark,constructions,1,ZK12BA963398,0
+G43,Nova: recursive zero-knowledge arguments from folding schemes,2022,landmark,constructions,1,ZK29132D0332,0
+G44,Orion: zero knowledge proof with linear prover time,2022,landmark,constructions,1,ZK65D8F776CC,0
+G45,zkBridge: trustless cross-chain bridges made practical,2022,landmark,applications,1,ZKC90F18F180,0
+G46,Brakedown: linear-time and field-agnostic SNARKs for R1CS,2023,landmark,constructions,1,ZK4E0334DBC8,0
+G47,LaBRADOR: compact proofs for R1CS from Module-SIS,2023,landmark,constructions,1,ZK31C0DA3280,0
+G48,Circom: a circuit description language for building zero-knowledge applications,2023,landmark,systems,1,ZK917197D432,0
+G49,Unlocking the lookup singularity with Lasso,2024,landmark,constructions,1,ZK8C2BDFD59C,0
+G50,Jolt: SNARKs for virtual machines via lookups,2024,landmark,systems,1,ZK637C8A6E9A,0
+G51,HyperNova: recursive arguments for customizable constraint systems,2024,landmark,constructions,1,ZKF918C8DC96,0
+G52,Succinct arguments over towers of binary fields,2025,landmark,constructions,1,ZK035C3530B1,0
+R01,Marlin: preprocessing zkSNARKs with universal and updatable SRS,2020,reference,constructions,1,ZK036A8EC703,0
+R02,Spartan: efficient and general-purpose zkSNARKs without trusted setup,2020,reference,constructions,1,ZK426832BC3B,0
+R03,HyperPlonk: Plonk with linear-time prover and high-degree custom gates,2023,reference,constructions,1,ZKB24E13B985,0
+R04,DIZK: a distributed zero knowledge proof system,2018,reference,systems,1,ZK300839697C,0
+R05,PipeZK: accelerating zero-knowledge proof with a pipelined architecture,2021,reference,systems,1,ZK5C5A33605C,0
+R06,FPGA acceleration of multi-scalar multiplication: CycloneMSM,2022,reference,systems,1,ZK0E370CBD0C,0
+R07,GZKP: a GPU accelerated zero-knowledge proof system,2023,reference,systems,1,ZK57AF67BE0F,0
+R08,cuZK: accelerating zero-knowledge proof with a faster parallel multi-scalar multiplication algorithm on GPUs,2023,reference,systems,1,ZK8D7B95DA67,0
+R09,Pianist: scalable zkRollups via fully distributed zero-knowledge proofs,2024,reference,systems,1,ZKDA6FBA0F6C,0
+R10,Accelerating multi-scalar multiplication for efficient zero knowledge proofs with multi-GPU systems,2024,reference,systems,1,ZK153611528D,0
+R11,"Elastic MSM: a fast, elastic and modular preprocessing technique for multi-scalar multiplication algorithm on GPUs",2024,reference,systems,1,ZK40BF6C79AC,0
+R12,Load-balanced parallel implementation on GPUs for multi-scalar multiplication algorithm,2024,reference,systems,1,ZKC13E0C94B2,0
+R13,ICICLE v2: polynomial API for coding ZK provers to run on specialized hardware,2024,reference,systems,1,ZK730E2F7C5C,0
+R14,ZKML: an optimizing system for ML inference in zero-knowledge proofs,2024,reference,applications,1,ZK923272111C,0
+R15,BatchZK: a fully pipelined GPU-accelerated system for batch generation of zero-knowledge proofs,2025,reference,systems,1,ZKC5CB313550,0
+R16,Accelerating number theoretic transform with multi-GPU systems for efficient zero knowledge proof,2025,reference,systems,1,ZK4EE59E2579,0
+R17,"Ceno: non-uniform, segment and parallel zero-knowledge virtual machine",2025,reference,systems,1,ZKA110223FD7,0
+R18,Yoimiya: a scalable framework for optimal resource utilization in ZK-SNARK systems,2025,reference,systems,1,ZKEB9B915ABD,0
+R19,ZKProphet: understanding performance of zero-knowledge proofs on GPUs,2025,reference,systems,1,ZKDB4B168289,0
+R20,Pipelonk: accelerating end-to-end zero-knowledge proof generation on GPUs for PLONK-based protocols,2026,reference,systems,1,ZK9AADB8F2B0,0
+R21,MegaZK: a memory efficient GPU system accelerating end-to-end zero-knowledge proof,2026,reference,systems,1,ZKD6868F4733,0
+R22,TensorZKP: repurposing GPU tensor cores for high-performance zero-knowledge proofs,2026,reference,systems,1,ZK8FD8470BFF,0
+R23,LightZK: an efficient GPU acceleration framework for large-scale zero-knowledge proofs,2026,reference,systems,1,ZKE2A68574E8,0

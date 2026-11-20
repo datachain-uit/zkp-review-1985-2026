@@ -1,0 +1,448 @@
+{
+ "LIM": {
+  "COMPUTATIONAL_COST": {
+   "both": 219,
+   "only_sonnet": 10,
+   "only_opus": 23,
+   "kappa": 0.841
+  },
+  "FUNCTIONAL_COVERAGE_LIMIT": {
+   "both": 139,
+   "only_sonnet": 16,
+   "only_opus": 28,
+   "kappa": 0.779
+  },
+  "HARDWARE_PLATFORM_CONSTRAINT": {
+   "both": 27,
+   "only_sonnet": 11,
+   "only_opus": 5,
+   "kappa": 0.751
+  },
+  "IDEALIZED_MODEL": {
+   "both": 39,
+   "only_sonnet": 2,
+   "only_opus": 7,
+   "kappa": 0.885
+  },
+  "INCOMPLETE_OR_INFORMAL_PROOF": {
+   "both": 62,
+   "only_sonnet": 8,
+   "only_opus": 8,
+   "kappa": 0.863
+  },
+  "LIMITED_EMPIRICAL_EVALUATION": {
+   "both": 112,
+   "only_sonnet": 10,
+   "only_opus": 17,
+   "kappa": 0.847
+  },
+  "LOOSE_OR_NONTIGHT_ANALYSIS": {
+   "both": 22,
+   "only_sonnet": 1,
+   "only_opus": 9,
+   "kappa": 0.802
+  },
+  "OTHER": {
+   "both": 22,
+   "only_sonnet": 10,
+   "only_opus": 32,
+   "kappa": 0.46
+  },
+  "PARTIAL_PRIVACY_OR_LEAKAGE": {
+   "both": 56,
+   "only_sonnet": 8,
+   "only_opus": 8,
+   "kappa": 0.853
+  },
+  "PROOF_SIZE_COMMUNICATION": {
+   "both": 88,
+   "only_sonnet": 9,
+   "only_opus": 7,
+   "kappa": 0.892
+  },
+  "STRONG_OR_NONSTANDARD_ASSUMPTION": {
+   "both": 63,
+   "only_sonnet": 3,
+   "only_opus": 13,
+   "kappa": 0.865
+  },
+  "THEORETICAL_SCOPE_LIMIT": {
+   "both": 42,
+   "only_sonnet": 25,
+   "only_opus": 9,
+   "kappa": 0.666
+  },
+  "THREAT_MODEL_RESTRICTION": {
+   "both": 98,
+   "only_sonnet": 12,
+   "only_opus": 5,
+   "kappa": 0.893
+  },
+  "TRUSTED_SETUP": {
+   "both": 66,
+   "only_sonnet": 5,
+   "only_opus": 11,
+   "kappa": 0.869
+  },
+  "VERIFICATION_TOOL_INCOMPLETENESS": {
+   "both": 28,
+   "only_sonnet": 1,
+   "only_opus": 1,
+   "kappa": 0.963
+  },
+  "WEAKENED_SECURITY_NOTION": {
+   "both": 69,
+   "only_sonnet": 12,
+   "only_opus": 19,
+   "kappa": 0.77
+  }
+ },
+ "OPEN": {
+  "APPLICATION_SCOPE_EXTENSION": {
+   "both": 88,
+   "only_sonnet": 15,
+   "only_opus": 25,
+   "kappa": 0.751
+  },
+  "ASSUMPTION_CRYPTANALYSIS": {
+   "both": 20,
+   "only_sonnet": 7,
+   "only_opus": 3,
+   "kappa": 0.787
+  },
+  "COMPILER_AND_DEVELOPER_TOOLING": {
+   "both": 30,
+   "only_sonnet": 17,
+   "only_opus": 3,
+   "kappa": 0.725
+  },
+  "COMPUTATIONAL_COST_PLACEHOLDER": {
+   "both": 0,
+   "only_sonnet": 1,
+   "only_opus": 0,
+   "kappa": 0.0
+  },
+  "FORMAL_VERIFICATION": {
+   "both": 23,
+   "only_sonnet": 0,
+   "only_opus": 2,
+   "kappa": 0.956
+  },
+  "GENERAL_OR_STANDARD_ASSUMPTIONS": {
+   "both": 38,
+   "only_sonnet": 3,
+   "only_opus": 11,
+   "kappa": 0.826
+  },
+  "HARDWARE_AND_PARALLEL_ACCELERATION": {
+   "both": 38,
+   "only_sonnet": 3,
+   "only_opus": 5,
+   "kappa": 0.894
+  },
+  "NOT_REPORTED": {
+   "both": 45,
+   "only_sonnet": 0,
+   "only_opus": 2,
+   "kappa": 0.976
+  },
+  "OTHER": {
+   "both": 5,
+   "only_sonnet": 13,
+   "only_opus": 26,
+   "kappa": 0.158
+  },
+  "PROOF_SYSTEM_EFFICIENCY": {
+   "both": 113,
+   "only_sonnet": 13,
+   "only_opus": 18,
+   "kappa": 0.826
+  },
+  "RECURSION_AND_AGGREGATION": {
+   "both": 17,
+   "only_sonnet": 2,
+   "only_opus": 7,
+   "kappa": 0.78
+  },
+  "SECURITY_NOTIONS_AND_PROOF_TIGHTNESS": {
+   "both": 69,
+   "only_sonnet": 12,
+   "only_opus": 15,
+   "kappa": 0.796
+  },
+  "SEPARATIONS_LOWER_BOUNDS_BARRIERS": {
+   "both": 20,
+   "only_sonnet": 4,
+   "only_opus": 12,
+   "kappa": 0.694
+  },
+  "SYSTEM_FEATURES_AND_DEPLOYMENT": {
+   "both": 63,
+   "only_sonnet": 8,
+   "only_opus": 20,
+   "kappa": 0.778
+  },
+  "THREAT_MODEL_AND_PRIVACY_STRENGTHENING": {
+   "both": 53,
+   "only_sonnet": 19,
+   "only_opus": 8,
+   "kappa": 0.759
+  },
+  "TRUSTED_SETUP_REMOVAL": {
+   "both": 23,
+   "only_sonnet": 1,
+   "only_opus": 1,
+   "kappa": 0.956
+  },
+  "ZK_FRIENDLY_PRIMITIVES_AND_INSTANTIATION": {
+   "both": 22,
+   "only_sonnet": 9,
+   "only_opus": 4,
+   "kappa": 0.755
+  }
+ },
+ "WHY": {
+  "ALGEBRAIC_STRUCTURE_FIT": {
+   "both": 67,
+   "only_sonnet": 19,
+   "only_opus": 17,
+   "kappa": 0.735
+  },
+  "ANALYSIS_TARGET_SELECTION": {
+   "both": 22,
+   "only_sonnet": 2,
+   "only_opus": 6,
+   "kappa": 0.836
+  },
+  "APPLICATION_PRIVACY_FUNCTIONALITY": {
+   "both": 54,
+   "only_sonnet": 13,
+   "only_opus": 21,
+   "kappa": 0.712
+  },
+  "DEPLOYMENT_ENVIRONMENT_FIT": {
+   "both": 67,
+   "only_sonnet": 18,
+   "only_opus": 16,
+   "kappa": 0.747
+  },
+  "MINIMAL_STANDARD_ASSUMPTIONS": {
+   "both": 57,
+   "only_sonnet": 3,
+   "only_opus": 7,
+   "kappa": 0.905
+  },
+  "NON_INTERACTIVITY_ROUND_EFFICIENCY": {
+   "both": 29,
+   "only_sonnet": 2,
+   "only_opus": 7,
+   "kappa": 0.854
+  },
+  "NOT_REPORTED": {
+   "both": 6,
+   "only_sonnet": 1,
+   "only_opus": 1,
+   "kappa": 0.855
+  },
+  "OTHER": {
+   "both": 8,
+   "only_sonnet": 0,
+   "only_opus": 17,
+   "kappa": 0.47
+  },
+  "POST_QUANTUM_SECURITY": {
+   "both": 39,
+   "only_sonnet": 2,
+   "only_opus": 3,
+   "kappa": 0.933
+  },
+  "PROOF_SIZE_COMMUNICATION": {
+   "both": 0,
+   "only_sonnet": 0,
+   "only_opus": 1,
+   "kappa": 0.0
+  },
+  "PROOF_SYSTEM_EFFICIENCY_PLACEHOLDER": {
+   "both": 0,
+   "only_sonnet": 1,
+   "only_opus": 0,
+   "kappa": 0.0
+  },
+  "PROVING_BOTTLENECK_TARGET": {
+   "both": 15,
+   "only_sonnet": 3,
+   "only_opus": 0,
+   "kappa": 0.905
+  },
+  "RECURSION_AND_AGGREGATION": {
+   "both": 0,
+   "only_sonnet": 0,
+   "only_opus": 4,
+   "kappa": 0.0
+  },
+  "REQUIRED_SECURITY_PROPERTY": {
+   "both": 36,
+   "only_sonnet": 6,
+   "only_opus": 15,
+   "kappa": 0.746
+  },
+  "SCALABLE_PROVING": {
+   "both": 82,
+   "only_sonnet": 10,
+   "only_opus": 27,
+   "kappa": 0.759
+  },
+  "SPECIALIZED_OVER_GENERIC": {
+   "both": 33,
+   "only_sonnet": 11,
+   "only_opus": 13,
+   "kappa": 0.701
+  },
+  "SUCCINCT_VERIFICATION": {
+   "both": 176,
+   "only_sonnet": 7,
+   "only_opus": 20,
+   "kappa": 0.87
+  },
+  "SYSTEM_FEATURES_AND_DEPLOYMENT": {
+   "both": 0,
+   "only_sonnet": 0,
+   "only_opus": 1,
+   "kappa": 0.0
+  },
+  "THEORETICAL_ADVANCE": {
+   "both": 25,
+   "only_sonnet": 4,
+   "only_opus": 17,
+   "kappa": 0.678
+  },
+  "THREAT_MODEL_AND_PRIVACY_STRENGTHENING": {
+   "both": 0,
+   "only_sonnet": 0,
+   "only_opus": 1,
+   "kappa": 0.0
+  },
+  "TOOLING_ECOSYSTEM_MATURITY": {
+   "both": 44,
+   "only_sonnet": 7,
+   "only_opus": 10,
+   "kappa": 0.815
+  },
+  "TRANSPARENT_SETUP": {
+   "both": 74,
+   "only_sonnet": 1,
+   "only_opus": 7,
+   "kappa": 0.937
+  },
+  "ZK_FRIENDLY_PRIMITIVES_AND_INSTANTIATION": {
+   "both": 0,
+   "only_sonnet": 0,
+   "only_opus": 4,
+   "kappa": 0.0
+  }
+ },
+ "STMT": {
+  "CIRCUIT_OR_COMPILER_CORRECTNESS": {
+   "both": 15,
+   "only_sonnet": 2,
+   "only_opus": 3,
+   "kappa": 0.851
+  },
+  "CONSTRAINT_SYSTEM_SATISFIABILITY": {
+   "both": 76,
+   "only_sonnet": 8,
+   "only_opus": 14,
+   "kappa": 0.841
+  },
+  "CREDENTIAL_OR_SIGNATURE_POSSESSION": {
+   "both": 39,
+   "only_sonnet": 2,
+   "only_opus": 11,
+   "kappa": 0.84
+  },
+  "DATA_PROCESSING_INTEGRITY": {
+   "both": 29,
+   "only_sonnet": 7,
+   "only_opus": 9,
+   "kappa": 0.763
+  },
+  "ENCRYPTION_WELLFORMEDNESS_CONSISTENCY": {
+   "both": 44,
+   "only_sonnet": 0,
+   "only_opus": 17,
+   "kappa": 0.816
+  },
+  "GENERIC_NP_MEMBERSHIP": {
+   "both": 25,
+   "only_sonnet": 1,
+   "only_opus": 7,
+   "kappa": 0.852
+  },
+  "KNOWLEDGE_OF_SECRET_PREIMAGE": {
+   "both": 49,
+   "only_sonnet": 7,
+   "only_opus": 14,
+   "kappa": 0.795
+  },
+  "LEDGER_STATE_TRANSITION_VALIDITY": {
+   "both": 29,
+   "only_sonnet": 1,
+   "only_opus": 7,
+   "kappa": 0.869
+  },
+  "META_THEORETIC_RESULT": {
+   "both": 23,
+   "only_sonnet": 2,
+   "only_opus": 10,
+   "kappa": 0.778
+  },
+  "ML_COMPUTATION_INTEGRITY": {
+   "both": 34,
+   "only_sonnet": 2,
+   "only_opus": 1,
+   "kappa": 0.954
+  },
+  "NOT_REPORTED": {
+   "both": 7,
+   "only_sonnet": 2,
+   "only_opus": 0,
+   "kappa": 0.873
+  },
+  "OTHER": {
+   "both": 5,
+   "only_sonnet": 6,
+   "only_opus": 6,
+   "kappa": 0.44
+  },
+  "PROGRAM_OR_VM_EXECUTION": {
+   "both": 32,
+   "only_sonnet": 1,
+   "only_opus": 7,
+   "kappa": 0.879
+  },
+  "PROOF_SYSTEM_SUBRELATION": {
+   "both": 23,
+   "only_sonnet": 1,
+   "only_opus": 7,
+   "kappa": 0.842
+  },
+  "PROTOCOL_MESSAGE_HONESTY": {
+   "both": 23,
+   "only_sonnet": 2,
+   "only_opus": 13,
+   "kappa": 0.736
+  },
+  "SET_MEMBERSHIP": {
+   "both": 23,
+   "only_sonnet": 2,
+   "only_opus": 18,
+   "kappa": 0.673
+  },
+  "SHUFFLE_CORRECTNESS": {
+   "both": 8,
+   "only_sonnet": 0,
+   "only_opus": 0,
+   "kappa": 1.0
+  }
+ }
+}

@@ -1,0 +1,168 @@
+{
+  "sonnet": {
+    "n": 200,
+    "axis_kappa": 0.811428571429,
+    "axis_accuracy": 0.835,
+    "pq_kappa": 0.423007573026,
+    "axis2": {
+      "mean_jaccard": 0.6625,
+      "macro_kappa": 0.385826931602,
+      "per_label_kappa": {
+        "APP": 0.27843803056,
+        "BLD": 0.226569608735,
+        "CON": 0.140271493213,
+        "FND": 0.287974683544,
+        "FV": 1.0,
+        "SEC": 0.273255813953,
+        "SUR": 0.395161290323,
+        "SYS": 0.484944532488
+      }
+    },
+    "family": {
+      "mean_jaccard": 0.725,
+      "macro_kappa": 0.782784158637,
+      "per_label_kappa": {
+        "CLASSIC_IP": 0.68112244898,
+        "CODE_BASED": 0.920508744038,
+        "FOLDING": 1.0,
+        "FRI_STARK": 0.789915966387,
+        "GKR_SUMCHECK": 0.761904761905,
+        "IPA_BP": 1.0,
+        "LATTICE": 0.828326180258,
+        "MPC_ITH": 1.0,
+        "OTHER": 0.284140969163,
+        "PAIRING_NIZK": 1.0,
+        "PLONKISH": 0.792531120332,
+        "QAP_SNARK": 0.434868606951,
+        "SIGMA": 0.682875264271
+      }
+    },
+    "layer": {
+      "mean_jaccard": 0.921666666667,
+      "macro_kappa": 0.836957854807,
+      "per_label_kappa": {
+        "CPU_ALGO": 0.322033898305,
+        "DISTRIB": 1.0,
+        "FPGA_ASIC": 1.0,
+        "FRONTEND": 0.768824306473,
+        "GPU": 1.0,
+        "LIBRARY": 0.767846778874,
+        "ZKVM": 1.0
+      }
+    },
+    "domain": {
+      "mean_jaccard": 0.783125,
+      "macro_kappa": 0.76199312711,
+      "per_label_kappa": {
+        "BC_PRIV": 0.726640159046,
+        "BC_SCALE": 0.59826946848,
+        "DATA": 0.653739612188,
+        "FINANCE": 0.724669603524,
+        "GOV_SOC": 0.851961509993,
+        "HEALTH": 0.797570850202,
+        "IDENTITY": 0.768713204373,
+        "IOT": 0.894792214624,
+        "ML": 0.894736842105,
+        "NETWORK": 0.656652360515,
+        "OTHER": 0.484536082474,
+        "SUPPLY": 1.0,
+        "VC_CLOUD": 0.68487394958,
+        "VOTING": 0.930747922438
+      }
+    },
+    "cq": {
+      "mean_jaccard": 0.97,
+      "macro_kappa": 0.889387930068,
+      "per_label_kappa": {
+        "FORMAL": 0.934754240974,
+        "IMPL_BUG": 0.854651162791,
+        "SETUP": 1.0,
+        "SIDECHANNEL": 1.0,
+        "UNDERCONSTRAINED": 0.657534246575
+      }
+    }
+  },
+  "opus": {
+    "n": 200,
+    "axis_kappa": 0.896184791072,
+    "axis_accuracy": 0.91,
+    "pq_kappa": 0.348171701113,
+    "axis2": {
+      "mean_jaccard": 0.745,
+      "macro_kappa": 0.521425064723,
+      "per_label_kappa": {
+        "APP": 0.558498896247,
+        "BLD": 0.475890985325,
+        "CON": 0.423631123919,
+        "FND": 0.381868131868,
+        "FV": 1.0,
+        "SEC": 0.433106575964,
+        "SUR": 0.327731092437,
+        "SYS": 0.570673712021
+      }
+    },
+    "family": {
+      "mean_jaccard": 0.80125,
+      "macro_kappa": 0.842826395132,
+      "per_label_kappa": {
+        "CLASSIC_IP": 0.712643678161,
+        "CODE_BASED": 1.0,
+        "FOLDING": 1.0,
+        "FRI_STARK": 0.749498997996,
+        "GKR_SUMCHECK": 0.906542056075,
+        "IPA_BP": 0.854651162791,
+        "LATTICE": 0.930747922438,
+        "MPC_ITH": 1.0,
+        "OTHER": 0.739752765127,
+        "PAIRING_NIZK": 1.0,
+        "PLONKISH": 0.792531120332,
+        "QAP_SNARK": 0.513618677043,
+        "SIGMA": 0.756756756757
+      }
+    },
+    "layer": {
+      "mean_jaccard": 0.930833333333,
+      "macro_kappa": 0.827376204161,
+      "per_label_kappa": {
+        "CPU_ALGO": 0.353049907579,
+        "DISTRIB": 0.854651162791,
+        "FPGA_ASIC": 1.0,
+        "FRONTEND": 0.767981438515,
+        "GPU": 1.0,
+        "LIBRARY": 0.815950920245,
+        "ZKVM": 1.0
+      }
+    },
+    "domain": {
+      "mean_jaccard": 0.769285714286,
+      "macro_kappa": 0.774764688838,
+      "per_label_kappa": {
+        "BC_PRIV": 0.788079470199,
+        "BC_SCALE": 0.640287769784,
+        "DATA": 0.693251533742,
+        "FINANCE": 0.869876382563,
+        "GOV_SOC": 0.703923019985,
+        "HEALTH": 0.797570850202,
+        "IDENTITY": 0.651810584958,
+        "IOT": 1.0,
+        "ML": 0.949748743719,
+        "NETWORK": 0.761526232114,
+        "OTHER": 0.443561208267,
+        "SUPPLY": 0.797570850202,
+        "VC_CLOUD": 0.749498997996,
+        "VOTING": 1.0
+      }
+    },
+    "cq": {
+      "mean_jaccard": 0.981666666667,
+      "macro_kappa": 0.921384982165,
+      "per_label_kappa": {
+        "FORMAL": 0.957191780822,
+        "IMPL_BUG": 0.854651162791,
+        "SETUP": 1.0,
+        "SIDECHANNEL": 1.0,
+        "UNDERCONSTRAINED": 0.795081967213
+      }
+    }
+  }
+}

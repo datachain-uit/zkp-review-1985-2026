@@ -1,0 +1,4 @@
+stratum,rid,human_decision,human_reason,human_note,route,haiku,sonnet,opus,title
+main,ZK8F0A8D37B4,I,,,majority,E,E,E,Zero knowledge and the chromatic number
+extra_majority,ZK597C4AC4CD,I,,,majority,E,I,E,Zero-Check: A Zero-Knowledge Protocol for Reconciling Patient Identities Across Institutions
+extra_majority,ZKEFA479ED95,I,,,majority,I,E,E,Quantum ZKPs and digital inequality: Rethinking privacy governance in the post-quantum era

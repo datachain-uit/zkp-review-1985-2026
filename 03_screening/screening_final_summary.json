@@ -1,0 +1,18 @@
+{
+  "screened": 16161,
+  "final": {
+    "EXCLUDE": 5961,
+    "INCLUDE": 10200
+  },
+  "by_decider": {
+    "EXCLUDE | R1 (third screener unsure)": 101,
+    "EXCLUDE | ensemble": 4350,
+    "EXCLUDE | majority": 1510,
+    "INCLUDE | Opus-high recheck (reinstated)": 51,
+    "INCLUDE | R1 (reinstated after repeat labelling)": 4,
+    "INCLUDE | R1 (reinstated by blind audit)": 3,
+    "INCLUDE | R1 (third screener unsure)": 23,
+    "INCLUDE | ensemble": 9463,
+    "INCLUDE | majority": 656
+  }
+}

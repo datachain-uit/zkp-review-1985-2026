@@ -1,0 +1,33 @@
+{
+ "windows": [
+  [
+   2019,
+   2023
+  ],
+  [
+   2024,
+   2026
+  ]
+ ],
+ "n_docs": [
+  2585,
+  4477
+ ],
+ "emerging": [
+  "Quantum-resistant frameworks (applied)",
+  "ZK for federated / machine learning",
+  "Academic credential verification",
+  "Reed–Solomon proximity and FRI",
+  "Supply-chain traceability"
+ ],
+ "declining": [
+  "SNARK simulation-extractability and updatability",
+  "Fiat–Shamir and random-oracle proofs",
+  "Commitment schemes",
+  "Lattice-based group signatures",
+  "Physical and card-based ZK",
+  "Encryption schemes with ZK",
+  "NIZKs from standard assumptions"
+ ],
+ "n_topics": 51
+}

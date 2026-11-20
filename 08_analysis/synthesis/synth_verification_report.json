@@ -1,0 +1,89 @@
+{
+ "dropped_out_of_codebook": 13,
+ "fields": {
+  "LIM": {
+   "works": 42,
+   "exact_set_union": 0.5,
+   "precision_union": 0.854,
+   "recall_union": 0.992,
+   "precision_agreed": 0.973,
+   "precision_single": 0.525,
+   "recall_agreed": 0.831,
+   "labels": {
+    "ag": 111,
+    "ag_ok": 108,
+    "si": 40,
+    "si_ok": 21,
+    "r1": 130,
+    "r1_union": 129,
+    "r1_ag": 108,
+    "works": 42,
+    "exact": 21
+   },
+   "full_R1_review_needed": false
+  },
+  "OPEN": {
+   "works": 42,
+   "exact_set_union": 0.667,
+   "precision_union": 0.827,
+   "recall_union": 0.988,
+   "precision_agreed": 0.972,
+   "precision_single": 0.423,
+   "recall_agreed": 0.854,
+   "labels": {
+    "ag": 72,
+    "ag_ok": 70,
+    "si": 26,
+    "si_ok": 11,
+    "r1": 82,
+    "r1_union": 81,
+    "r1_ag": 70,
+    "works": 42,
+    "exact": 28
+   },
+   "full_R1_review_needed": false
+  },
+  "WHY": {
+   "works": 42,
+   "exact_set_union": 0.571,
+   "precision_union": 0.855,
+   "recall_union": 0.971,
+   "precision_agreed": 0.988,
+   "precision_single": 0.5,
+   "recall_agreed": 0.816,
+   "labels": {
+    "ag": 85,
+    "ag_ok": 84,
+    "si": 32,
+    "si_ok": 16,
+    "r1": 103,
+    "r1_union": 100,
+    "r1_ag": 84,
+    "works": 42,
+    "exact": 24
+   },
+   "full_R1_review_needed": false
+  },
+  "STMT": {
+   "works": 42,
+   "exact_set_union": 0.762,
+   "precision_union": 0.87,
+   "recall_union": 1.0,
+   "precision_agreed": 1.0,
+   "precision_single": 0.524,
+   "recall_agreed": 0.836,
+   "labels": {
+    "ag": 56,
+    "ag_ok": 56,
+    "si": 21,
+    "si_ok": 11,
+    "r1": 67,
+    "r1_union": 67,
+    "r1_ag": 56,
+    "works": 42,
+    "exact": 32
+   },
+   "full_R1_review_needed": false
+  }
+ }
+}

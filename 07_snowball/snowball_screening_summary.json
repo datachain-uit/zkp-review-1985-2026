@@ -1,0 +1,27 @@
+{
+  "term": {
+    "INCLUDE": 135,
+    "EXCLUDE": 59,
+    "HUMAN": 1
+  },
+  "citation": {
+    "INCLUDE": 94,
+    "EXCLUDE": 417,
+    "HUMAN": 26
+  },
+  "prefilter_sample": {
+    "EXCLUDE": 175,
+    "HUMAN": 16,
+    "INCLUDE": 9
+  },
+  "prefilter_cited50": {
+    "EXCLUDE": 4525,
+    "HUMAN": 246,
+    "INCLUDE": 118
+  },
+  "enriched_records": 142,
+  "enriched_final": {
+    "EXCLUDE": 124,
+    "INCLUDE": 18
+  }
+}

@@ -1,0 +1,825 @@
+{
+ "seed": 20261112,
+ "sample_sids": [
+  "S2",
+  "S8",
+  "S9",
+  "S10",
+  "S15",
+  "S20",
+  "S25",
+  "S26",
+  "S29",
+  "S30",
+  "S31",
+  "S35",
+  "S38",
+  "S40",
+  "S48",
+  "S52",
+  "S53",
+  "S54",
+  "S59",
+  "S60",
+  "S61",
+  "S62",
+  "S65",
+  "S69",
+  "S83",
+  "S86",
+  "S89",
+  "S93",
+  "S96",
+  "S116",
+  "S117",
+  "S120",
+  "S121",
+  "S134",
+  "S135",
+  "S139",
+  "S148",
+  "S155",
+  "S156",
+  "S161",
+  "S169",
+  "S173",
+  "S176",
+  "S188",
+  "S191",
+  "S192",
+  "S199",
+  "S202",
+  "S203",
+  "S208",
+  "S210",
+  "S211",
+  "S220",
+  "S221",
+  "S222",
+  "S224",
+  "S229",
+  "S233",
+  "S234",
+  "S239",
+  "S241",
+  "S250",
+  "S252",
+  "S257",
+  "S259",
+  "S260",
+  "S261",
+  "S263",
+  "S264",
+  "S268",
+  "S270",
+  "S274",
+  "S276",
+  "S282",
+  "S284",
+  "S287",
+  "S288",
+  "S289",
+  "S290",
+  "S295",
+  "S298",
+  "S299",
+  "S305",
+  "S316",
+  "S318",
+  "S321",
+  "S324",
+  "S331",
+  "S338",
+  "S340"
+ ],
+ "fields": {
+  "LIM": {
+   "field": "author_stated_limitations",
+   "codes": [
+    {
+     "code": "WEAKENED_SECURITY_NOTION",
+     "definition": "The authors prove only a weaker version of a security or proof-system property than the strongest one in use, such as honest-verifier ZK, computational rather than perfect or statistical ZK, single-theorem, non-adaptive, selective, CPA-only or rewinding-only knowledge soundness.",
+     "rule": "Use this code when the formal definition achieved is a weaker variant of the property. If the limitation is about which parties are assumed honest or which attacks are excluded, use THREAT_MODEL_RESTRICTION instead.",
+     "examples": [
+      "S48",
+      "S53",
+      "S117",
+      "S324"
+     ]
+    },
+    {
+     "code": "STRONG_OR_NONSTANDARD_ASSUMPTION",
+     "definition": "Security rests on new, non-falsifiable, knowledge-type, under-analysed or narrowly specific hardness assumptions, or on heavy primitives such as iO.",
+     "rule": "Use this code when the complaint is about which hardness assumption is used. If the complaint is about an idealized model of computation, such as random oracles, oracle-relative results, AGM/GGM or symbolic models, use IDEALIZED_MODEL.",
+     "examples": [
+      "S52",
+      "S169",
+      "S188",
+      "S116"
+     ]
+    },
+    {
+     "code": "IDEALIZED_MODEL",
+     "definition": "Results hold only in an idealized or abstract model, such as the random oracle model, relative to an oracle, the algebraic or generic group model, or a symbolic/Dolev-Yao abstraction, and may not carry over to real instantiations.",
+     "rule": "Use this code when the gap is between the model and the real world. If the issue is a concrete number-theoretic or lattice assumption, use STRONG_OR_NONSTANDARD_ASSUMPTION.",
+     "examples": [
+      "S25",
+      "S61",
+      "S93",
+      "S40"
+     ]
+    },
+    {
+     "code": "TRUSTED_SETUP",
+     "definition": "The scheme needs a trusted (per-circuit, universal or updatable) setup or a reference string produced by a trusted party.",
+     "rule": "Use this code only when the trusted element is the generation of setup parameters or a CRS. For other trusted entities during operation, such as servers, auditors, honest majorities or relays, use THREAT_MODEL_RESTRICTION.",
+     "examples": [
+      "S134",
+      "S199",
+      "S202",
+      "S121"
+     ]
+    },
+    {
+     "code": "THREAT_MODEL_RESTRICTION",
+     "definition": "Security holds only under restrictive adversary or trust assumptions, such as semi-honest or non-colluding parties, honest majority, static corruption, trusted operators or channels, or with attack surfaces (network, side-channel, hardware tampering) explicitly declared out of scope.",
+     "rule": "Use this code for who is trusted and which attacks are considered. Use WEAKENED_SECURITY_NOTION for weaker formal property variants and TRUSTED_SETUP for parameter generation.",
+     "examples": [
+      "S69",
+      "S270",
+      "S192",
+      "S221"
+     ]
+    },
+    {
+     "code": "LOOSE_OR_NONTIGHT_ANALYSIS",
+     "definition": "The security analysis is valid but quantitatively weak: non-tight reductions, large security loss, weak constants, or bounds the authors suspect are proof artifacts.",
+     "rule": "Use this code when proofs exist and are complete but lose tightness. If proofs are missing, sketched or informal, use INCOMPLETE_OR_INFORMAL_PROOF.",
+     "examples": [
+      "S25",
+      "S38",
+      "S59",
+      "S89"
+     ]
+    },
+    {
+     "code": "INCOMPLETE_OR_INFORMAL_PROOF",
+     "definition": "Proofs are omitted, deferred to a full version, only sketched, or replaced by informal arguments, or a formal proof or composition theorem is missing.",
+     "rule": "Use this code when the rigour of the security argument itself is the limitation, not the strength of the bound it gives (see LOOSE_OR_NONTIGHT_ANALYSIS).",
+     "examples": [
+      "S2",
+      "S10",
+      "S65",
+      "S268"
+     ]
+    },
+    {
+     "code": "THEORETICAL_SCOPE_LIMIT",
+     "definition": "A theorem, impossibility result, attack or cryptanalysis applies only to particular models, classes of reductions, group types, parameter regimes or proof-system variants.",
+     "rule": "Use this code for the reach of a mathematical result. If what is limited is the feature set of an implemented system, language or compiler, use FUNCTIONAL_COVERAGE_LIMIT.",
+     "examples": [
+      "S20",
+      "S318",
+      "S263",
+      "S15"
+     ]
+    },
+    {
+     "code": "FUNCTIONAL_COVERAGE_LIMIT",
+     "definition": "The system, compiler, circuit or protocol supports only a subset of the intended functionality, such as bounded circuits, no data-dependent control flow, restricted operations or data types, a single standard or format, static data, or narrow model/use-case classes.",
+     "rule": "Use this code for missing features or unsupported inputs and workloads. If the feature exists but is too slow or too large, use COMPUTATIONAL_COST or PROOF_SIZE_COMMUNICATION.",
+     "examples": [
+      "S135",
+      "S259",
+      "S199",
+      "S224"
+     ]
+    },
+    {
+     "code": "PROOF_SIZE_COMMUNICATION",
+     "definition": "Proofs, ciphertexts or protocol messages are large or grow non-succinctly, for example linearly or logarithmically rather than constant, or communication and bandwidth are high compared with alternatives.",
+     "rule": "Use this code for costs measured in bytes or rounds sent. Use COMPUTATIONAL_COST for time, memory, latency or monetary costs.",
+     "examples": [
+      "S83",
+      "S161",
+      "S173",
+      "S305"
+     ]
+    },
+    {
+     "code": "COMPUTATIONAL_COST",
+     "definition": "Prover or verifier time, latency, memory, preprocessing or on-chain gas/monetary cost is high or scales poorly.",
+     "rule": "Use this code for resource costs that do not depend on a specific hardware platform. If the bottleneck is attributed to accelerator hardware resources, such as FPGA DSP or routing, GPU memory or multi-GPU parallelisation, use HARDWARE_PLATFORM_CONSTRAINT.",
+     "examples": [
+      "S62",
+      "S284",
+      "S30",
+      "S203"
+     ]
+    },
+    {
+     "code": "HARDWARE_PLATFORM_CONSTRAINT",
+     "definition": "Performance or design is limited by the target hardware platform: FPGA resources and clock frequency, GPU memory or bank conflicts, PCIe communication, curve support on the device, or limited multi-device scaling.",
+     "rule": "Use this code only when the authors attribute the limitation to the accelerator or hardware architecture. General algorithmic slowness belongs to COMPUTATIONAL_COST.",
+     "examples": [
+      "S261",
+      "S257",
+      "S241",
+      "S288"
+     ]
+    },
+    {
+     "code": "LIMITED_EMPIRICAL_EVALUATION",
+     "definition": "The evaluation is weak: no implementation, only analytical or estimated costs, an unoptimised prototype, simulated environments, hypothetical baselines, or a narrow benchmark/platform selection.",
+     "rule": "Use this code for limitations in the evidence base of the paper's claims. If the measured result itself is bad, use the relevant cost code.",
+     "examples": [
+      "S15",
+      "S220",
+      "S252",
+      "S299"
+     ]
+    },
+    {
+     "code": "PARTIAL_PRIVACY_OR_LEAKAGE",
+     "definition": "The concrete system or prototype does not hide everything it should: it lacks zero-knowledge, leaks structure, metadata or values, weakens unlinkability, or uses insecure placeholder primitives.",
+     "rule": "Use this code for concrete information that leaks in a system or prototype. Use WEAKENED_SECURITY_NOTION for a formally weaker ZK definition such as HVZK.",
+     "examples": [
+      "S176",
+      "S121",
+      "S148",
+      "S282"
+     ]
+    },
+    {
+     "code": "VERIFICATION_TOOL_INCOMPLETENESS",
+     "definition": "Formal verification, testing or solver-based tooling for ZK circuits or compilers is incomplete: unverified trusted components, manual proof obligations, solver incompleteness or timeouts, bounded verification, or false positives and negatives.",
+     "rule": "Use this code only for studies whose contribution is a verification, testing or analysis tool, and when the limitation concerns the assurance that tool provides. Use FUNCTIONAL_COVERAGE_LIMIT for missing language features in a compiler.",
+     "examples": [
+      "S210",
+      "S211",
+      "S290",
+      "S316"
+     ]
+    },
+    {
+     "code": "OTHER",
+     "definition": "A stated limitation that fits none of the codes above, such as loss of accuracy from approximation, imprecise heuristics, or a lack of user-configurable options.",
+     "rule": "Use this code only after every substantive code has been ruled out. Record a short label so the codebook can be revised.",
+     "examples": [
+      "S340",
+      "S120",
+      "S264"
+     ]
+    }
+   ]
+  },
+  "OPEN": {
+   "field": "open_problems_future_work",
+   "codes": [
+    {
+     "code": "SEPARATIONS_LOWER_BOUNDS_BARRIERS",
+     "definition": "Complexity questions that are still open: whether ZK classes are properly separated, whether some object exists at all, impossibility results, and whether known barriers or lower bounds go further (for example beyond black-box simulation, to non-uniform reductions, or without oracles).",
+     "rule": "Use this when the open question is whether something can exist or be ruled out in principle. If the question is how to build it from better assumptions, use GENERAL_OR_STANDARD_ASSUMPTIONS instead.",
+     "examples": [
+      "S2",
+      "S20",
+      "S318",
+      "S61"
+     ]
+    },
+    {
+     "code": "GENERAL_OR_STANDARD_ASSUMPTIONS",
+     "definition": "Calls to build a known primitive (NIZK, iO, CI hashing, CCA-secure FHE, SNARGs) from weaker, more general or standard assumptions, or in the standard model instead of an idealised model.",
+     "rule": "Use this when the goal is a construction from a different assumption. If the work is studying how hard an existing assumption really is, use ASSUMPTION_CRYPTANALYSIS.",
+     "examples": [
+      "S9",
+      "S116",
+      "S117",
+      "S305"
+     ]
+    },
+    {
+     "code": "ASSUMPTION_CRYPTANALYSIS",
+     "definition": "Calls to analyse new or non-standard hardness assumptions or idealised models: better classical or quantum attacks, reductions to standard problems, or checking whether the model is sound.",
+     "rule": "Use this when the object of study is the assumption or model itself (for example one-more-ISIS, k-R-ISIS, AGM). If the assumption is only a means to build something, use GENERAL_OR_STANDARD_ASSUMPTIONS.",
+     "examples": [
+      "S169",
+      "S188",
+      "S93"
+     ]
+    },
+    {
+     "code": "SECURITY_NOTIONS_AND_PROOF_TIGHTNESS",
+     "definition": "Gaps in the formal security analysis: stronger notions still to be reached (unbounded non-malleability, adaptive security, concurrent or quantum security, straightline extraction), tighter bounds, unproven conjectures, or formal treatments that are missing.",
+     "rule": "Use this for theory-level definitions and proofs of a cryptographic scheme. Use THREAT_MODEL_AND_PRIVACY_STRENGTHENING when the issue is the trust or leakage model of a deployed system.",
+     "examples": [
+      "S29",
+      "S59",
+      "S220",
+      "S324"
+     ]
+    },
+    {
+     "code": "PROOF_SYSTEM_EFFICIENCY",
+     "definition": "Calls to improve the asymptotic or concrete cost of the proof system itself: proof size, prover time, verifier time, query complexity or succinctness.",
+     "rule": "Use this when the improvement comes from protocol or algorithm design. If it comes from choosing different primitives or curves, use ZK_FRIENDLY_PRIMITIVES_AND_INSTANTIATION. If it comes from hardware or parallelism, use HARDWARE_AND_PARALLEL_ACCELERATION.",
+     "examples": [
+      "S86",
+      "S52",
+      "S233",
+      "S340"
+     ]
+    },
+    {
+     "code": "TRUSTED_SETUP_REMOVAL",
+     "definition": "Calls to replace trusted-setup proof systems with transparent or universal-setup ones, or to distribute the setup ceremony.",
+     "rule": "Use this only when the setup trust model is the stated motivation. A general request to switch backends for speed or proof size goes to ZK_FRIENDLY_PRIMITIVES_AND_INSTANTIATION.",
+     "examples": [
+      "S134",
+      "S192",
+      "S199",
+      "S202"
+     ]
+    },
+    {
+     "code": "ZK_FRIENDLY_PRIMITIVES_AND_INSTANTIATION",
+     "definition": "Calls to design or choose primitives, algebraic structures or backends that suit ZK: symmetric primitives with few AND gates, ciphers with smaller circuits, PCD-friendly curve cycles, prime-order or elliptic-curve groups, bilinear modules, ZK-friendly quantization.",
+     "rule": "Use this when the open item is which building block or setting to instantiate with. Changes to the proof protocol itself go to PROOF_SYSTEM_EFFICIENCY.",
+     "examples": [
+      "S89",
+      "S173",
+      "S30",
+      "S35"
+     ]
+    },
+    {
+     "code": "RECURSION_AND_AGGREGATION",
+     "definition": "Calls for recursive composition, incrementally verifiable computation or PCD, folding, batching, or aggregation of proofs, signatures or credential shows.",
+     "rule": "Use this when proofs are composed or combined. Parallelising the proving of a single proof goes to HARDWARE_AND_PARALLEL_ACCELERATION.",
+     "examples": [
+      "S259",
+      "S284",
+      "S121",
+      "S321"
+     ]
+    },
+    {
+     "code": "HARDWARE_AND_PARALLEL_ACCELERATION",
+     "definition": "Calls to speed up proving with GPUs, FPGAs, ASICs, tensor cores, multi-threading, or distributed proving across machines.",
+     "rule": "Use this when the gain comes from the execution platform or from parallelism, not from changing the protocol.",
+     "examples": [
+      "S241",
+      "S257",
+      "S260",
+      "S270"
+     ]
+    },
+    {
+     "code": "FORMAL_VERIFICATION",
+     "definition": "Calls for machine-checked or certified correctness: verified compilers, mechanised Fiat-Shamir proofs, finite-field SMT solving, and automation of proofs about circuits or programs.",
+     "rule": "Use this when the goal is a correctness guarantee for a proof, compiler or circuit. Work on the features or performance of developer tools goes to COMPILER_AND_DEVELOPER_TOOLING.",
+     "examples": [
+      "S211",
+      "S210",
+      "S221",
+      "S229"
+     ]
+    },
+    {
+     "code": "COMPILER_AND_DEVELOPER_TOOLING",
+     "definition": "Calls to extend ZK compilers, DSLs and zkVMs: new language features or targets, static analyses, cost models and optimisation passes, testing and fuzzing.",
+     "rule": "Use this for the usability, expressivity or performance of the toolchain. Mechanised correctness proofs go to FORMAL_VERIFICATION.",
+     "examples": [
+      "S135",
+      "S299",
+      "S316",
+      "S65"
+     ]
+    },
+    {
+     "code": "THREAT_MODEL_AND_PRIVACY_STRENGTHENING",
+     "definition": "Calls to relax the trust assumptions of a system (honest server, honest-but-curious), to resist stronger adversaries (malicious, colluding or compromised parties), or to hide more information (model structure, attributes, identities, access patterns).",
+     "rule": "Use this for system-level adversary and leakage models. Formal security definitions of a cryptographic primitive go to SECURITY_NOTIONS_AND_PROOF_TIGHTNESS.",
+     "examples": [
+      "S69",
+      "S289",
+      "S176",
+      "S298"
+     ]
+    },
+    {
+     "code": "APPLICATION_SCOPE_EXTENSION",
+     "definition": "Calls to carry the technique over to new domains, models, protocols or platforms, for example other threshold signatures, CNNs, video, other zk-rollups, homomorphic encryption, or new uses of the concept.",
+     "rule": "Use this when the same technique is moved to a different target. Adding features to the same system, or deploying it, goes to SYSTEM_FEATURES_AND_DEPLOYMENT.",
+     "examples": [
+      "S10",
+      "S331",
+      "S224",
+      "S288"
+     ]
+    },
+    {
+     "code": "SYSTEM_FEATURES_AND_DEPLOYMENT",
+     "definition": "Practical work still needed on an applied system: missing functionality (dynamic data, ownership transfer, payments), real-world deployment, scaling to production load, cross-chain interoperability, and economic or incentive design.",
+     "rule": "Use this when the work is completing or deploying the system the paper proposes. Moving the technique to a different target goes to APPLICATION_SCOPE_EXTENSION.",
+     "examples": [
+      "S156",
+      "S268",
+      "S234",
+      "S203"
+     ]
+    },
+    {
+     "code": "NOT_REPORTED",
+     "definition": "The study states no open problems or future work.",
+     "rule": "Use this only when both extractions are NR. If either extraction gives content, code that content.",
+     "examples": [
+      "S8",
+      "S26",
+      "S31",
+      "S54"
+     ]
+    },
+    {
+     "code": "OTHER",
+     "definition": "A stated open problem that fits none of the codes above.",
+     "rule": "Use this only after checking every substantive code. Review it if it reaches about 5% or more of segments.",
+     "examples": [
+      "S15"
+     ]
+    }
+   ]
+  },
+  "WHY": {
+   "field": "Stated reasons for choosing the proof system or approach used",
+   "codes": [
+    {
+     "code": "SUCCINCT_VERIFICATION",
+     "definition": "The approach was chosen for small proofs, low communication, or cheap or fast verification.",
+     "rule": "Use this code for costs on the verifier side or in communication (proof size, verification time, bandwidth). Speed or memory on the prover side goes to SCALABLE_PROVING. Cheap verification that is required by a specific chain or device goes to DEPLOYMENT_ENVIRONMENT_FIT.",
+     "examples": [
+      "S25",
+      "S48",
+      "S192",
+      "S340"
+     ]
+    },
+    {
+     "code": "SCALABLE_PROVING",
+     "definition": "The approach was chosen for fast prover time (for example linear time), low prover memory, or the ability to scale to very large statements or circuits.",
+     "rule": "Use this code when the reason concerns how much the prover spends on computation or memory. Proof size and verifier cost go to SUCCINCT_VERIFICATION. Accelerating a step that dominates proving cost goes to PROVING_BOTTLENECK_TARGET.",
+     "examples": [
+      "S83",
+      "S155",
+      "S176",
+      "S324"
+     ]
+    },
+    {
+     "code": "TRANSPARENT_SETUP",
+     "definition": "The approach was chosen because it needs no trusted setup, or uses a public-coin or universal setup, or because a trusted setup is argued to be acceptable in the given trust model.",
+     "rule": "Use this code for reasons about the setup phase or trusted parameters only. Reasons about hardness assumptions or the random oracle model go to MINIMAL_STANDARD_ASSUMPTIONS, even when the two are mentioned together.",
+     "examples": [
+      "S60",
+      "S86",
+      "S148",
+      "S192"
+     ]
+    },
+    {
+     "code": "MINIMAL_STANDARD_ASSUMPTIONS",
+     "definition": "The approach was chosen because its security rests on weak, standard, or falsifiable assumptions (for example DLOG, LWE, or the standard model with no random oracle), or because it adds no new assumptions.",
+     "rule": "Use this code for classical assumption strength. If the main argument is resistance to quantum adversaries, code POST_QUANTUM_SECURITY instead.",
+     "examples": [
+      "S30",
+      "S117",
+      "S139",
+      "S305"
+     ]
+    },
+    {
+     "code": "POST_QUANTUM_SECURITY",
+     "definition": "The approach was chosen for plausible or proven security against quantum adversaries, for example hash-, symmetric-key- or lattice-based constructions, QROM proofs, or avoiding transforms that are insecure under quantum attack.",
+     "rule": "Use this code only when quantum resistance is stated explicitly. Lattice or hash assumptions that are justified only as 'standard' go to MINIMAL_STANDARD_ASSUMPTIONS.",
+     "examples": [
+      "S59",
+      "S89",
+      "S96",
+      "S321"
+     ]
+    },
+    {
+     "code": "REQUIRED_SECURITY_PROPERTY",
+     "definition": "The approach was chosen because it provides a specific formal security property that the construction needs, such as composability, non-malleability, perfect zero-knowledge, witness indistinguishability, or simulation sufficient for CCA security.",
+     "rule": "Use this code for formal cryptographic guarantees of the proof system itself. User-facing privacy features of the application (anonymity, unlinkability, selective disclosure) go to APPLICATION_PRIVACY_FUNCTIONALITY.",
+     "examples": [
+      "S10",
+      "S29",
+      "S31",
+      "S53"
+     ]
+    },
+    {
+     "code": "NON_INTERACTIVITY_ROUND_EFFICIENCY",
+     "definition": "The approach was chosen to remove interaction or reduce the number of rounds or flows (for example NIZK with a CRS, one-pass or two-round protocols, no online interaction).",
+     "rule": "Use this code when the number of messages or rounds is the stated reason. Total communication volume goes to SUCCINCT_VERIFICATION.",
+     "examples": [
+      "S9",
+      "S38",
+      "S54",
+      "S116"
+     ]
+    },
+    {
+     "code": "ALGEBRAIC_STRUCTURE_FIT",
+     "definition": "The approach was chosen because it matches the algebraic structure of the statement or of adjacent primitives (native fields or groups, homomorphic encryption or commitments, inner-product or lattice relations), so costly conversions or NP reductions are avoided.",
+     "rule": "Use this code when the argument is structural compatibility with the surrounding primitives or statement. If the argument is mainly that a general-purpose SNARK would be too expensive, code SPECIALIZED_OVER_GENERIC.",
+     "examples": [
+      "S35",
+      "S62",
+      "S188",
+      "S224"
+     ]
+    },
+    {
+     "code": "SPECIALIZED_OVER_GENERIC",
+     "definition": "A custom or statement-specific proof was chosen because general-purpose proof systems (generic SNARKs, circuit-based NIZK) are explicitly judged too costly for the task.",
+     "rule": "Use this code only when an explicit comparison with a generic or general-purpose alternative motivates the choice. Structural matching without that comparison goes to ALGEBRAIC_STRUCTURE_FIT.",
+     "examples": [
+      "S156",
+      "S169",
+      "S173",
+      "S276"
+     ]
+    },
+    {
+     "code": "DEPLOYMENT_ENVIRONMENT_FIT",
+     "definition": "The approach was chosen to meet constraints of the target execution environment or system model, such as blockchain or smart-contract verification and precompiles, constrained devices, or delegated, distributed, or MPC-based proving.",
+     "rule": "Use this code when a named platform or system architecture dictates the requirement (for example BN254 on Ethereum, smart cards, decentralized verifiers). Generic efficiency claims without such a platform go to SUCCINCT_VERIFICATION or SCALABLE_PROVING.",
+     "examples": [
+      "S15",
+      "S199",
+      "S264",
+      "S295"
+     ]
+    },
+    {
+     "code": "TOOLING_ECOSYSTEM_MATURITY",
+     "definition": "The approach was chosen because it is mature, widely used, open source, well supported by tools, or a de facto standard format (for example R1CS, LLVM toolchains, ZoKrates).",
+     "rule": "Use this code when the system is used as a building block because of its adoption. If the system was selected as the object to be analysed, attacked, or benchmarked, code ANALYSIS_TARGET_SELECTION.",
+     "examples": [
+      "S135",
+      "S211",
+      "S282",
+      "S299"
+     ]
+    },
+    {
+     "code": "APPLICATION_PRIVACY_FUNCTIONALITY",
+     "definition": "The approach was chosen because it enables application-level privacy or functional goals, such as anonymous or unlinkable authentication, selective disclosure, confidential verification of business data, or flexible access policies.",
+     "rule": "Use this code when the reason is stated as a feature for the end application or user. Formal proof-system guarantees go to REQUIRED_SECURITY_PROPERTY.",
+     "examples": [
+      "S40",
+      "S202",
+      "S250",
+      "S268"
+     ]
+    },
+    {
+     "code": "PROVING_BOTTLENECK_TARGET",
+     "definition": "A specific component (for example MSM or NTT) was chosen as the focus of optimization or hardware acceleration because it dominates proof-generation cost.",
+     "rule": "Use this code when the choice is about which part of an existing pipeline to accelerate, not which proof system to adopt. Proof-system selection for prover speed goes to SCALABLE_PROVING.",
+     "examples": [
+      "S241",
+      "S252",
+      "S260",
+      "S261"
+     ]
+    },
+    {
+     "code": "THEORETICAL_ADVANCE",
+     "definition": "The approach was chosen to establish a new theoretical result, such as generalizing a known theorem, demonstrating a technique, a first construction with a new property combination, or a better security proof for an existing scheme.",
+     "rule": "Use this code when the main motivation is advancing feasibility or proof theory, not practical performance or deployment. Explicit efficiency goals take precedence and go to the efficiency codes.",
+     "examples": [
+      "S8",
+      "S52",
+      "S53",
+      "S93"
+     ]
+    },
+    {
+     "code": "ANALYSIS_TARGET_SELECTION",
+     "definition": "Existing proof systems or implementations were chosen as objects of study (cryptanalysis, bug finding, benchmarking) because they are prominent, deployed, representative, or susceptible to vulnerabilities.",
+     "rule": "Use this code when the system is analysed, attacked, or evaluated, not used. If it is adopted as a component, code TOOLING_ECOSYSTEM_MATURITY.",
+     "examples": [
+      "S61",
+      "S221",
+      "S290",
+      "S316"
+     ]
+    },
+    {
+     "code": "NOT_REPORTED",
+     "definition": "Both extractions are NR/NA or empty for this field.",
+     "rule": "Use only when neither extraction gives content; otherwise code the content.",
+     "examples": []
+    },
+    {
+     "code": "OTHER",
+     "definition": "A stated reason that fits no other code, for example correctness assurance through verified compilation, solver capability gaps, or arithmetic bit-width requirements.",
+     "rule": "Use only after every substantive code has been ruled out; not for empty (NR/NA) fields, which are NOT_REPORTED.",
+     "examples": [
+      "S210",
+      "S229",
+      "S239"
+     ]
+    }
+   ]
+  },
+  "STMT": {
+   "field": "statement_type",
+   "codes": [
+    {
+     "code": "GENERIC_NP_MEMBERSHIP",
+     "definition": "The proof shows that an instance belongs to an arbitrary NP (or IP) language. It is usually reached through a reduction to an NP-complete problem such as graph 3-colorability or Hamiltonicity.",
+     "rule": "Use when the statement is stated as 'any NP/IP language' or as an NP-complete graph or combinatorial problem. If a concrete arithmetization is named (circuit, R1CS, QAP, PLONK), use CONSTRAINT_SYSTEM_SATISFIABILITY.",
+     "examples": [
+      "S8",
+      "S53",
+      "S116",
+      "S117"
+     ]
+    },
+    {
+     "code": "CONSTRAINT_SYSTEM_SATISFIABILITY",
+     "definition": "The proof shows that a general constraint representation is satisfiable. This covers Boolean or arithmetic circuits, R1CS, QAPs, Plonkish gates, polynomial maps and pairing-product equation systems.",
+     "rule": "Use when the statement is a general-purpose constraint system that is not tied to an application. If the statement is written as a program or machine trace, use PROGRAM_OR_VM_EXECUTION.",
+     "examples": [
+      "S35",
+      "S86",
+      "S96",
+      "S188"
+     ]
+    },
+    {
+     "code": "PROGRAM_OR_VM_EXECUTION",
+     "definition": "The proof shows that a program or machine model ran correctly, or that the prover knows an input satisfying it. Machine models include Turing machines, TinyRAM, WASM, RISC-V and EVM.",
+     "rule": "Use when the statement is given in terms of a machine, an instruction set or a high-level program. If it is given directly as constraints, use CONSTRAINT_SYSTEM_SATISFIABILITY.",
+     "examples": [
+      "S25",
+      "S62",
+      "S284",
+      "S299"
+     ]
+    },
+    {
+     "code": "KNOWLEDGE_OF_SECRET_PREIMAGE",
+     "definition": "The prover shows it knows a secret witness for one specific hard relation, such as a discrete log, a hash preimage, a block-cipher key, a PKP permutation or a sigma-protocol witness. These proofs are typically used for identification or signatures.",
+     "rule": "Use when the relation is a single named one-way function or hard problem. If the secret has to match a signed credential or attribute predicate, use CREDENTIAL_OR_SIGNATURE_POSSESSION.",
+     "examples": [
+      "S15",
+      "S38",
+      "S83",
+      "S89"
+     ]
+    },
+    {
+     "code": "ENCRYPTION_WELLFORMEDNESS_CONSISTENCY",
+     "definition": "The proof shows that one or more ciphertexts are well formed. This includes several ciphertexts encrypting the same plaintext, or a plaintext lying in a valid set or range.",
+     "rule": "Use when the core claim is about the content of ciphertexts without reordering them. If the inputs are also permuted, use SHUFFLE_CORRECTNESS.",
+     "examples": [
+      "S9",
+      "S29",
+      "S54",
+      "S305"
+     ]
+    },
+    {
+     "code": "SHUFFLE_CORRECTNESS",
+     "definition": "The proof shows that a list of output ciphertexts is a permutation and re-randomization (re-encryption) of the input ciphertexts.",
+     "rule": "Use only when a hidden permutation of ciphertexts is part of the statement. A fixed one-to-one consistency check without permutation is ENCRYPTION_WELLFORMEDNESS_CONSISTENCY.",
+     "examples": [
+      "S48",
+      "S69",
+      "S221"
+     ]
+    },
+    {
+     "code": "PROTOCOL_MESSAGE_HONESTY",
+     "definition": "The proof shows that a party in a multi-party or threshold cryptographic protocol computed its message correctly from committed secrets. Examples are nonce derivation, partial signatures, partial decryptions and key-update components.",
+     "rule": "Use when the statement checks one step of a protocol against secret keys committed earlier. If the claim is only about a ciphertext's plaintext, use ENCRYPTION_WELLFORMEDNESS_CONSISTENCY.",
+     "examples": [
+      "S139",
+      "S173",
+      "S298",
+      "S331"
+     ]
+    },
+    {
+     "code": "CREDENTIAL_OR_SIGNATURE_POSSESSION",
+     "definition": "The prover shows it holds a valid signature, certificate or credential from an authority, possibly also showing that hidden attributes satisfy a policy, without revealing it.",
+     "rule": "Use when issuer authentication of hidden data is central, as in anonymous credentials, group signatures, blind signatures or JWT/passport proofs. If only membership in a committed set is shown, use SET_MEMBERSHIP.",
+     "examples": [
+      "S30",
+      "S169",
+      "S202",
+      "S282"
+     ]
+    },
+    {
+     "code": "SET_MEMBERSHIP",
+     "definition": "The proof shows that a hidden or committed element belongs to a public or committed set, such as one-out-of-many commitments, accumulators or lists.",
+     "rule": "Use when membership is the main claim and no authority signature over attributes is required. If credential attributes or a signature must also be checked, use CREDENTIAL_OR_SIGNATURE_POSSESSION.",
+     "examples": [
+      "S60",
+      "S250"
+     ]
+    },
+    {
+     "code": "LEDGER_STATE_TRANSITION_VALIDITY",
+     "definition": "The proof shows that a blockchain, payment or smart-contract state transition is valid. This covers value conservation, balance limits, spend authority, encrypted contract state updates, consensus headers and authenticated data-structure updates.",
+     "rule": "Use when the statement checks a transaction, block or ledger-state update. Generic VM execution without ledger semantics is PROGRAM_OR_VM_EXECUTION.",
+     "examples": [
+      "S120",
+      "S192",
+      "S199",
+      "S203"
+     ]
+    },
+    {
+     "code": "ML_COMPUTATION_INTEGRITY",
+     "definition": "The proof shows that a machine-learning or optimization computation was done correctly. This includes model inference or accuracy, gradient computation, federated aggregation and optimality of a solver output.",
+     "rule": "Use when the computation is a learning, inference, aggregation or optimization procedure. Other data-processing computations go to DATA_PROCESSING_INTEGRITY.",
+     "examples": [
+      "S148",
+      "S161",
+      "S222",
+      "S340"
+     ]
+    },
+    {
+     "code": "DATA_PROCESSING_INTEGRITY",
+     "definition": "The proof shows that an application-specific computation over private or attested data was done correctly. Examples include sensor-derived metrics, image edits, emission accounting, value sums and storage audits.",
+     "rule": "Use for domain data computations that are neither machine learning (ML_COMPUTATION_INTEGRITY) nor ledger transitions (LEDGER_STATE_TRANSITION_VALIDITY).",
+     "examples": [
+      "S65",
+      "S156",
+      "S234",
+      "S276"
+     ]
+    },
+    {
+     "code": "PROOF_SYSTEM_SUBRELATION",
+     "definition": "The proof establishes a relation that serves as a building block inside proof systems. Examples are lookups, code proximity, polynomial or inner-product evaluations, and batch validity of proofs or signatures.",
+     "rule": "Use when the statement is a component relation used for proof aggregation or for building a SNARK. A full general-purpose relation goes to CONSTRAINT_SYSTEM_SATISFIABILITY.",
+     "examples": [
+      "S121",
+      "S233",
+      "S321",
+      "S324"
+     ]
+    },
+    {
+     "code": "CIRCUIT_OR_COMPILER_CORRECTNESS",
+     "definition": "The paper verifies or tests that ZK circuits or compilers are correct, sound or deterministic. It does not prove an application statement in zero knowledge.",
+     "rule": "Use when the object of study is the correctness of a circuit, DSL or compiler. Theoretical results about ZK itself go to META_THEORETIC_RESULT.",
+     "examples": [
+      "S210",
+      "S211",
+      "S229",
+      "S316"
+     ]
+    },
+    {
+     "code": "META_THEORETIC_RESULT",
+     "definition": "The paper's claim is a theorem about zero-knowledge or proof systems themselves rather than a statement proven in ZK. This covers impossibility, composition, complexity-class bounds, security reductions and attacks.",
+     "rule": "Use when the extraction describes a meta-level result or 'NA' because the paper is theory or an attack. Implementation correctness work goes to CIRCUIT_OR_COMPILER_CORRECTNESS.",
+     "examples": [
+      "S2",
+      "S20",
+      "S61",
+      "S318"
+     ]
+    },
+    {
+     "code": "NOT_REPORTED",
+     "definition": "Both extractions are NR/NA or empty for this field.",
+     "rule": "Use only when neither extraction gives content; otherwise code the content.",
+     "examples": []
+    },
+    {
+     "code": "OTHER",
+     "definition": "The statement does not fit any code above or is only an unspecified generic benchmark workload.",
+     "rule": "Use only after every substantive code has been ruled out; not for empty (NR/NA) fields, which are NOT_REPORTED.",
+     "examples": [
+      "S40",
+      "S239",
+      "S252",
+      "S288"
+     ]
+    }
+   ]
+  }
+ },
+ "frozen": "2026-11-12; R1 review of codebook_draft.md; edit: NOT_REPORTED added to WHY and STMT"
+}

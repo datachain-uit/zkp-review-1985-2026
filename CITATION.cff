@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the article."
+title: "Replication package: Zero-Knowledge Proofs, 1985–2026: A Systematic Review"
+authors:
+  - family-names: Vo
+    given-names: Khoa Tan
+    orcid: "https://orcid.org/0000-0002-5343-1686"
+  - family-names: Nguyen
+    given-names: Hong-Tri
+    orcid: "https://orcid.org/0000-0001-6483-0829"
+  - family-names: Nguyen-Hoang
+    given-names: Tu-Anh
+    orcid: "https://orcid.org/0000-0001-9283-769X"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Constructions, Systems, Applications and Their Security"
+  authors:
+    - family-names: Vo
+      given-names: Khoa Tan
+    - family-names: Nguyen
+      given-names: Hong-Tri
+    - family-names: Nguyen-Hoang
+      given-names: Tu-Anh

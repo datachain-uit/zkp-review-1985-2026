@@ -1,0 +1,7 @@
+source,date,query_id,filters,n_results,exported_files,notes
+Scopus (via VNU-HCM library),2026-11-02,S0,"scopus_queries/p0_ALL_dem_tong.txt; Documents tab only (Preprints tab not used); SUBJAREA COMP/MATH/ENGI/DECI; English",9671,,total count
+OpenAlex/IACR ePrint/arXiv (harvest.py --all),2026-11-02,H1,"harvest.py term lists; dblp blocked by bot protection",,"raw/openalex.jsonl; raw/eprint.jsonl; raw/arxiv.jsonl","OpenAlex 16856 unique; ePrint 27550 full harvest; arXiv 1156 unique"
+Scopus (via VNU-HCM library),2026-11-02,S1,"scopus_queries/p1_1985-2015.txt; all export fields incl. references",2422,raw/scopus_p1.csv,"export verified: 2422 rows, 45 columns"
+Scopus (via VNU-HCM library),2026-11-02,S2,"scopus_queries/p2_2016-2026_ONE_EXPORT.txt; all export fields incl. references",7249,raw/scopus_p2.csv,"export verified: 7249 rows; S1+S2 = S0 (9671)"
+OpenAlex/arXiv (harvest.py --source openalex --source arxiv),2026-11-02,H2,"revision 1 terms: R1CS; rank-1 constraint; rank-one constraint; multi-scalar multiplication",,"raw/openalex.jsonl; raw/arxiv.jsonl (appended)","OpenAlex 127+118+229+121 records; arXiv 8+21+8"
+Scopus (via VNU-HCM library),2026-11-02,S3,"scopus_queries/p3_REVISION1_delta.txt (revision 1 delta); all export fields incl. references",316,raw/scopus_p3_rev1.csv,"delta: new terms AND NOT original block"

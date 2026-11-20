@@ -1,0 +1,441 @@
+{
+ "N": 414,
+ "N_reports": 420,
+ "by_stratum": {
+  "CONS": 169,
+  "APP": 133,
+  "CQ": 43,
+  "SYS": 69
+ },
+ "cq_fields_reviewed": true,
+ "contribution_primary": {
+  "n": 414,
+  "counts": {
+   "CON": 195,
+   "SYS": 60,
+   "APP": 59,
+   "BLD": 31,
+   "FND": 28,
+   "SEC": 25,
+   "FV": 16
+  }
+ },
+ "maturity": {
+  "n": 414,
+  "counts": {
+   "EVALUATED_PROTOTYPE": 266,
+   "THEORY": 134,
+   "DEPLOYED": 11,
+   "PROTOTYPE": 3
+  }
+ },
+ "evaluation": {
+  "n": 414,
+  "counts": {
+   "IMPLEMENTATION": 256,
+   "ANALYTICAL": 126,
+   "NONE": 13,
+   "SIMULATION": 12,
+   "REAL_WORLD": 7
+  }
+ },
+ "sector": {
+  "n": 414,
+  "counts": {
+   "ACADEMIA": 250,
+   "MIXED": 136,
+   "INDUSTRY": 28
+  }
+ },
+ "qa_total_mean": 5.798309179,
+ "qa_item_means": {
+  "QA1": 1.0,
+  "QA2": 0.864130435,
+  "QA3": 0.763888889,
+  "QA4": 0.89794686,
+  "QA5": 0.542874396,
+  "QA6": 0.286835749,
+  "QA7": 0.621376812,
+  "QA8": 0.821256039
+ },
+ "rq2.family": {
+  "n": 414,
+  "union": {
+   "SIGMA": 127,
+   "QAP_SNARK": 105,
+   "PAIRING_NIZK": 89,
+   "OTHER": 69,
+   "GKR_SUMCHECK": 56,
+   "CLASSIC_IP": 41,
+   "PLONKISH": 36,
+   "MPC_ITH": 30,
+   "FRI_STARK": 30,
+   "IPA_BP": 27,
+   "LATTICE": 23,
+   "CODE_BASED": 17,
+   "VOLE_ZK": 14,
+   "FOLDING": 12,
+   "IOP_PLACEHOLDER": 1
+  },
+  "agreed_only": {
+   "SIGMA": 111,
+   "QAP_SNARK": 94,
+   "PAIRING_NIZK": 52,
+   "GKR_SUMCHECK": 50,
+   "OTHER": 36,
+   "PLONKISH": 28,
+   "IPA_BP": 22,
+   "FRI_STARK": 22,
+   "CLASSIC_IP": 19,
+   "MPC_ITH": 19,
+   "CODE_BASED": 14,
+   "VOLE_ZK": 14,
+   "LATTICE": 13,
+   "FOLDING": 9
+  },
+  "works_with_any": 399
+ },
+ "rq2.arithmetization": {
+  "n": 414,
+  "union": {
+   "CUSTOM": 109,
+   "R1CS": 102,
+   "CIRCUIT_ARITH": 85,
+   "QAP": 55,
+   "CIRCUIT_BOOLEAN": 47,
+   "PLONKISH": 27,
+   "AIR": 9,
+   "CCS": 3
+  },
+  "agreed_only": {
+   "R1CS": 88,
+   "CIRCUIT_ARITH": 66,
+   "CUSTOM": 47,
+   "QAP": 41,
+   "CIRCUIT_BOOLEAN": 35,
+   "PLONKISH": 23,
+   "AIR": 6,
+   "CCS": 3
+  },
+  "works_with_any": 301
+ },
+ "rq2.pcs": {
+  "n": 414,
+  "union": {
+   "OTHER": 59,
+   "KZG": 44,
+   "MERKLE_CODE": 28,
+   "FRI": 19,
+   "IPA": 18,
+   "NA": 12,
+   "HYRAX": 12,
+   "LATTICE": 10,
+   "DORY": 3
+  },
+  "agreed_only": {
+   "KZG": 37,
+   "OTHER": 21,
+   "MERKLE_CODE": 19,
+   "FRI": 14,
+   "IPA": 8,
+   "HYRAX": 7,
+   "LATTICE": 6,
+   "DORY": 3
+  },
+  "works_with_any": 165
+ },
+ "rq2.assumptions": {
+  "n": 414,
+  "union": {
+   "OTHER": 236,
+   "ROM": 223,
+   "DLOG": 138,
+   "PAIRING": 126,
+   "CRHF": 120,
+   "DDH": 58,
+   "KOE": 58,
+   "OWF": 54,
+   "LWE_SIS": 34,
+   "RSA_GROUP_UNKNOWN_ORDER": 24,
+   "AGM": 20,
+   "DLIN": 2,
+   "SRSA": 1,
+   "SXDH": 1,
+   "NR": 1,
+   "DL": 1,
+   "CDH": 1
+  },
+  "agreed_only": {
+   "ROM": 196,
+   "OTHER": 177,
+   "DLOG": 102,
+   "CRHF": 86,
+   "PAIRING": 85,
+   "DDH": 43,
+   "KOE": 36,
+   "LWE_SIS": 31,
+   "OWF": 28,
+   "AGM": 19,
+   "RSA_GROUP_UNKNOWN_ORDER": 14
+  },
+  "works_with_any": 361
+ },
+ "rq2.setup": {
+  "n": 414,
+  "counts": {
+   "NO_TRUSTED_SETUP": 247,
+   "TRUSTED_PER_CIRCUIT": 97,
+   "UNIVERSAL": 46,
+   "NR": 24
+  }
+ },
+ "rq2.pq": {
+  "n": 414,
+  "counts": {
+   "NOT_CLAIMED": 373,
+   "Y": 41
+  }
+ },
+ "rq2.interactive": {
+  "n": 414,
+  "counts": {
+   "NON_INTERACTIVE": 228,
+   "BOTH": 107,
+   "INTERACTIVE": 55,
+   "NR": 24
+  }
+ },
+ "rq2.recursion_folding": {
+  "n": 414,
+  "counts": {
+   "NO_OR_NOT_MENTIONED": 374,
+   "Y": 40
+  }
+ },
+ "rq2_family_first_last_year": {
+  "CLASSIC_IP": [
+   1985,
+   2026
+  ],
+  "SIGMA": [
+   1985,
+   2026
+  ],
+  "OTHER": [
+   1988,
+   2026
+  ],
+  "PAIRING_NIZK": [
+   1988,
+   2026
+  ],
+  "MPC_ITH": [
+   2007,
+   2026
+  ],
+  "GKR_SUMCHECK": [
+   2008,
+   2026
+  ],
+  "IPA_BP": [
+   2009,
+   2025
+  ],
+  "QAP_SNARK": [
+   2012,
+   2026
+  ],
+  "FRI_STARK": [
+   2016,
+   2026
+  ],
+  "CODE_BASED": [
+   2017,
+   2026
+  ],
+  "LATTICE": [
+   2017,
+   2026
+  ],
+  "VOLE_ZK": [
+   2018,
+   2026
+  ],
+  "PLONKISH": [
+   2019,
+   2026
+  ],
+  "FOLDING": [
+   2019,
+   2026
+  ],
+  "IOP_PLACEHOLDER": [
+   2020,
+   2020
+  ]
+ },
+ "rq3.layer": {
+  "n": 249,
+  "union": {
+   "LIBRARY": 169,
+   "CPU_ALGO": 117,
+   "FRONTEND": 75,
+   "DISTRIB": 21,
+   "FPGA_ASIC": 14,
+   "GPU": 14,
+   "ZKVM": 11
+  },
+  "agreed_only": {
+   "LIBRARY": 104,
+   "CPU_ALGO": 48,
+   "FRONTEND": 45,
+   "FPGA_ASIC": 14,
+   "GPU": 13,
+   "DISTRIB": 12,
+   "ZKVM": 9
+  },
+  "works_with_any": 249
+ },
+ "rq3.platform": {
+  "n": 249,
+  "union": {
+   "CPU": 227,
+   "MULTI_NODE": 26,
+   "GPU": 20,
+   "ASIC": 10,
+   "MOBILE_EMBEDDED": 7,
+   "FPGA": 7
+  },
+  "agreed_only": {
+   "CPU": 214,
+   "GPU": 18,
+   "MULTI_NODE": 15,
+   "ASIC": 10,
+   "MOBILE_EMBEDDED": 7,
+   "FPGA": 6
+  },
+  "works_with_any": 244
+ },
+ "rq3.kernel": {
+  "n": 249,
+  "union": {
+   "OTHER": 148,
+   "POLY_COMMIT": 79,
+   "HASH": 69,
+   "NTT_FFT": 57,
+   "MSM": 56,
+   "SUMCHECK": 47,
+   "WITNESS_GEN": 41,
+   "FRI": 11
+  },
+  "agreed_only": {
+   "OTHER": 94,
+   "POLY_COMMIT": 48,
+   "MSM": 47,
+   "HASH": 43,
+   "SUMCHECK": 42,
+   "NTT_FFT": 40,
+   "WITNESS_GEN": 16,
+   "FRI": 6
+  },
+  "works_with_any": 233
+ },
+ "rq3_artifact_available_QA6": {
+  "n_sys": 249,
+  "QA6_eq_1": 90,
+  "QA5_mean": 0.800200803,
+  "QA6_mean": 0.44
+ },
+ "rq4.domain": {
+  "n": 327,
+  "union": {
+   "BC_PRIV": 136,
+   "VC_CLOUD": 89,
+   "BC_SCALE": 82,
+   "IDENTITY": 81,
+   "OTHER": 75,
+   "DATA": 75,
+   "FINANCE": 57,
+   "ML": 46,
+   "VOTING": 20,
+   "IOT": 19,
+   "NETWORK": 19,
+   "HEALTH": 14,
+   "GOV_SOC": 11,
+   "BC_INTEROP": 4,
+   "SUPPLY": 3
+  },
+  "agreed_only": {
+   "BC_PRIV": 100,
+   "IDENTITY": 64,
+   "BC_SCALE": 45,
+   "ML": 41,
+   "DATA": 38,
+   "VC_CLOUD": 36,
+   "FINANCE": 33,
+   "OTHER": 29,
+   "VOTING": 16,
+   "HEALTH": 10,
+   "NETWORK": 8,
+   "IOT": 8,
+   "GOV_SOC": 3,
+   "BC_INTEROP": 2,
+   "SUPPLY": 2
+  },
+  "works_with_any": 327
+ },
+ "rq4_maturity_app": {
+  "n": 327,
+  "counts": {
+   "EVALUATED_PROTOTYPE": 230,
+   "THEORY": 83,
+   "DEPLOYED": 11,
+   "PROTOTYPE": 3
+  }
+ },
+ "cq_works": 71,
+ "cq.failure_classes": {
+  "n": 414,
+  "union": {
+   "OTHER": 37,
+   "IMPL_BUG": 17,
+   "UNDERCONSTRAINED": 14,
+   "FIAT_SHAMIR": 9,
+   "SETUP": 9,
+   "SIDECHANNEL": 4
+  },
+  "agreed_only": {
+   "OTHER": 37,
+   "IMPL_BUG": 17,
+   "UNDERCONSTRAINED": 14,
+   "FIAT_SHAMIR": 8,
+   "SETUP": 8,
+   "SIDECHANNEL": 4
+  },
+  "works_with_any": 69
+ },
+ "cq.detection_or_prevention": {
+  "n": 414,
+  "union": {
+   "PROTOCOL_DESIGN": 40,
+   "FORMAL_VERIFICATION": 21,
+   "OTHER": 9,
+   "STATIC_ANALYSIS": 8,
+   "FUZZING": 4,
+   "TYPE_SYSTEM": 3,
+   "AUDIT": 2,
+   "SYMBOLIC_EXEC": 1
+  },
+  "agreed_only": {
+   "PROTOCOL_DESIGN": 38,
+   "FORMAL_VERIFICATION": 21,
+   "OTHER": 9,
+   "STATIC_ANALYSIS": 8,
+   "FUZZING": 4,
+   "TYPE_SYSTEM": 3,
+   "AUDIT": 2,
+   "SYMBOLIC_EXEC": 1
+  },
+  "works_with_any": 67
+ }
+}

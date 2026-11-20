@@ -1,0 +1,415 @@
+sid,title,year,QA1,QA2,QA3,QA4,QA5,QA6,QA7,QA8,QA_total
+S1,A private interactive test of a boolean predicate a minimum-knowledge public-key cryptosystems,1985,1,1,1,0.5,0,0,0.5,0.5,4.5
+S2,A robust and verifiable cryptographically secure election scheme,1985,1,1,0.5,0.5,0,0,0.75,0.5,4.25
+S3,Knowledge complexity of interactive proof systems,1985,1,1,1,0.5,0,0,0.5,0.75,4.75
+S4,How to prove yourself: practical solutions to identification and signature problems,1986,1,1,0.5,1,0,0,0.5,0.5,4.5
+S5,Proofs that Yield Nothing but Their Validity or All Languages in NP Have Zero-Knowledge Proof Systems,1986,1,1,1,0.5,0,0,0.75,0.5,4.75
+S6,COMPLEXITY OF PERFECT ZERO-KNOWLEDGE.,1987,1,1,0.5,0.5,0,0,0.5,0.5,4.0
+S7,Direct Minimum-Knowledge Computations (Extended Abstract),1987,1,1,0.5,1,0,0,0,0.5,4.0
+S8,PERFECT ZERO-KNOWLEDGE LANGUAGES CAN BE RECOGNIZED IN TWO ROUNDS.,1987,1,1,0.75,0.5,0,0,0.5,0.5,4.25
+S9,ZERO KNOWLEDGE PROOFS OF IDENTITY.,1987,1,1,1,0.5,0,0,0.5,0.5,4.5
+S10,Abuses in Cryptography and How to Fight Them,1988,1,1,0.5,0.5,0,0,1,0.5,4.5
+S11,Everything provable is provable in zero-knowledge,1988,1,1,1,0.5,0,0,0.5,0.75,4.75
+S12,Non-interactive zero-knowledge and its applications,1988,1,1,0.5,0.5,0,0,0.5,0.5,4.0
+S13,Efficient identification and signatures for smart cards,1989,1,0.75,0.5,1,0.5,0,0.5,1,5.25
+S14,Multiple noninteractive zero knowledge proofs under general assumptions,1990,1,1,1,0.5,0,0,0.5,0.75,4.75
+S15,On the composition of zero-knowledge proof systems,1990,1,1,1,0.5,0,0,0.75,0.5,4.75
+S16,Public-key cryptosystems provably secure against chosen ciphertext attacks,1990,1,1,1,0.25,0,0,0.5,0.75,4.5
+S17,Publicly verifiable non-interactive zero-knowledge proofs,1990,1,1,1,0.5,0,0,0.5,0.5,4.5
+S18,Witness indistinguishable and witness hiding protocols,1990,1,1,0.5,0.5,0,0,0.75,0.75,4.5
+S19,Noninteractive zero-knowledge,1991,1,1,1,0.5,0,0,0.75,0.5,4.75
+S20,A note on efficient zero-knowledge proofs and arguments (extended abstract),1992,1,0.75,0.5,1,0,0,0.5,0.5,4.25
+S21,On the security of the permuted kernel identification scheme,1992,1,0.5,0.5,1,0.25,0,0.5,0.75,4.5
+S22,Provably Secure and Practical Identification Schemes and Corresponding Signature Schemes,1992,1,1,0.75,1,0.5,0,0.5,1,5.75
+S23,Random oracles are practical,1993,1,1,0.5,0.5,0,0,0.5,0.75,4.25
+S24,Computationally sound proofs,1994,1,1,1,1,0,0,0.5,0.75,5.25
+S25,Definitions and properties of zero-knowledge proof systems,1994,1,1,1,0,0,0,0.5,0.75,4.25
+S26,Proofs of partial knowledge and simplified design of witness hiding protocols,1994,1,1,1,0.5,0,0,0.5,0.5,4.5
+S27,How to construct constant-round zero-knowledge proof systems for NP,1996,1,1,1,0.5,0,0,0.5,0.5,4.5
+S28,Security Arguments for Digital Signatures and Blind Signatures,1996,1,1,1,0.75,0,0,1,0.5,5.25
+S29,Efficient group signature schemes for large groups,1997,1,0.5,0.5,1,0,0,0.5,0.5,4.0
+S30,Non-interactive zero-knowledge: A low-randomness characterization of np (extended abstract),1999,1,0.5,0.5,1,0,0,0,1,4.0
+S31,Non-malleable non-interactive zero knowledge and adaptive chosen-ciphertext security,1999,1,1,1,0.5,0,0,0.5,0.5,4.5
+S32,On the concurrent composition of zero-knowledge proofs,1999,1,1,0.5,1,0,0,0.5,0.5,4.5
+S33,A Practical and Provably Secure Coalition-Resistant Group Signature Scheme,2000,1,1,1,0.5,0,0,0.5,0.5,4.5
+S34,Efficient Proofs that a Committed Number Lies in an Interval,2000,1,1,0.5,1,0.25,0,0.25,1,5.0
+S35,Provably Secure Partially Blind Signatures,2000,1,1,1,0.5,0,0,0.5,0.5,4.5
+S36,A verifiable secret shuffle and its application to e-voting,2001,1,0.5,0.5,1,0,0,0.5,1,4.5
+S37,An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation,2001,1,1,0.5,0.5,0,0,0.5,0.5,4.0
+S38,Practical multi-candidate election system,2001,1,0.5,0.5,1,0,0,0.5,0.5,4.0
+S39,Deniable ring authentication,2002,1,1,0.5,0.5,0,0,1,0.75,4.75
+S40,Design and implementation of the idemix anonymous credential system,2002,1,0.5,0.5,1,0.5,0,0.5,0.5,4.5
+S41,Dynamic accumulators and application to efficient revocation of anonymous credentials,2002,1,1,1,0.5,0,0,0.5,0.75,4.75
+S42,A Signature Scheme with Efficient Protocols,2003,1,1,1,0.5,0,0,0.5,0.5,4.5
+S43,On the (In)security of the Fiat-Shamir paradigm,2003,1,1,1,0,0,0,0.75,0.75,4.5
+S44,Direct anonymous attestation,2004,1,1,1,0.5,0,0,0.5,0.5,4.5
+S45,Short Group Signatures,2004,1,1,1,1,0,0,0.5,0.5,5.0
+S46,Compact Group Signatures Without Random Oracles.,2005,1,1,1,0.5,0,0,0.5,0.5,4.5
+S47,Perfect non-interactive zero knowledge for NP,2005,1,1,1,1,0,0,0.5,0.75,5.25
+S48,Communication-efficient non-interactive proofs of knowledge with online extractors,2006,1,1,1,1,0,0,0.5,0.75,5.25
+S49,Construction of a non-malleable encryption scheme from any semantically secure one,2006,1,1,0.5,0.5,0,0,0.75,0.5,4.25
+S50,Non-interactive zaps and new techniques for NIZK,2006,1,1,1,0.75,0,0,0.25,0.5,4.5
+S51,Efficient Arguments without Short PCPs,2007,1,1,1,1,0,0,0.5,0.5,5.0
+S52,Efficient non-interactive proof systems for bilinear groups,2007,1,1,1,1,0,0,0.5,0.75,5.25
+S53,Zero-knowledge from secure multiparty computation,2007,1,1,0.75,1,0,0,0.5,1,5.25
+S54,Delegating computation: Interactive proofs for Muggles,2008,1,1,0.5,1,0,0,0.5,1,5.0
+S55,Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma,2008,1,1,1,1,0,0,0.5,0.5,5.0
+S56,PEREA,2008,1,1,0.5,1,1,0,1,1,6.5
+S57,Pseudo trust: Zero-knowledge authentication in anonymous P2Ps,2008,1,1,0.5,1,0.5,0.5,0.25,0.5,5.25
+S58,Type-checking zero-knowledge,2008,1,1,0.5,0.5,0.5,0.75,0.5,0.5,5.25
+S59,An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials,2009,1,1,1,0.5,0,0,0.5,0.75,4.75
+S60,Linear algebra with sub-linear zero-knowledge arguments,2009,1,1,0.5,1,0,0,0.5,0.5,4.5
+S61,Short pairing-based non-interactive zero-knowledge arguments,2009,1,1,1,1,0,0,0.5,1,5.5
+S62,Constant-size commitments to polynomials and their applications,2010,1,1,0.75,0.75,0,0,0.5,1,5.0
+S63,Non-interactive Verifiable Computing: Outsourcing Computation to Untrusted Workers,2010,1,1,1,1,0,0,1,0.5,5.5
+S64,Proof-Carrying Data and Hearsay Arguments from Signature Cards.,2010,1,1,0.5,0.75,0,0,0.75,0.75,4.75
+S65,"From Extractable Collision Resistance to Succinct Non-Interactive Arguments of Knowledge, and Back Again.",2011,1,1,1,0.5,0,0,0.75,0.75,5.0
+S66,Practical Verified Computation with Streaming Interactive Proofs,2011,1,0.75,1,1,0.75,0.75,1,0.75,7.0
+S67,Verifiable Delegation of Computation over Large Datasets,2011,1,1,1,0.75,0,0,0.5,0.5,4.75
+S68,Cooperative provable data possession for integrity verification in multicloud storage,2012,1,1,0.5,1,0.5,0,0.5,0.75,5.25
+S69,Efficient zero-knowledge argument for correctness of a shuffle,2012,1,0.75,0.5,1,1,0,0.5,1,5.75
+S70,Full proof cryptography: Verifiable compilation of efficient zero-knowledge protocols,2012,1,1,1,0.5,0.5,0,1,0.75,5.75
+S71,Group Signatures with Almost-for-Free Revocation,2012,1,1,0.75,1,0,0,0.5,1,5.25
+S72,Quadratic Span Programs and Succinct NIZKs without PCPs.,2012,1,1,0.5,1,0.5,0,0.5,1,5.5
+S73,Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data.,2012,1,1,1,1,0,0,0.5,1,5.5
+S74,Succinct non-interactive arguments via linear interactive proofs,2012,1,1,1,1,0,0,0.5,1,5.5
+S75,"How to use indistinguishability obfuscation: Deniable encryption, and more",2013,1,1,1,0.5,0,0,0.5,0.5,4.5
+S76,New Techniques for SPHFs and Efficient One-Round PAKE Protocols.,2013,1,1,0.5,1,0,0,0.5,1,5.0
+S77,Pinocchio: Nearly Practical Verifiable Computation.,2013,1,1,1,1,1,0.5,0.75,1,7.25
+S78,Signatures of Correct Computation,2013,1,1,0.5,1,0,0,0.5,1,5.0
+S79,SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge.,2013,1,0.75,0.75,1,1,0,0.75,1,6.25
+S80,Succinct non-interactive zero knowledge for a von neumann architecture,2013,1,0.75,0.75,1,1,0,1,1,6.5
+S81,Universally Composable Symbolic Analysis for Two-Party Protocols based on Homomorphic Encryption.,2013,1,1,0.5,0,0,0,0.5,1,4.0
+S82,Verifying computations with state,2013,1,0.75,0.5,1,1,0.75,1,1,7.0
+S83,Zerocoin: Anonymous Distributed E-Cash from Bitcoin,2013,1,1,1,1,0.75,0,1,0.5,6.25
+S84,Efficient RAM and control flow in verifiable outsourced computation.,2014,1,0.5,0.5,1,1,1,1,1,7.0
+S85,Non-interactive zero-knowledge proofs in the quantum random oracle model,2014,1,1,1,0.5,0,0,0.5,0.75,4.75
+S86,One-out-of-Many Proofs: Or How to Leak a Secret and Spend a Coin.,2014,1,1,1,1,0,0,0.5,1,5.5
+S87,PrivBioMTAuth: Privacy Preserving Biometrics-Based and User Centric Protocol for User Authentication from Mobile Phones,2014,1,1,0.5,0.75,0.5,0,0.5,0.5,4.75
+S88,Quantum Attacks on Classical Proof Systems - The Hardness of Quantum Rewinding,2014,1,1,1,0.5,0,0,1,1,5.5
+S89,Scalable Zero Knowledge via Cycles of Elliptic Curves.,2014,1,0.5,0.5,1,1,0,1,1,6.0
+S90,Square span programs with applications to succinct NIZK arguments,2014,1,1,1,1,0.25,0,0.5,1,5.75
+S91,TRUESET: Faster verifiable set computations,2014,1,1,1,1,1,0,0.5,0.75,6.25
+S92,Zerocash: Decentralized anonymous payments from bitcoin,2014,1,1,0.75,1,0.75,0,0.5,0.75,5.75
+S93,ZØ: An optimizing distributing zero-knowledge compiler,2014,1,0.5,0.25,1,1,0,1,0.75,5.5
+S94,ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data,2015,1,1,1,1,0.75,0,0.5,1,6.25
+S95,End-to-End Verifiable Elections in the Standard Model∗,2015,1,1,0.5,0.5,0,0,0.5,0.5,4.0
+S96,Geppetto: Versatile Verifiable Computation,2015,1,1,1,0.5,0,0.25,0.5,0.75,5.0
+S97,Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts,2015,1,1,1,1,1,0.5,1,1,7.5
+S98,IntegriDB,2015,1,1,0.5,1,1,1,1,1,7.5
+S99,Privacy and access control for outsourced personal records,2015,1,1,0.75,1,1,0,1,1,6.75
+S100,Provisions: Privacy-preserving proofs of solvency for bitcoin exchanges,2015,1,1,1,1,0.5,0,1,0.5,6.0
+S101,Quasi-adaptive NIZK for linear subspaces revisited,2015,1,1,1,1,0,0,0.5,1,5.5
+S102,Secure sampling of public parameters for succinct zero knowledge proofs,2015,1,1,0.75,1,1,0.5,0.5,0.75,6.5
+S103,Security of the J-PAKE password-authenticated key exchange protocol,2015,1,1,1,1,0,0,0.5,1,5.5
+S104,Short group signatures via structure-preserving signatures: Standard model security from simple assumptions,2015,1,1,1,1,0,0,0.5,1,5.5
+S105,Accountable privacy for decentralized anonymous payments,2016,1,1,0.5,0.5,0,0,0.5,0.5,4.0
+S106,"Design in Type-I, run in Type-III: Fast and scalable bilinear-type conversion using integer programming",2016,1,1,0.5,1,0.75,0.5,0.5,1,6.25
+S107,Efficient zero-knowledge arguments for arithmetic circuits in the discrete log setting,2016,1,1,1,1,0.5,0,0.5,1,6.0
+S108,Identity-Based Remote Data Integrity Checking with Perfect Data Privacy Preserving for Cloud Storage,2016,1,1,1,1,0.5,0,0,0.5,5.0
+S109,Interactive Oracle Proofs,2016,1,1,1,1,0,0,0.5,1,5.5
+S110,On the size of pairing-based non-interactive arguments,2016,1,1,1,1,0,0,0.75,1,5.75
+S111,PhotoProof: Cryptographic Image Authentication for Any Set of Permissible Transformations,2016,1,1,0.75,1,0.75,0,1,1,6.5
+S112,The Ring of Gyges: Investigating the Future of Criminal Smart Contracts.,2016,1,1,1,1,0.5,0,0.5,0.5,5.5
+S113,Verifiable ASICs,2016,1,1,0.75,1,1,0,1,0.75,6.5
+S114,ZKBOo: Faster zero-knowledge for boolean circuits,2016,1,0.75,1,1,1,1,0.5,1,7.25
+S115,A multi-party protocol for constructing the public parameters of the Pinocchio zk-SNARK,2017,1,1,1,0.5,0,0,0.5,0.5,4.5
+S116,Bolt,2017,1,1,0.75,0.75,0.5,0,1,0.75,5.75
+S117,Bulletproofs: Short Proofs for Confidential Transactions and More,2017,1,1,1,1,0.75,0.25,0.5,1,6.5
+S118,Doubly-Efficient zkSNARKs Without Trusted Setup,2017,1,1,1,1,1,1,1,1,8.0
+S119,Full Accounting for Verifiable Outsourcing,2017,1,1,0.75,1,1,0.75,1,1,7.5
+S120,Ligero: lightweight sublinear arguments without a trusted setup,2017,1,1,1,1,0.5,0,0.75,1,6.25
+S121,Overdrive: Making SPDZ great again,2017,1,1,0.5,1,1,0,0.5,1,6.0
+S122,Post-quantum zero-knowledge and signatures from symmetric-key primitives,2017,1,1,1,1,1,1,0.5,1,7.5
+S123,Practical UC-Secure delegatable credentials with attributes and their application to blockchain,2017,1,1,1,1,0.75,0.5,0.5,1,6.75
+S124,RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero,2017,1,1,1,0.75,0,0,0.5,0.75,5.0
+S125,SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud,2017,1,0.5,0.5,1,0.5,0,0.5,0.5,4.5
+S126,Snarky Signatures: \\ Minimal Signatures of Knowledge from Simulation-Extractable SNARKs,2017,1,1,1,1,0,0,0.5,1,5.5
+S127,The algebraic group model and its applications,2017,1,1,1,0.5,0,0,1,1,5.5
+S128,VSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases,2017,1,1,1,1,1,0,1,1,7.0
+S129,Zero-Knowledge contingent payments revisited: Attacks and payments for services,2017,1,1,0.5,1,0.75,0.5,0.5,0.75,6.0
+S130,Aurora: Transparent succinct arguments for R1CS,2018,1,1,1,1,0.5,1,0.5,1,7.0
+S131,Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains,2018,1,1,1,1,0,0,0.75,1,5.75
+S132,Compressing vector OLE,2018,1,1,1,1,0.5,0,0.5,1,6.0
+S133,DIZK: A Distributed Zero Knowledge Proof System.,2018,1,0.5,0.5,1,1,0.5,1,0.75,6.25
+S134,Efficient Proof Composition for Verifiable Computation,2018,1,0.5,0.75,1,0.75,0,0.5,0.75,5.25
+S135,Fast reed-solomon interactive oracle proofs of proximity,2018,1,0.75,0.75,1,0,0,0.5,1,5.0
+S136,Improved non-interactive zero knowledge with applications to post-quantum signatures,2018,1,1,0.5,1,1,0.5,0.5,1,6.5
+S137,Multi-Target Attacks on the Picnic Signature Scheme and Related Protocols.,2018,1,1,0.5,1,0,0,0.75,0.5,4.75
+S138,Ouroboros crypsinous: Privacy-preserving proof-of-stake,2018,1,1,0.75,0.75,0.5,0,0.5,0.5,5.0
+S139,Proving the correct execution of concurrent services in zero-knowledge.,2018,1,1,1,1,1,0,1,1,7.0
+S140,Quisquis: A new design for anonymous cryptocurrencies,2018,1,1,1,1,1,0,0.5,1,6.5
+S141,"Scalable, transparent, and post-quantum secure computational integrity",2018,1,1,1,1,1,0,0.75,1,6.75
+S142,Updatable and universal common reference strings with applications to zk-SNARKs,2018,1,1,1,0.75,0,0,0.75,1,5.5
+S143,xJsnark: A Framework for Efficient Verifiable Computation,2018,1,0,0.5,1,0.5,0,0.5,1,4.5
+S144,ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain,2018,1,1,0.5,1,0.5,0.75,0.5,0.5,5.75
+S145,ZEXE: Enabling decentralized private computation,2018,1,1,0.75,1,1,1,0.5,0.75,7.0
+S146,BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs,2019,1,1,1,1,1,1,0.5,1,7.5
+S147,DECO: Liberating Web Data Using Decentralized Oracles for TLS,2019,1,1,1,1,1,0,0.5,0.75,6.25
+S148,Fiat-Shamir: From practice to theory,2019,1,1,0.5,0.5,0,0,0.5,1,4.5
+S149,Fractal: Post-quantum and transparent recursive proofs from holography,2019,1,1,1,1,0.5,0.5,1,1,7.0
+S150,LegoSNARK: Modular Design and Composition of Succinct Zero-Knowledge Proofs.,2019,1,1,1,1,1,1,0.5,1,7.5
+S151,Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation,2019,1,1,0.75,1,1,0.5,1,1,7.25
+S152,Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS.,2019,1,1,1,1,0.5,1,0.5,1,7.0
+S153,Noninteractive Zero Knowledge for NP from (Plain) Learning with Errors,2019,1,1,1,0.5,0,0,1,0.5,5.0
+S154,PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge,2019,1,1,1,1,0.5,0,0.5,1,6.0
+S155,POSEIDON: A new hash function for zero-knowledge proof systems,2019,1,1,0.5,1,0.5,1,0.5,1,6.5
+S156,Privacy aspects and subliminal channels in ZCaSH,2019,1,1,0.5,1,0.75,0,0.5,0.5,5.25
+S157,Proofs for Inner Pairing Products and Applications,2019,1,1,1,1,0.5,1,0.5,1,7.0
+S158,Recursive Proof Composition without a Trusted Setup,2019,1,1,1,1,0.5,0.5,0.5,0.75,6.25
+S159,Scaling verifiable computation using efficient set accumulators,2019,1,0.5,0.5,1,0.75,1,1,1,6.75
+S160,Sonic: Zero-knowledge snarks from linear-size universal and updatable structured reference strings,2019,1,1,1,1,1,1,0.5,1,7.5
+S161,Spartan: Efficient and general-purpose zkSNARKs without trusted setup.,2019,1,1,1,1,1,1,0.5,1,7.5
+S162,The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption,2019,1,1,1,1,0.5,0.5,1,1,7.0
+S163,Transparent polynomial delegation and its applications to zero knowledge proof,2019,1,1,1,1,1,0.5,0.5,1,7.0
+S164,Transparent SNARKs from DARK Compilers.,2019,1,1,1,1,0.25,0,0.75,1,6.0
+S165,VeriML: Enabling Integrity Assurances and Fair Payments for Machine Learning as a Service,2019,1,1,0.5,1,0.75,0,1,0.5,5.75
+S166,WI Is Not Enough: Zero-Knowledge Contingent (Service) Payments Revisited.,2019,1,1,1,0.5,0,0,0.5,0.75,4.75
+S167,Zero-Knowledge Proofs on Secret-Shared Data via Fully Linear PCPs,2019,1,1,1,1,0,0,0.5,1,5.5
+S168,ZETH: On Integrating Zerocash on Ethereum,2019,1,0.75,0.5,0.5,0,1,1,0.5,5.25
+S169,Zether: Towards Privacy in a Smart Contract World,2019,1,1,1,1,0.5,0,0.75,0.75,6.0
+S170,Zkay: Specifying and enforcing data privacy in smart contracts,2019,1,1,1,1,0.5,1,1,0.5,7.0
+S171,Agora: A Privacy-Aware Data Marketplace,2020,1,1,1,1,0.5,0,1,0.5,6.0
+S172,"CirC: Compiler infrastructure for proof systems, software verification, and more",2020,1,0.25,0,1,0.5,1,1,1,5.75
+S173,Coda: Decentralized Cryptocurrency at Scale.,2020,1,0.75,0.75,1,0.5,0,0.5,0.5,5.0
+S174,DCAP: A Secure and Efficient Decentralized Conditional Anonymous Payment System Based on Blockchain,2020,1,1,1,1,0.75,1,0.5,0.75,7.0
+S175,Did you mix me? Formally verifying verifiable mix nets in electronic voting,2020,1,1,1,0.5,0.5,1,1,0.5,6.5
+S176,"Dory: Efficient, Transparent Arguments for Generalised Inner Products and Polynomial Commitments",2020,1,1,1,1,1,0,0.5,1,6.5
+S177,How not to prove your election outcome,2020,1,1,0.5,0,0,1,0.75,0.5,4.75
+S178,Lunar: A Toolbox for More Efficient Universal and Updatable zkSNARKs and Commit-and-Prove Extensions,2020,1,1,1,1,0.5,0,0.5,1,6.0
+S179,MuSig-DN: Schnorr Multi-Signatures with Verifiably Deterministic Nonces,2020,1,1,1,1,0.75,1,0.5,0.75,7.0
+S180,Out of Oddity -- New Cryptanalytic Techniques against Symmetric Primitives Optimized for Integrity Proof Systems,2020,1,0.75,0.75,1,0.5,0.5,0.5,0.75,5.75
+S181,PACE: Privacy-Preserving and Quality-Aware Incentive Mechanism for Mobile Crowdsensing,2020,1,1,0.5,1,0.75,0,0.5,0.75,5.5
+S182,plookup: A simplified polynomial protocol for lookup tables,2020,1,0.5,1,0.75,0,0,0.5,0.5,4.25
+S183,Pointproofs: Aggregating Proofs for Multiple Vector Commitments,2020,1,1,1,1,1,0.75,0.5,1,7.25
+S184,Privacy-preserving traffic management: A blockchain and zero-knowledge proof inspired approach,2020,1,0.5,0.25,1,0.5,0,0.5,0.5,4.25
+S185,Remote side-channel attacks on anonymous transactions,2020,1,1,0.25,1,0.5,0,1,0.5,5.25
+S186,RingCT 3.0 for Blockchain Confidential Transaction: Shorter Size and Stronger Security,2020,1,1,0.75,1,0.5,0,0.25,1,5.5
+S187,SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis,2020,1,1,1,1,0.5,0,0.5,0.75,5.75
+S188,Toward Verifiable and Privacy Preserving Machine Learning Prediction,2020,1,1,1,1,0.5,0,0.5,0.5,5.5
+S189,Two-Sided Malicious Security for Private Intersection-Sum with Cardinality,2020,1,1,1,1,0.5,0,0.5,1,6.0
+S190,VCNN: Verifiable Convolutional Neural Network Based on zk-SNARKs,2020,1,0.75,1,1,0.5,0,0.5,1,5.75
+S191,"Wolverine: Fast, scalable, and communication-efficient zero-knowledge proofs for boolean and arithmetic circuits",2020,1,1,1,1,1,0.5,0.5,1,7.0
+S192,Zero Knowledge Proofs for Decision Tree Predictions and Accuracy,2020,1,1,0.75,1,1,0,0.5,0.75,6.0
+S193,Zilch: A Framework for Deploying Transparent Zero-Knowledge Proofs,2020,1,1,0.5,1,1,0,0.5,1,6.0
+S194,A Compressed Σ -Protocol Theory for Lattices,2021,1,1,1,1,0,0,1,1,6.0
+S195,Brakedown: Linear-Time and Field-Agnostic SNARKs for R1CS,2021,1,1,1,1,0.5,0.25,0.75,1,6.5
+S196,Cairo - a Turing-complete STARK-friendly CPU architecture.,2021,1,0.5,0.5,0.75,0,0.5,0.5,0.5,4.25
+S197,"Cross-domain access control encryption: Arbitrary-policy, constant-size, efficient",2021,1,1,1,1,0.75,0,0.5,1,6.25
+S198,Decentralized Privacy-Preserving Fair Exchange Scheme for V2G Based on Blockchain,2021,1,1,1,1,1,0,0.5,0.5,6.0
+S199,DualRing: Generic Construction of Ring Signatures with Efficient Instantiations,2021,1,1,1,1,0.5,0,0.5,1,6.0
+S200,Efficient Representation of Numerical Optimization Problems for SNARKs.,2021,1,0.5,0.5,1,1,0.25,1,1,6.25
+S201,Efficient Sum-Check Protocol for Convolution,2021,1,0.5,1,0.75,0,0,0.5,1,4.75
+S202,Enabling Secure and Efficient Decentralized Storage Auditing with Blockchain,2021,1,1,0.5,1,1,0,1,1,6.5
+S203,Eunomia: Anonymous and Secure Vehicular Digital Forensics Based on Blockchain,2021,1,1,0.5,1,1,1,0.5,0.75,6.75
+S204,Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets,2021,1,1,1,1,1,1,1,0.5,7.5
+S205,Fine-Grained Secure Attribute-Based Encryption,2021,1,1,1,0.5,0,0,0.5,0.5,4.5
+S206,Machine-checked ZKP for NP relations: Formally Verified Security Proofs and Implementations of MPC-in-the-Head,2021,1,1,1,0.75,0.5,1,0.5,0.5,6.25
+S207,Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning.,2021,1,1,1,1,1,0,0.75,0.75,6.5
+S208,Nova: Recursive Zero-Knowledge Arguments from Folding Schemes,2021,1,1,1,1,0.75,0.5,0.5,1,6.75
+S209,"On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography",2021,1,1,1,0.5,0,0,1,0.5,5.0
+S210,On Using zk-SNARKs and zk-STARKs in Blockchain-Based Identity Management,2021,1,0.5,0.25,1,0.5,0.5,1,0.5,5.25
+S211,P2B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics,2021,1,1,0.25,0.5,0.5,0,0.5,0.5,4.25
+S212,P2BA: A Privacy-Preserving Protocol with Batch Authentication against Semi-Trusted RSUs in Vehicular Ad Hoc Networks,2021,1,1,0.5,1,1,0,0.5,1,6.0
+S213,PipeZK: Accelerating zero-knowledge proof with a pipelined architecture,2021,1,0,0.25,1,1,0,0.5,0.75,4.5
+S214,Practical Non-interactive Publicly Verifiable Secret Sharing with Thousands of Parties,2021,1,1,0.75,1,0.75,1,0.5,0.5,6.5
+S215,"Practical, Round-Optimal Lattice-Based Blind Signatures",2021,1,1,1,1,0.5,0.75,0.5,1,6.75
+S216,PriScore: Blockchain-Based Self-Tallying Election System Supporting Score Voting,2021,1,1,0.75,1,0.75,0,0.5,0.75,5.75
+S217,QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field,2021,1,1,1,1,1,0.5,0.5,1,7.0
+S218,SNARGs for P from LWE,2021,1,1,0.5,1,0,0,0.5,1,5.0
+S219,SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq,2021,1,1,1,0.25,0,1,0.75,0.75,5.75
+S220,Threshold Schnorr with Stateless Deterministic Signing from Standard Assumptions,2021,1,1,1,1,0.5,0,0.5,1,6.0
+S221,"Viaduct: An extensible, optimizing compiler for secure distributed programs",2021,1,1,0.5,1,1,1,0.5,0.75,6.75
+S222,Zero knowledge for everything and everyone: Fast ZK processor with cached ORAM for ANSI C programs,2021,1,1,0.75,1,0.75,0,1,1,6.5
+S223,Zero-Knowledge Middleboxes,2021,1,1,0.75,1,1,1,1,0.75,7.5
+S224,ZkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy,2021,1,1,0.5,1,1,0,0.5,1,6.0
+S225,An Algebraic Framework for Silent Preprocessing with Trustless Setup and Active Security,2022,1,1,1,0.5,0,0,0.5,0.75,4.75
+S226,Batch Arguments for NP and More from Standard Bilinear Group Assumptions,2022,1,1,1,1,0,0,0.5,0.75,5.25
+S227,Blockchain-Based Credential Management for Anonymous Authentication in SAGVN,2022,1,0.5,0.5,1,0.5,0,0.5,0.5,4.5
+S228,Circom: A Circuit Description Language for Building Zero-Knowledge Applications,2022,1,0.5,0.5,1,0.5,1,0.5,0.75,5.75
+S229,cuZK: Accelerating Zero-Knowledge Proof with A Faster Parallel Multi-Scalar Multiplication Algorithm on GPUs,2022,1,0.25,0.5,1,1,1,0.75,1,6.5
+S230,Distilling Constraints in Zero-Knowledge Protocols,2022,1,0,0.5,1,1,1,0.5,0.5,5.5
+S231,EBCPA: Efficient Blockchain-based Conditional Privacy-preserving Authentication for VANETs,2022,1,1,1,1,1,1,0.5,1,7.5
+S232,EIFFeL,2022,1,1,1,1,0.75,0,0.5,0.75,6.0
+S233,Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment,2022,1,1,0.75,0.75,0.5,0,0.5,0.5,5.0
+S234,ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline,2022,1,1,1,1,1,1,1,0.5,7.5
+S235,FPGA Acceleration of Multi-Scalar Multiplication: CycloneMSM,2022,1,0,0,1,1,0,1,1,5.0
+S236,HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates,2022,1,1,1,1,1,1,0.75,1,7.75
+S237,LaBRADOR: Compact Proofs for R1CS from Module-SIS,2022,1,1,1,1,0.5,0,0.5,1,6.0
+S238,"Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable: (Extended Abstract)",2022,1,1,1,0.75,0,0,1,0.75,5.5
+S239,"Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General",2022,1,1,1,1,0.25,0,0.5,1,5.75
+S240,"On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy",2022,1,0.5,0,1,0.5,0,0.5,0.5,4.0
+S241,Orion: Zero Knowledge Proof with Linear Prover Time,2022,1,1,1,1,1,0,0.5,1,6.5
+S242,Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation,2022,1,1,0.5,1,0.75,0,0.5,0.75,5.5
+S243,Practical Post-Quantum Signature Schemes from Isomorphism Problems of Trilinear Forms,2022,1,1,1,1,1,0,0.5,1,6.5
+S244,PvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing,2022,1,1,0.5,1,0.75,1,0.75,1,7.0
+S245,Secure Multiparty Computation from Threshold Encryption Based on Class Groups,2022,1,1,1,0.5,0,0,0.5,0.5,4.5
+S246,Subversion-Resistant and Consistent Attribute-Based Keyword Search for Secure Cloud Storage,2022,1,1,0.5,1,1,0,0.5,1,6.0
+S247,Syndrome Decoding in the Head: Shorter Signatures from Zero-Knowledge Proofs,2022,1,1,1,1,1,0,0.5,1,6.5
+S248,ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs,2022,1,1,1,1,1,1,1,1,8.0
+S249,zk-AuthFeed: Protecting Data Feed to Smart Contracts With Authenticated Zero Knowledge Proof,2022,1,1,1,1,1,1,0.5,0.75,7.25
+S250,Zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure,2022,1,1,0.5,1,1,1,0.5,1,7.0
+S251,zkBridge: Trustless Cross-chain Bridges Made Practical,2022,1,1,0.5,1,1,0,0.5,0.75,5.75
+S252,A Blockchain-Based Copyright Protection Scheme With Proactive Defense,2023,1,1,0.5,1,0.5,0,0.5,0.75,5.25
+S253,A Privacy-Preserving and Reputation-Based Truth Discovery Framework in Mobile Crowdsensing,2023,1,1,0.5,1,1,1,0.5,1,7.0
+S254,A Privacy-Preserving Zero-Knowledge Proof for Blockchain,2023,1,0.5,0.5,1,1,0,0.5,0.5,5.0
+S255,BaseFold: Efficient Field-Agnostic Polynomial Commitment Schemes from Foldable Codes,2023,1,1,1,1,1,0.5,0.75,1,7.25
+S256,Blockchain-Based Fair and Fine-Grained Data Trading with Privacy Preservation,2023,1,1,1,1,0.5,0,0.5,0.75,5.75
+S257,Boosting Batch Arguments and RAM Delegation,2023,1,1,1,1,0,0,0.5,1,5.5
+S258,Boosting the Performance of High-Assurance Cryptography: Parallel Execution and Optimizing Memory Access in Formally-Verified Line-Point Zero-Knowledge,2023,1,1,1,1,1,1,1,1,8.0
+S259,Bounded Verification for Finite-Field-Blasting (In a Compiler for Zero Knowledge Proofs),2023,1,0.5,1,1,0.75,0,1,0.75,6.0
+S260,Certifying Zero-Knowledge Circuits with Refinement Types,2023,1,1,1,1,1,0,0.5,1,6.5
+S261,Correlation Intractability and SNARGs from Sub-exponential DDH,2023,1,1,1,1,0,0,0.75,0.75,5.5
+S262,Decentralized Threshold Signatures With Dynamically Private Accountability,2023,1,1,1,0.75,0.75,1,0.25,0.5,6.25
+S263,Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference,2023,1,1,1,1,1,1,0.5,1,7.5
+S264,Efficient Blockchain-Based Data Integrity Auditing for Multi-Copy in Decentralized Storage,2023,1,1,1,1,1,0,0.5,1,6.5
+S265,EOS: Efficient Private Delegation of zkSNARK Provers,2023,1,1,1,1,1,0.5,0.5,1,7.0
+S266,Experimenting with Zero-Knowledge Proofs of Training,2023,1,1,1,1,1,1,1,0.5,7.5
+S267,Fixing and Mechanizing the Security Proof of Fiat-Shamir with Aborts and Dilithium,2023,1,1,1,0.75,0,1,0.5,1,6.25
+S268,Formalizing Soundness Proofs of Linear PCP SNARKs,2023,1,1,1,0.75,0.5,1,1,0.5,6.75
+S269,GZKP: A GPU Accelerated Zero-Knowledge Proof System,2023,1,0.25,0.5,1,1,0,0.5,1,5.25
+S270,HyperNova: Recursive Arguments for Customizable Constraint Systems,2023,1,1,1,1,0,0,0.5,1,5.5
+S271,Jolt: SNARKs for Virtual Machines via Lookups,2023,1,0.5,0.5,1,0,0,1,1,5.0
+S272,M&M’S: Mix and Match Attacks on Schnorr-Type Blind Signatures with Repetition,2023,1,1,1,1,0,0,0.75,0.5,5.25
+S273,Machine-checking Multi-Round Proofs of Shuffle: Terelius-Wikstrom and Bayer-Groth,2023,1,1,1,1,0.5,1,1,0.75,7.25
+S274,martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture,2023,1,1,0.5,1,1,1,0.5,0.75,6.75
+S275,Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs,2023,1,0.75,1,1,1,1,0.5,1,7.25
+S276,PILE: Robust Privacy-Preserving Federated Learning Via Verifiable Perturbations,2023,1,1,0.5,0.75,0.75,0,0.75,0.75,5.5
+S277,Practical Security Analysis of Zero-Knowledge Proof Circuits,2023,1,1,0,1,0.75,0,0.5,1,5.25
+S278,Publicly Verifiable Secret Sharing Over Class Groups and Applications to DKG and YOSO,2023,1,1,1,0.75,0,0,0.5,1,5.25
+S279,Publicly Verifiable Zero-Knowledge and Post-Quantum Signatures from VOLE-in-the-Head,2023,1,1,1,1,0.75,1,0.5,1,7.25
+S280,Revisiting BBS Signatures,2023,1,1,1,1,0,0,0.5,1,5.5
+S281,Satisfiability Modulo Finite Fields,2023,1,0.5,1,1,1,0.5,1,1,7.0
+S282,Scalable Off-chain Auction,2023,1,1,0.75,1,1,0,1,1,6.75
+S283,Split: A Hash-Based Memory Optimization Method for Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK),2023,1,0.5,0.75,1,1,0,0.5,0.5,5.25
+S284,Succinct Arguments over Towers of Binary Fields,2023,1,1,1,1,0.5,0,0.5,1,6.0
+S285,"Threshold Signatures from Inner Product Argument: Succinct, Weighted, and Multi-threshold",2023,1,1,1,1,1,1,1,1,8.0
+S286,Toward Practical Lattice-Based Proof of Knowledge from Hint-MLWE,2023,1,1,1,0.75,0.5,0,0.5,1,5.75
+S287,Unlocking the Lookup Singularity with Lasso,2023,1,0.5,1,1,0,0,0.5,0.75,4.75
+S288,Verifiable Carbon Accounting in Supply Chains,2023,1,0.5,0.5,0.75,0.5,1,1,0.5,5.75
+S289,Weak Fiat-Shamir Attacks on Modern Proof Systems,2023,1,1,1,0.75,0.5,0,1,0.75,6.0
+S290,zkSaaS: Zero-Knowledge SNARKs as a Service,2023,1,1,0.5,1,1,1,1,0.5,7.0
+S291,ZKSQL: Verifiable and Efiicient Query Evaluation with Zero-Knowledge Proofs,2023,1,1,1,1,1,1,1,0.75,7.75
+S292,A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction,2024,1,1,0.5,1,0.5,0,0.25,0.75,5.0
+S293,A Fully Pipelined Reconfigurable Montgomery Modular Multiplier Supporting Variable Bit-Widths,2024,1,0,0.5,1,0.75,0,0.5,1,4.75
+S294,A Verifiable and Privacy-Preserving Federated Learning Training Framework,2024,1,0.75,0.5,1,0.75,0.5,0.5,1,6.0
+S295,A2-DIDM: Privacy-Preserving Accumulator-Enabled Auditing for Decentralized Identity of DNN Model,2024,1,1,0.5,1,0.75,1,0,0.75,6.0
+S296,Accelerating Multi-Scalar Multiplication for Efficient Zero Knowledge Proofs with Multi-GPU Systems,2024,1,0,0,1,1,0,0.75,0.75,4.5
+S297,Accelerating Zero-Knowledge Proofs Through Hardware-Algorithm Co-Design,2024,1,0.5,0.5,1,1,0,0.75,1,5.75
+S298,Atomic and Fair Data Exchange via Blockchain,2024,1,1,1,1,1,1,1,1,8.0
+S299,Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement,2024,1,0.75,0.5,1,0.5,0,0,0.5,4.25
+S300,BatchZK: A Fully Pipelined GPU-Accelerated System for Batch Generation of Zero-Knowledge Proofs,2024,1,0.5,0.5,1,1,0,0.5,1,5.5
+S301,"Ceno: Non-uniform, Segment and Parallel Zero-Knowledge Virtual Machine",2024,1,0.5,0.5,1,0,0,0.5,0.5,4.0
+S302,Confidential-DPproof: CONFIDENTIAL PROOF OF DIFFERENTIALLY PRIVATE TRAINING,2024,1,0.75,0.5,1,0.75,1,0.5,0.5,6.0
+S303,Data Sharing in the Metaverse With Key Abuse Resistance Based on Decentralized CP-ABE,2024,1,1,1,1,0.75,1,0.25,1,7.0
+S304,EDCOMA: Enabling Efficient Double Compressed Auditing for Blockchain-Based Decentralized Storage,2024,1,1,0.75,1,1,0,0.5,1,6.25
+S305,Efficient Revocable Cross-Domain Anonymous Authentication Scheme for IIoT,2024,1,1,1,1,0.75,0,0.5,0.75,6.0
+S306,"Elastic MSM: A Fast, Elastic and Modular Preprocessing Technique for Multi-Scalar Multiplication Algorithm on GPUs",2024,1,0.5,0.25,1,1,0,0.5,1,5.25
+S307,Falic: An FPGA-Based Multi-Scalar Multiplication Accelerator for Zero-Knowledge Proof,2024,1,0,0,1,1,0,0.5,1,4.5
+S308,fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup,2024,1,1,0.25,1,0.75,0,1,0.75,5.75
+S309,Fully Homomorphic Encryption Beyond IND-CCA1 Security: Integrity Through Verifiability,2024,1,1,1,0.5,0,0,0.75,0.75,5.0
+S310,Fuzzing Processing Pipelines for Zero-Knowledge Circuits,2024,1,0.5,0,1,0.75,0.5,1,0.5,5.25
+S311,Gypsophila: A Scalable and Bandwidth-Optimized Multi-Scalar Multiplication Architecture,2024,1,0,0,1,0.5,0,0.5,1,4.0
+S312,"Lavida: Large-Universe, Verifiable, and Dynamic Fine-Grained Access Control for E-Health Cloud",2024,1,1,1,1,1,0,0.5,1,6.5
+S313,Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser,2024,1,0.5,1,1,1,0,0.5,1,6.0
+S314,Load-Balanced Parallel Implementation on GPUs for Multi-Scalar Multiplication Algorithm,2024,1,0.5,0.25,1,1,1,0.75,1,6.5
+S315,MSMAC: Accelerating Multi-Scalar Multiplication for Zero-Knowledge Proof,2024,1,0,0,1,1,0,0,1,4.0
+S316,Nebula: Proving Machine Executions via Folding Schemes,2024,1,0.5,0.5,1,0.5,0,0.5,1,5.0
+S317,PriRoAgg: Achieving Robust Model Aggregation With Minimum Privacy Leakage for Federated Learning,2024,1,1,0.75,1,1,1,0.5,1,7.25
+S318,Quantum Oblivious LWE Sampling and Insecurity of Standard Model Lattice-Based SNARKs,2024,1,1,1,0.75,0,0,0.75,1,5.5
+S319,RollStore: Hybrid Onchain-Offchain Data Indexing for Blockchain Applications,2024,1,1,0.5,0.5,0.75,0,0.5,0.75,5.0
+S320,Scalable Collaborative zk-SNARK and Its Application to Fully Distributed Proof Delegation,2024,1,1,1,1,1,1,0.75,1,7.75
+S321,Scalable Verification of Zero-Knowledge Protocols,2024,1,0.5,0.5,1,1,1,0.5,1,6.5
+S322,Secure Multiparty Computation of Threshold Signatures Made More Efficient,2024,1,1,1,1,0.75,0,0.5,1,6.25
+S323,SFOM-DT: A Secure and Fair One-to-Many Data Trading Scheme Based on Blockchain,2024,1,0.5,0.5,1,0.5,1,0.5,0.75,5.75
+S324,"Shaken, not Stirred - Automated Discovery of Subtle Attacks on Protocols using Mix-Nets",2024,1,1,0.5,0.75,0.5,0.75,1,0.75,6.25
+S325,Siniel: Distributed Privacy-Preserving zkSNARK,2024,1,1,1,1,1,0,0.5,0.75,6.25
+S326,STIR: Reed-Solomon Proximity Testing with Fewer Queries,2024,1,1,1,1,1,1,0.5,1,7.5
+S327,The 2Hash OPRF Framework and Efficient Post-quantum Instantiations,2024,1,1,1,1,0.5,1,0.75,1,7.25
+S328,The LaZer Library: Lattice-Based Zero Knowledge and Succinct Proofs for Quantum-Safe Privacy,2024,1,0.5,0.5,1,0.5,1,0.5,1,6.0
+S329,Trusted Model Aggregation with Zero-Knowledge Proofs in Federated Learning,2024,1,1,0.5,1,0.5,0,0.5,0.75,5.25
+S330,ValidCNN: A Large-Scale CNN Predictive Integrity Verification Scheme Based on zk-SNARK,2024,1,0.5,0.5,1,0.75,0,0.5,1,5.25
+S331,VerITAS: Verifying Image Transformations at Scale,2024,1,1,0.5,1,1,1,0.5,1,7.0
+S332,WHIR: Reed-Solomon Proximity Testing with Super-Fast Verification,2024,1,1,1,1,1,1,0.5,1,7.5
+S333,ZENO: A Type-based Optimization Framework for Zero Knowledge Neural Network Inference,2024,1,0.5,0.5,1,0.75,0,0.5,0.75,5.0
+S334,Zero-Knowledge Proofs of Training for Deep Neural Networks,2024,1,1,1,1,1,1,0.5,1,7.5
+S335,Zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms,2024,1,0.5,0.5,0.75,0.5,0,0.5,0.5,4.25
+S336,zkLLM: Zero Knowledge Proofs for Large Language Models,2024,1,1,0.75,1,1,0,0.5,0.75,6.0
+S337,zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials,2024,1,1,1,1,1,0,0.75,0.75,6.5
+S338,ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs,2024,1,0.5,0.5,1,1,1,1,1,7.0
+S339,ZKWASM: A ZKSNARK WASM Emulator,2024,1,0,0.5,1,0.5,0,0.5,0.5,4.0
+S340,'Check-Before-you-Solve': Verifiable Time-Lock Puzzles,2025,1,1,1,1,1,1,0.5,1,7.5
+S341,A Framework for Witness Encryption from Linearly Verifiable SNARKs and Applications,2025,1,1,1,0.5,0,0,0.5,1,5.0
+S342,A Scheme of Robust Privacy-Preserving Multi-Party Computation via Public Verification,2025,1,1,0.5,1,0.5,0,0.5,0.75,5.25
+S343,Accelerating Number Theoretic Transform with Multi-GPU Systems for Efficient Zero Knowledge Proof,2025,1,0.25,0.5,1,1,0,0.5,1,5.25
+S344,Armadillo: Robust Single-Server Secure Aggregation for Federated Learning with Input Validation,2025,1,1,1,1,1,0,0.75,1,6.75
+S345,Automated Soundness and Completeness Vetting of Polygon zkEVM,2025,1,1,0.5,1,1,1,1,0.75,7.25
+S346,Automated Verification of Consistency in Zero-Knowledge Proof Circuits,2025,1,0.5,0.5,1,0.75,0,0.75,1,5.5
+S347,Bring Your Device Group (BYDG): Efficient and Privacy-Preserving User-Device Authentication Protocol in Multi-Access Edge Computing,2025,1,1,0.5,1,0.5,0,0.5,1,5.5
+S348,CAPE: Commitment-Based Privacy-Preserving Payment Channel Scheme in Blockchain,2025,1,1,0.5,1,0.75,0,0.25,0.75,5.25
+S349,Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains,2025,1,0.5,0.75,1,1,1,0.5,1,6.75
+S350,ConsCS: Effective and Efficient Verification of Circom Circuits,2025,1,0.5,0.5,1,1,1,1,1,7.0
+S351,DFS: Delegation-friendly zkSNARK and Private Delegation of Provers,2025,1,1,1,1,1,1,0.5,1,7.5
+S352,Efficient Constant-Size Linkable Ring Signatures for Ad-Hoc Rings via Pairing-Based Set Membership Arguments,2025,1,1,1,1,0.5,1,0.5,1,7.0
+S353,Efficient Proofs of Possession for Legacy Signatures,2025,1,0.5,1,1,1,1,1,1,7.5
+S354,EPREAR:An Efficient Attribute-Based Proxy Re-Encryption Scheme With Fast Revocation for Data Sharing in AIoT,2025,1,0.75,0.5,1,0.5,0,0.5,1,5.25
+S355,Evaluating Compiler Optimization Impacts on zkVM Performance,2025,1,0,0,1,1,1,1,0.5,5.5
+S356,Fiat-Shamir in the Plain Model from Derandomization (Or: Do Efficient Algorithms Believe that NP = PSPACE?),2025,1,1,0.5,0.75,0,0,0.5,0.75,4.5
+S357,Founding Zero-Knowledge Proofs of Training on Optimum Vicinity,2025,1,0.75,1,1,1,0,0.5,0.75,6.0
+S358,FPGA-Based Hardware Accelerator of zk-SNARK,2025,1,0,0,1,1,0,0.5,1,4.5
+S359,From Σ-Protocol-Based Signatures to Ring Signatures: General Construction and Applications,2025,1,1,0.75,1,0.75,1,0.5,1,7.0
+S360,Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain,2025,1,0.75,0.5,0.75,0.5,0,0,0.5,4.0
+S361,Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE,2025,1,1,1,0.5,0,0,1,1,5.5
+S362,How to Prove False Statements: Practical Attacks on Fiat-Shamir,2025,1,1,1,0.5,0,0,0.75,0.75,5.0
+S363,HydraProofs: Optimally Computing All Proofs in a Vector Commitment (With Applications to Efficient zkSNARKs Over Data from Multiple Users),2025,1,0.5,0.75,1,1,1,0.5,1,6.75
+S364,Improved Round-by-round Soundness IOPs via  Reed-Muller Codes,2025,1,1,1,1,0,0,1,1,6.0
+S365,Incrementally Verifiable Computation for NP from Standard Assumptions,2025,1,1,1,1,0,0,0.5,0.75,5.25
+S366,Integer Reasoning Modulo Different Constants in SMT,2025,1,0.5,1,1,1,0.5,1,1,7.0
+S367,KZH-Fold: Accountable Voting from Sublinear Accumulation,2025,1,1,1,1,1,1,0.5,1,7.5
+S368,"Leakage-Resilient Circuits Against NC1, Revisited",2025,1,1,0.75,1,0,0,1,1,5.75
+S369,LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof,2025,1,0,0,1,1,0,0.5,1,4.5
+S370,LETA: A Lattice-Based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs,2025,1,1,0.75,1,0.5,0,0.5,1,5.75
+S371,Malicious Security in Collaborative zk-SNARKs: More than Meets the Eye,2025,1,1,1,0.5,0,0,0.75,0.5,4.75
+S372,MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers,2025,1,1,0.25,1,1,1,1,1,7.25
+S373,Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs,2025,1,0.5,0.25,1,0.75,0.25,0.5,1,5.25
+S374,On the Impossibility of SNARGs with Short CRS : (or: Revisiting Gentry-Wichs Barrier in the Non-adaptive Setting),2025,1,1,1,0.5,0,0,0.75,0.75,5.0
+S375,Papercraft: Lattice-Based Verifiable Delay Function Implemented,2025,1,1,1,1,0.75,1,0.75,0.5,7.0
+S376,Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES,2025,1,0.5,1,1,1,1,0.5,1,7.0
+S377,Post-Quantum Rollup: Falcon Signature Aggregation Based on SNARG With Enhanced Gates,2025,1,0.75,0.75,1,0.75,0,0.5,0.75,5.5
+S378,Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head,2025,1,1,1,1,1,1,0.5,1,7.5
+S379,Preprocessing for Life: Dishonest-Majority MPC with a Trusted or Untrusted Dealer,2025,1,1,1,1,0.5,0,0.5,1,6.0
+S380,Query-Optimal IOPPs for Linear-Time Encodable Codes,2025,1,1,1,1,0,0,1,1,6.0
+S381,Relaxed Vector Commitment for Shorter Signatures,2025,1,1,1,1,0.5,0,0.5,1,6.0
+S382,ScaleCirc: Scaling the Analysis over Circom Circuits,2025,1,0.75,0.5,1,1,1,1,1,7.25
+S383,Server-Aided Anonymous Credentials,2025,1,1,1,1,0,0,0.75,1,5.75
+S384,"Shorter, Tighter, FAESTer: Optimizations and Improved (QROM) Analysis for VOLE-in-the-Head Signatures",2025,1,1,1,1,0.5,0,0.5,1,6.0
+S385,Single-Server Private Outsourcing of zk-SNARKs,2025,1,1,1,1,1,1,1,1,8.0
+S386,UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping,2025,1,0.25,0.5,1,1,1,0.5,1,6.25
+S387,Unmasking TRaccoon: A Lattice-Based Threshold Signature with An Efficient Identifiable Abort Protocol,2025,1,1,1,1,0.25,0,0.5,1,5.75
+S388,Verifiable Computation for Approximate Homomorphic Encryption Schemes,2025,1,0.5,1,1,0.75,1,0.75,1,7.0
+S389,Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems,2025,1,0.5,0.25,1,0.75,0,0.5,0.5,4.5
+S390,ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer,2025,1,1,0.5,0.75,0.5,0.75,0.5,0.5,5.5
+S391,Zkfhed: A Verifiable and Scalable Blockchain-Enhanced Federated Learning System,2025,1,1,0.5,1,1,0.75,0.5,0.75,6.5
+S392,ZkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits,2025,1,1,0.5,1,1,1,1,1,7.5
+S393,zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference,2025,1,0.5,0.75,1,1,1,1,1,7.25
+S394,"ZkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates",2025,1,0,0.5,1,1,0,0.5,1,5.0
+S395,ZKProphet: Understanding Performance of Zero-Knowledge Proofs on GPUs,2025,1,0,0.25,1,1,0,0.5,0.75,4.5
+S396,ZkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing,2025,1,0.5,0.5,1,0.75,1,0,1,5.75
+S397,Attribute-Based Credentials with Verifiable Human Binding: Toward Compactness and Revocability,2026,1,1,1,1,1,0,0.5,1,6.5
+S398,Chopin: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG,2026,1,1,1,1,0,0,0.5,1,5.5
+S399,Cyclo: Lightweight Lattice-Based Folding via Partial Range Checks,2026,1,1,1,1,0.5,0,0.5,1,6.0
+S400,DeSA: Decentralized Secure Aggregation for Federated Learning in Zero-Trust D2D Networks,2026,1,1,0.5,1,1,0,0.5,1,6.0
+S401,Dishonest Majority Passive-to-Active Compiler Over Rings for MPC With Constant Online Communication,2026,1,1,1,1,0.75,1,1,1,7.75
+S402,"Grant, Verify, Revoke: A User-Centric Pattern for Blockchain Compliance",2026,1,0.5,0.25,0.75,0.5,0,1,0.5,4.5
+S403,LightZK: An Efficient GPU Acceleration Framework for Large-Scale Zero-Knowledge Proofs,2026,1,0,0.5,1,1,0,1,1,5.5
+S404,MegaZK: A Memory Efficient GPU System Accelerating End-to-end Zero-Knowledge Proof,2026,1,0,0.5,1,1,1,0.5,1,6.0
+S405,MobCred: A New Mobile-Cloud Integration Anonymous Credential Framework With Universal Access Policy,2026,1,1,0.75,1,1,0,1,1,6.75
+S406,On Proximity Gaps of Reed-Solomon Codes,2026,1,1,0.75,1,0,0,0.75,1,5.5
+S407,Pipelonk: Accelerating End-to-End Zero-Knowledge Proof Generation on GPUs for PLONK-Based Protocols,2026,1,0.5,0.5,1,1,1,0.5,1,6.5
+S408,Privacy-Accountable Distributed Collaborative Authentication for Malicious Node Resistance in Vehicular Ad Hoc Networks,2026,1,0.5,0.5,1,1,0,0,1,5.0
+S409,PVCA: Privacy-Preserving and Verifiable Cross-System Authorization for Platoon Communications in VANETs,2026,1,1,1,1,1,0,0.5,1,6.5
+S410,Quantum-Resistant Data Sharing Scheme With Auditability for Internet of Vehicles,2026,1,1,1,1,0.5,0,0.75,0.75,6.0
+S411,"SNARGs for NP and Non-signaling PCPs, Revisited",2026,1,1,1,0.5,0,0,1,1,5.5
+S412,TensorZKP: Repurposing GPU Tensor Cores for High-Performance Zero-Knowledge Proofs,2026,1,0.5,0.5,1,1,1,0.75,1,6.75
+S413,Zk-Guard: A Privacy-Preserving Access Control Framework Based on zk-SNARKs and Blockchain for Decentralized Data Sharing,2026,1,1,1,1,1,1,1,1,8.0
+S414,ZKVeil: A Privacy-Preserving Compliance Verification Scheme for Blockchain-Enabled Supply Chain Transactions,2026,1,1,0.75,1,0.5,0,0.5,0.75,5.5

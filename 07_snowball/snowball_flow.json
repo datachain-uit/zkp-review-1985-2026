@@ -1,0 +1,21 @@
+{
+  "seeds_tier2": 361,
+  "seeds_without_openalex_record": 19,
+  "identified_backward_refs": 13708,
+  "identified_forward_citations": 62977,
+  "unique_works": 31858,
+  "no_metadata_in_openalex": 233,
+  "is_seed": 344,
+  "already_in_corpus": 6177,
+  "auto_EC3_type": 198,
+  "auto_EC5_repository": 209,
+  "other_report_of_corpus_work": 27,
+  "out_of_period": 163,
+  "candidate_versions_merged": 908,
+  "prefilter_excluded": 22867,
+  "to_screening": 732,
+  "to_screening_by_citation_only": 537,
+  "to_screening_by_term": 195,
+  "prefilter_excluded_sampled_for_screening": 200,
+  "prefilter_excluded_cited50_screened": 4889
+}

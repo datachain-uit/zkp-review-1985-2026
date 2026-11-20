@@ -1,0 +1,415 @@
+sid,rid,year,venue,stratum,qa_total,verified_by_R1,title
+S1,SB83F904B06D,1985,Annual Symposium on Foundations of Computer Science,CONS,4.5,0,A private interactive test of a boolean predicate a minimum-knowledge public-key cryptosystems
+S2,SBAE91CFC936,1985,Annual Symposium on Foundations of Computer Science,APP,4.25,0,A robust and verifiable cryptographically secure election scheme
+S3,ZKD9AC5B0EB9,1985,SIAM Journal on Computing,CONS,4.75,0,Knowledge complexity of interactive proof systems
+S4,ZKAF8417B890,1986,Advances in Cryptology - CRYPTO '86 (LNCS 263),CONS,4.5,0,How to prove yourself: practical solutions to identification and signature problems
+S5,ZKC26959B796,1986,Journal of the ACM (JACM),CONS,4.75,0,Proofs that Yield Nothing but Their Validity or All Languages in NP Have Zero-Knowledge Proof Systems
+S6,ZKD2520CD4D0,1987,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.0,0,COMPLEXITY OF PERFECT ZERO-KNOWLEDGE.
+S7,SBFF4E191896,1987,Lecture notes in computer science,CONS,4.0,1,Direct Minimum-Knowledge Computations (Extended Abstract)
+S8,ZKFD7B11988A,1987,Annual Symposium on Foundations of Computer Science (Proceedings),CONS,4.25,0,PERFECT ZERO-KNOWLEDGE LANGUAGES CAN BE RECOGNIZED IN TWO ROUNDS.
+S9,ZK0A6123C0B9,1987,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.5,0,ZERO KNOWLEDGE PROOFS OF IDENTITY.
+S10,SB73AA87E269,1988,Lecture notes in computer science,CQ,4.5,1,Abuses in Cryptography and How to Fight Them
+S11,ZK6831143806,1988,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.75,0,Everything provable is provable in zero-knowledge
+S12,ZK3BF639E5F7,1988,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.0,0,Non-interactive zero-knowledge and its applications
+S13,ZK36B90A1377,1989,Advances in Cryptology - CRYPTO '89 (LNCS 435),CONS,5.25,0,Efficient identification and signatures for smart cards
+S14,ZK62E97FBEAF,1990,SIAM Journal on Computing,CONS,4.75,0,Multiple noninteractive zero knowledge proofs under general assumptions
+S15,ZK4A3134AA87,1990,SIAM Journal on Computing,CONS,4.75,0,On the composition of zero-knowledge proof systems
+S16,ZK5C97F3F5D5,1990,,APP,4.5,0,Public-key cryptosystems provably secure against chosen ciphertext attacks
+S17,ZKFDA7296408,1990,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Publicly verifiable non-interactive zero-knowledge proofs
+S18,ZKCB059701FF,1990,,CONS,4.5,0,Witness indistinguishable and witness hiding protocols
+S19,ZKFB02A7B686,1991,SIAM Journal on Computing,CONS,4.75,0,Noninteractive zero-knowledge
+S20,ZK7A0EF30E6C,1992,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.25,0,A note on efficient zero-knowledge proofs and arguments (extended abstract)
+S21,ZK9D9F5E8B73,1992,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CQ,4.5,0,On the security of the permuted kernel identification scheme
+S22,SB69AEB8B90F,1992,Springer eBooks,CONS,5.75,0,Provably Secure and Practical Identification Schemes and Corresponding Signature Schemes
+S23,ZK603F140C97,1993,ACM SIGSAC Conference on Computer and Communications Security (CCS),CONS,4.25,0,Random oracles are practical
+S24,ZK128BD6EB1F,1994,SIAM Journal on Computing,CONS,5.25,0,Computationally sound proofs
+S25,ZK412E72CB38,1994,Journal of Cryptology,CONS,4.25,0,Definitions and properties of zero-knowledge proof systems
+S26,ZK335E897DE7,1994,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Proofs of partial knowledge and simplified design of witness hiding protocols
+S27,ZKE3FA8FEC5A,1996,Journal of Cryptology,CONS,4.5,0,How to construct constant-round zero-knowledge proof systems for NP
+S28,SB1E2EE5E64D,1996,Journal of Cryptology,CONS,5.25,0,Security Arguments for Digital Signatures and Blind Signatures
+S29,SBB64419F7E5,1997,Lecture notes in computer science,CONS,4.0,0,Efficient group signature schemes for large groups
+S30,ZK6A804445D6,1999,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.0,0,Non-interactive zero-knowledge: A low-randomness characterization of np (extended abstract)
+S31,ZK916DE24B6E,1999,Annual Symposium on Foundations of Computer Science - Proceedings,CONS,4.5,0,Non-malleable non-interactive zero knowledge and adaptive chosen-ciphertext security
+S32,ZK8A169ED87E,1999,Lecture Notes in Computer Science,CONS,4.5,0,On the concurrent composition of zero-knowledge proofs
+S33,SB94C36A14A0,2000,Lecture notes in computer science,APP,4.5,1,A Practical and Provably Secure Coalition-Resistant Group Signature Scheme
+S34,SB257103767B,2000,Lecture notes in computer science,CONS,5.0,0,Efficient Proofs that a Committed Number Lies in an Interval
+S35,SB6AA6DDA0D6,2000,Lecture notes in computer science,APP,4.5,0,Provably Secure Partially Blind Signatures
+S36,SB46D5235864,2001,ACM SIGSAC Conference on Computer and Communications Security (CCS),CONS,4.5,0,A verifiable secret shuffle and its application to e-voting
+S37,SBDDFCF2DC0F,2001,Lecture notes in computer science,APP,4.0,1,An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation
+S38,ZKC480656DF1,2001,Proceedings of the Annual ACM Symposium on Principles of Distributed Computing,APP,4.0,0,Practical multi-candidate election system
+S39,ZK4A90CD84DF,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,4.75,0,Deniable ring authentication
+S40,SB38F18D9DC7,2002,ACM SIGSAC Conference on Computer and Communications Security (CCS),SYS,4.5,1,Design and implementation of the idemix anonymous credential system
+S41,ZK72EB2603C8,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.75,0,Dynamic accumulators and application to efficient revocation of anonymous credentials
+S42,SBFBD2E118F3,2003,Lecture notes in computer science,CONS,4.5,0,A Signature Scheme with Efficient Protocols
+S43,SB3027596950,2003,Annual Symposium on Foundations of Computer Science,CONS,4.5,0,On the (In)security of the Fiat-Shamir paradigm
+S44,SBAAC4D0C041,2004,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,4.5,0,Direct anonymous attestation
+S45,SBF9AACC0538,2004,Lecture notes in computer science,APP,5.0,0,Short Group Signatures
+S46,ZK936A675989,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Compact Group Signatures Without Random Oracles.
+S47,ZKF56A5CE4E7,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Perfect non-interactive zero knowledge for NP
+S48,ZKC6F4E508D2,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Communication-efficient non-interactive proofs of knowledge with online extractors
+S49,ZKE5934D83F4,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,4.25,0,Construction of a non-malleable encryption scheme from any semantically secure one
+S50,ZKC57CC16176,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Non-interactive zaps and new techniques for NIZK
+S51,SBE93172E7E8,2007,IEEE Conference on Computational Complexity (CCC),CONS,5.0,0,Efficient Arguments without Short PCPs
+S52,ZK9A5188A367,2007,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.25,0,Efficient non-interactive proof systems for bilinear groups
+S53,ZKC1765DAEDB,2007,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,5.25,0,Zero-knowledge from secure multiparty computation
+S54,ZK52922ECA74,2008,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,5.0,1,Delegating computation: Interactive proofs for Muggles
+S55,ZK27F043C9E8,2008,Proceedings of the ACM Conference on Computer and Communications Security,APP,5.0,0,Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma
+S56,SBE75F1B7343,2008,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,6.5,0,PEREA
+S57,ZKC8D9D05402,2008,IEEE Transactions on Parallel and Distributed Systems,APP,5.25,0,Pseudo trust: Zero-knowledge authentication in anonymous P2Ps
+S58,ZK2F8FB5E8F1,2008,Proceedings of the ACM Conference on Computer and Communications Security,CQ,5.25,0,Type-checking zero-knowledge
+S59,SBEB9C83F2EE,2009,Lecture notes in computer science,CONS,4.75,0,An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials
+S60,ZK5836AAB222,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,Linear algebra with sub-linear zero-knowledge arguments
+S61,ZK326A5E4AF4,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Short pairing-based non-interactive zero-knowledge arguments
+S62,ZK0EC5B71D36,2010,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.0,0,Constant-size commitments to polynomials and their applications
+S63,SB0E90EB8ADD,2010,Lecture notes in computer science,CONS,5.5,0,Non-interactive Verifiable Computing: Outsourcing Computation to Untrusted Workers
+S64,ZKD92DABC4B0,2010,,CONS,4.75,0,Proof-Carrying Data and Hearsay Arguments from Signature Cards.
+S65,ZK006AA18435,2011,ITCS 2012 - Innovations in Theoretical Computer Science Conference,CONS,5.0,0,"From Extractable Collision Resistance to Succinct Non-Interactive Arguments of Knowledge, and Back Again."
+S66,SB8595879FD7,2011,arXiv (Cornell University),SYS,7.0,0,Practical Verified Computation with Streaming Interactive Proofs
+S67,SBD595FF1851,2011,Lecture notes in computer science,CONS,4.75,0,Verifiable Delegation of Computation over Large Datasets
+S68,ZKF713670F10,2012,IEEE Transactions on Parallel and Distributed Systems,APP,5.25,0,Cooperative provable data possession for integrity verification in multicloud storage
+S69,ZKAA4E134FD2,2012,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.75,0,Efficient zero-knowledge argument for correctness of a shuffle
+S70,ZK625609E430,2012,Proceedings of the ACM Conference on Computer and Communications Security,CQ,5.75,0,Full proof cryptography: Verifiable compilation of efficient zero-knowledge protocols
+S71,SB42867BA37B,2012,Lecture notes in computer science,APP,5.25,0,Group Signatures with Almost-for-Free Revocation
+S72,ZKBDE699CD9A,2012,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Quadratic Span Programs and Succinct NIZKs without PCPs.
+S73,ZK6D47133875,2012,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,5.5,0,Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data.
+S74,ZKACC41DF5E3,2012,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Succinct non-interactive arguments via linear interactive proofs
+S75,ZK25E475ABE3,2013,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.5,0,"How to use indistinguishability obfuscation: Deniable encryption, and more"
+S76,ZKEDC7429EB9,2013,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,5.0,0,New Techniques for SPHFs and Efficient One-Round PAKE Protocols.
+S77,ZK059872769D,2013,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.25,0,Pinocchio: Nearly Practical Verifiable Computation.
+S78,SB133A2F71E5,2013,Lecture notes in computer science,CONS,5.0,0,Signatures of Correct Computation
+S79,ZK2C30D4833E,2013,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),SYS,6.25,0,SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge.
+S80,ZKED78DD90AD,2013,Proceedings of the 23rd USENIX Security Symposium,SYS,6.5,0,Succinct non-interactive zero knowledge for a von neumann architecture
+S81,ZKB777991A6B,2013,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CQ,4.0,0,Universally Composable Symbolic Analysis for Two-Party Protocols based on Homomorphic Encryption.
+S82,SBC6745CBF97,2013,ACM SIGOPS Symposium on Operating Systems Principles (SOSP),SYS,7.0,0,Verifying computations with state
+S83,SBC0C3573DD8,2013,IEEE Symposium on Security and Privacy (S&P),APP,6.25,0,Zerocoin: Anonymous Distributed E-Cash from Bitcoin
+S84,SBBBF25D443C,2014,IACR Cryptology ePrint Archive,SYS,7.0,0,Efficient RAM and control flow in verifiable outsourced computation.
+S85,ZKB1864F57C5,2014,Lecture Notes in Computer Science,CONS,4.75,0,Non-interactive zero-knowledge proofs in the quantum random oracle model
+S86,ZK014DF5F4B5,2014,Lecture Notes in Computer Science,CONS,5.5,0,One-out-of-Many Proofs: Or How to Leak a Secret and Spend a Coin.
+S87,ZK181311AE61,2014,IEEE Transactions on Information Forensics and Security,APP,4.75,0,PrivBioMTAuth: Privacy Preserving Biometrics-Based and User Centric Protocol for User Authentication from Mobile Phones
+S88,ZK42ED5277D4,2014,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",CONS,5.5,0,Quantum Attacks on Classical Proof Systems - The Hardness of Quantum Rewinding
+S89,ZK468D59BB8B,2014,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),SYS,6.0,1,Scalable Zero Knowledge via Cycles of Elliptic Curves.
+S90,ZKD1414982D3,2014,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.75,0,Square span programs with applications to succinct NIZK arguments
+S91,SBECBA778568,2014,,CONS,6.25,0,TRUESET: Faster verifiable set computations
+S92,ZKB33A4594E4,2014,Proceedings - IEEE Symposium on Security and Privacy,APP,5.75,0,Zerocash: Decentralized anonymous payments from bitcoin
+S93,ZKD18E773E0B,2014,Proceedings of the 23rd USENIX Security Symposium,SYS,5.5,0,ZØ: An optimizing distributing zero-knowledge compiler
+S94,SB607B24F4AD,2015,IEEE Symposium on Security and Privacy (S&P),CONS,6.25,0,ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data
+S95,ZK19EB8E8214,2015,Lecture Notes in Computer Science,APP,4.0,1,End-to-End Verifiable Elections in the Standard Model∗
+S96,SB44904541B9,2015,IEEE Symposium on Security and Privacy (S&P),SYS,5.0,0,Geppetto: Versatile Verifiable Computation
+S97,ZK85E817842E,2015,"Proceedings - 2016 IEEE Symposium on Security and Privacy, SP 2016",APP,7.5,1,Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts
+S98,SBD3B3BD2A66,2015,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,7.5,0,IntegriDB
+S99,ZK9E1366A0E3,2015,Proceedings - IEEE Symposium on Security and Privacy,APP,6.75,0,Privacy and access control for outsourced personal records
+S100,ZK26B5AC8C6B,2015,Proceedings of the ACM Conference on Computer and Communications Security,APP,6.0,0,Provisions: Privacy-preserving proofs of solvency for bitcoin exchanges
+S101,ZK160B90B234,2015,Lecture Notes in Computer Science,CONS,5.5,0,Quasi-adaptive NIZK for linear subspaces revisited
+S102,ZK8623A375F6,2015,Proceedings - IEEE Symposium on Security and Privacy,CONS,6.5,0,Secure sampling of public parameters for succinct zero knowledge proofs
+S103,ZKAF8D7FF2E6,2015,Proceedings - IEEE Symposium on Security and Privacy,APP,5.5,1,Security of the J-PAKE password-authenticated key exchange protocol
+S104,ZK6344499AE1,2015,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,5.5,0,Short group signatures via structure-preserving signatures: Standard model security from simple assumptions
+S105,ZK96180F0D14,2016,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,4.0,0,Accountable privacy for decentralized anonymous payments
+S106,ZK0D77469947,2016,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),SYS,6.25,0,"Design in Type-I, run in Type-III: Fast and scalable bilinear-type conversion using integer programming"
+S107,ZK47844BB44D,2016,Lecture Notes in Computer Science,CONS,6.0,0,Efficient zero-knowledge arguments for arithmetic circuits in the discrete log setting
+S108,ZKAA3A3661C5,2016,IEEE Transactions on Information Forensics and Security,APP,5.0,1,Identity-Based Remote Data Integrity Checking with Perfect Data Privacy Preserving for Cloud Storage
+S109,ZK6D14274500,2016,IACR Cryptology ePrint Archive,CONS,5.5,0,Interactive Oracle Proofs
+S110,ZK55A7A6FFF8,2016,Lecture Notes in Computer Science,CONS,5.75,0,On the size of pairing-based non-interactive arguments
+S111,ZKDAD16B4DC8,2016,"Proceedings - 2016 IEEE Symposium on Security and Privacy, SP 2016",APP,6.5,0,PhotoProof: Cryptographic Image Authentication for Any Set of Permissible Transformations
+S112,ZKFBA21771B1,2016,Proceedings of the ACM Conference on Computer and Communications Security,APP,5.5,0,The Ring of Gyges: Investigating the Future of Criminal Smart Contracts.
+S113,SB799E94A28B,2016,IEEE Symposium on Security and Privacy (S&P),SYS,6.5,0,Verifiable ASICs
+S114,ZK14EF34FC9B,2016,Proceedings of the 25th USENIX Security Symposium,CONS,7.25,0,ZKBOo: Faster zero-knowledge for boolean circuits
+S115,ZK18910B0192,2017,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.5,0,A multi-party protocol for constructing the public parameters of the Pinocchio zk-SNARK
+S116,SB50667127FB,2017,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,5.75,0,Bolt
+S117,ZK213C053C4F,2017,Proceedings - IEEE Symposium on Security and Privacy,CONS,6.5,0,Bulletproofs: Short Proofs for Confidential Transactions and More
+S118,ZKDD1F032464,2017,Proceedings - IEEE Symposium on Security and Privacy,CONS,8.0,0,Doubly-Efficient zkSNARKs Without Trusted Setup
+S119,SBC12A9C6BE5,2017,ACM SIGSAC Conference on Computer and Communications Security (CCS),SYS,7.5,0,Full Accounting for Verifiable Outsourcing
+S120,ZKFAF2AC4EF0,2017,"Designs, Codes, and Cryptography",CONS,6.25,0,Ligero: lightweight sublinear arguments without a trusted setup
+S121,ZK95037FEBE0,2017,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,6.0,0,Overdrive: Making SPDZ great again
+S122,ZK171D776886,2017,Proceedings of the ACM Conference on Computer and Communications Security,CONS,7.5,1,Post-quantum zero-knowledge and signatures from symmetric-key primitives
+S123,ZK57FC395475,2017,Proceedings of the ACM Conference on Computer and Communications Security,APP,6.75,0,Practical UC-Secure delegatable credentials with attributes and their application to blockchain
+S124,SB7A5FFA339C,2017,Lecture notes in computer science,APP,5.0,0,RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero
+S125,SB0642C8D707,2017,arXiv (Cornell University),APP,4.5,0,SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud
+S126,ZK0DA2357627,2017,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Snarky Signatures: \\ Minimal Signatures of Knowledge from Simulation-Extractable SNARKs
+S127,ZK62950E2D80,2017,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,The algebraic group model and its applications
+S128,ZKF110869313,2017,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.0,0,VSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases
+S129,ZKC13C0C6958,2017,Proceedings of the ACM Conference on Computer and Communications Security,CQ,6.0,0,Zero-Knowledge contingent payments revisited: Attacks and payments for services
+S130,ZK7EDFA058F9,2018,Lecture Notes in Computer Science,CONS,7.0,0,Aurora: Transparent succinct arguments for R1CS
+S131,ZK1864E77D9A,2018,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.75,0,Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains
+S132,ZKCFD4743733,2018,Proceedings of the ACM Conference on Computer and Communications Security,CONS,6.0,0,Compressing vector OLE
+S133,ZK300839697C,2018,Proceedings of the 27th USENIX Security Symposium,SYS,6.25,0,DIZK: A Distributed Zero Knowledge Proof System.
+S134,SBA317148C1B,2018,Lecture notes in computer science,CONS,5.25,0,Efficient Proof Composition for Verifiable Computation
+S135,ZKCB01A255FE,2018,"Leibniz International Proceedings in Informatics, LIPIcs",CONS,5.0,0,Fast reed-solomon interactive oracle proofs of proximity
+S136,ZK5F51D1B36A,2018,Proceedings of the ACM Conference on Computer and Communications Security,CONS,6.5,1,Improved non-interactive zero knowledge with applications to post-quantum signatures
+S137,ZK5463E32CDC,2018,Lecture Notes in Computer Science,CQ,4.75,0,Multi-Target Attacks on the Picnic Signature Scheme and Related Protocols.
+S138,ZKC06E95DD3D,2018,Proceedings - IEEE Symposium on Security and Privacy,APP,5.0,0,Ouroboros crypsinous: Privacy-preserving proof-of-stake
+S139,ZK2198E263EE,2018,"Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2018",SYS,7.0,0,Proving the correct execution of concurrent services in zero-knowledge.
+S140,ZK4155FDA9EA,2018,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,6.5,0,Quisquis: A new design for anonymous cryptocurrencies
+S141,ZK56C3D3F7D1,2018,IACR Cryptology ePrint Archive,CONS,6.75,0,"Scalable, transparent, and post-quantum secure computational integrity"
+S142,ZK92F56FC7A2,2018,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Updatable and universal common reference strings with applications to zk-SNARKs
+S143,SBD5E0AD11CF,2018,IEEE Symposium on Security and Privacy (S&P),SYS,4.5,1,xJsnark: A Framework for Efficient Verifiable Computation
+S144,SB863788D8A9,2018,IEEE International Conference on Distributed Computing Systems (ICDCS),APP,5.75,0,ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain
+S145,ZK3640685DB0,2018,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.0,0,ZEXE: Enabling decentralized private computation
+S146,ZK142E33E430,2019,IEEE Transactions on Dependable and Secure Computing,APP,7.5,0,BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs
+S147,ZK49AEF53851,2019,Proceedings of the ACM Conference on Computer and Communications Security,APP,6.25,0,DECO: Liberating Web Data Using Decentralized Oracles for TLS
+S148,ZK81274D0E6D,2019,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.5,0,Fiat-Shamir: From practice to theory
+S149,ZK8D1B629E3A,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,7.0,0,Fractal: Post-quantum and transparent recursive proofs from holography
+S150,ZK36CCEE439B,2019,Proceedings of the ACM Conference on Computer and Communications Security,CONS,7.5,1,LegoSNARK: Modular Design and Composition of Succinct Zero-Knowledge Proofs.
+S151,ZK928CB900EE,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,7.25,0,Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation
+S152,ZK036A8EC703,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,7.0,0,Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS.
+S153,ZK7F10F29EAE,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.0,1,Noninteractive Zero Knowledge for NP from (Plain) Learning with Errors
+S154,ZK8A34DF560B,2019,IACR Cryptology ePrint Archive,CONS,6.0,0,PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge
+S155,ZK841F61F80C,2019,Proceedings of the 30th USENIX Security Symposium,CONS,6.5,0,POSEIDON: A new hash function for zero-knowledge proof systems
+S156,ZK41F8DB96B5,2019,Proceedings of the ACM Conference on Computer and Communications Security,CQ,5.25,0,Privacy aspects and subliminal channels in ZCaSH
+S157,ZKAB4FAE20A3,2019,Lecture Notes in Computer Science,CONS,7.0,0,Proofs for Inner Pairing Products and Applications
+S158,ZK09D1000E9C,2019,IACR Cryptology ePrint Archive,CONS,6.25,0,Recursive Proof Composition without a Trusted Setup
+S159,ZK78AEA067FA,2019,Proceedings of the 29th USENIX Security Symposium,SYS,6.75,0,Scaling verifiable computation using efficient set accumulators
+S160,ZK7131F24183,2019,Proceedings of the ACM Conference on Computer and Communications Security,CONS,7.5,1,Sonic: Zero-knowledge snarks from linear-size universal and updatable structured reference strings
+S161,ZK426832BC3B,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,7.5,0,Spartan: Efficient and general-purpose zkSNARKs without trusted setup.
+S162,ZKA3BE0198BC,2019,Proceedings of the ACM Conference on Computer and Communications Security,APP,7.0,0,The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption
+S163,ZK8D5C50B4FB,2019,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.0,0,Transparent polynomial delegation and its applications to zero knowledge proof
+S164,ZK3CC5A82D7C,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,6.0,0,Transparent SNARKs from DARK Compilers.
+S165,ZKFFB7AE0594,2019,IEEE Transactions on Parallel and Distributed Systems,APP,5.75,0,VeriML: Enabling Integrity Assurances and Fair Payments for Machine Learning as a Service
+S166,ZK0F1561261C,2019,Proceedings of the ACM Conference on Computer and Communications Security,CQ,4.75,0,WI Is Not Enough: Zero-Knowledge Contingent (Service) Payments Revisited.
+S167,ZKF2E8B0C74A,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Zero-Knowledge Proofs on Secret-Shared Data via Fully Linear PCPs
+S168,SB1A20FD10BA,2019,arXiv (Cornell University),APP,5.25,0,ZETH: On Integrating Zerocash on Ethereum
+S169,ZK97B7856862,2019,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,6.0,0,Zether: Towards Privacy in a Smart Contract World
+S170,ZKEDFBF3425F,2019,Proceedings of the ACM Conference on Computer and Communications Security,SYS,7.0,1,Zkay: Specifying and enforcing data privacy in smart contracts
+S171,SB0F9569EA21,2020,IEEE Transactions on Dependable and Secure Computing,APP,6.0,0,Agora: A Privacy-Aware Data Marketplace
+S172,ZK87C4B94095,2020,Proceedings - IEEE Symposium on Security and Privacy,SYS,5.75,0,"CirC: Compiler infrastructure for proof systems, software verification, and more"
+S173,SBC591D2C64D,2020,IACR Cryptology ePrint Archive,APP,5.0,0,Coda: Decentralized Cryptocurrency at Scale.
+S174,SB9AC522EC4B,2020,IEEE Transactions on Information Forensics and Security,APP,7.0,0,DCAP: A Secure and Efficient Decentralized Conditional Anonymous Payment System Based on Blockchain
+S175,ZK6BE3D05A02,2020,Proceedings - IEEE Symposium on Security and Privacy,CQ,6.5,0,Did you mix me? Formally verifying verifiable mix nets in electronic voting
+S176,ZK1EDC74AC16,2020,Lecture Notes in Computer Science,CONS,6.5,0,"Dory: Efficient, Transparent Arguments for Generalised Inner Products and Polynomial Commitments"
+S177,SBA6A82DA579,2020,IEEE Symposium on Security and Privacy (S&P),CQ,4.75,0,How not to prove your election outcome
+S178,ZK90D1DE4CB2,2020,Lecture Notes in Computer Science,CONS,6.0,0,Lunar: A Toolbox for More Efficient Universal and Updatable zkSNARKs and Commit-and-Prove Extensions
+S179,ZKDD6A3FAA2A,2020,Proceedings of the ACM Conference on Computer and Communications Security,APP,7.0,0,MuSig-DN: Schnorr Multi-Signatures with Verifiably Deterministic Nonces
+S180,ZKDF0A61B2C5,2020,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CQ,5.75,0,Out of Oddity -- New Cryptanalytic Techniques against Symmetric Primitives Optimized for Integrity Proof Systems
+S181,ZK96B60594D9,2020,IEEE Transactions on Mobile Computing,APP,5.5,0,PACE: Privacy-Preserving and Quality-Aware Incentive Mechanism for Mobile Crowdsensing
+S182,ZK74ED5C6FDD,2020,IACR Cryptology ePrint Archive,CONS,4.25,0,plookup: A simplified polynomial protocol for lookup tables
+S183,SBA5E6ED0B48,2020,ACM SIGSAC Conference on Computer and Communications Security (CCS),CONS,7.25,0,Pointproofs: Aggregating Proofs for Multiple Vector Commitments
+S184,ZKAF0DDB301F,2020,IEEE Access,APP,4.25,0,Privacy-preserving traffic management: A blockchain and zero-knowledge proof inspired approach
+S185,ZKD056206F47,2020,Proceedings of the 29th USENIX Security Symposium,CQ,5.25,0,Remote side-channel attacks on anonymous transactions
+S186,SB38235A47A9,2020,Lecture notes in computer science,CONS,5.5,0,RingCT 3.0 for Blockchain Confidential Transaction: Shorter Size and Stronger Security
+S187,ZK731E7A45B3,2020,Proceedings of the ACM Conference on Computer and Communications Security,CQ,5.75,0,SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis
+S188,SB9700266544,2020,IEEE Transactions on Dependable and Secure Computing,APP,5.5,0,Toward Verifiable and Privacy Preserving Machine Learning Prediction
+S189,SBDC85A1FB06,2020,Lecture notes in computer science,APP,6.0,0,Two-Sided Malicious Security for Private Intersection-Sum with Cardinality
+S190,ZK261372FF8E,2020,IEEE Transactions on Dependable and Secure Computing,APP,5.75,0,VCNN: Verifiable Convolutional Neural Network Based on zk-SNARKs
+S191,ZK12BA963398,2020,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.0,0,"Wolverine: Fast, scalable, and communication-efficient zero-knowledge proofs for boolean and arithmetic circuits"
+S192,ZK1F70EBF525,2020,Proceedings of the ACM Conference on Computer and Communications Security,APP,6.0,0,Zero Knowledge Proofs for Decision Tree Predictions and Accuracy
+S193,ZKA7D2647B9A,2020,IEEE Transactions on Information Forensics and Security,SYS,6.0,0,Zilch: A Framework for Deploying Transparent Zero-Knowledge Proofs
+S194,ZK7EBE11A467,2021,Lecture Notes in Computer Science,CONS,6.0,0,A Compressed Σ -Protocol Theory for Lattices
+S195,ZK4E0334DBC8,2021,Lecture Notes in Computer Science,CONS,6.5,0,Brakedown: Linear-Time and Field-Agnostic SNARKs for R1CS
+S196,SB3414A21E25,2021,IACR Cryptology ePrint Archive,SYS,4.25,0,Cairo - a Turing-complete STARK-friendly CPU architecture.
+S197,ZKFD6F90949D,2021,Proceedings - IEEE Symposium on Security and Privacy,APP,6.25,0,"Cross-domain access control encryption: Arbitrary-policy, constant-size, efficient"
+S198,ZKDDF99D4C5B,2021,IEEE Transactions on Dependable and Secure Computing,APP,6.0,1,Decentralized Privacy-Preserving Fair Exchange Scheme for V2G Based on Blockchain
+S199,ZK277B40C658,2021,Lecture Notes in Computer Science,CONS,6.0,0,DualRing: Generic Construction of Ring Signatures with Efficient Instantiations
+S200,ZKE50CD3837E,2021,"Proceedings of the 31st USENIX Security Symposium, Security 2022",SYS,6.25,0,Efficient Representation of Numerical Optimization Problems for SNARKs.
+S201,SBD291EF85C8,2021,IEEE Access,CONS,4.75,0,Efficient Sum-Check Protocol for Convolution
+S202,ZKB54904B358,2021,IEEE Transactions on Dependable and Secure Computing,APP,6.5,0,Enabling Secure and Efficient Decentralized Storage Auditing with Blockchain
+S203,ZKDD355E88DE,2021,IEEE Transactions on Dependable and Secure Computing,APP,6.75,0,Eunomia: Anonymous and Secure Vehicular Digital Forensics Based on Blockchain
+S204,ZKECF8BF0803,2021,"Proceedings of the 31st USENIX Security Symposium, Security 2022",SYS,7.5,1,Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets
+S205,ZKB947FD1E3C,2021,Journal of Cryptology,APP,4.5,0,Fine-Grained Secure Attribute-Based Encryption
+S206,ZK5A5AE55C49,2021,Proceedings of the ACM Conference on Computer and Communications Security,CQ,6.25,0,Machine-checked ZKP for NP relations: Formally Verified Security Proofs and Implementations of MPC-in-the-Head
+S207,ZKE57C9FCD17,2021,Proceedings of the 30th USENIX Security Symposium,CONS,6.5,0,Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning.
+S208,ZK29132D0332,2021,Lecture Notes in Computer Science,CONS,6.75,0,Nova: Recursive Zero-Knowledge Arguments from Folding Schemes
+S209,ZKA196452ABC,2021,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,5.0,0,"On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography"
+S210,ZK09909D3D75,2021,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,5.25,0,On Using zk-SNARKs and zk-STARKs in Blockchain-Based Identity Management
+S211,ZK0277710E32,2021,Proceedings of the ACM SIGMOD International Conference on Management of Data,APP,4.25,0,P2B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics
+S212,ZKFFAE03EC4C,2021,IEEE Transactions on Information Forensics and Security,APP,6.0,0,P2BA: A Privacy-Preserving Protocol with Batch Authentication against Semi-Trusted RSUs in Vehicular Ad Hoc Networks
+S213,ZK5C5A33605C,2021,Proceedings - International Symposium on Computer Architecture,SYS,4.5,0,PipeZK: Accelerating zero-knowledge proof with a pipelined architecture
+S214,ZK5C1C33EE70,2021,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,6.5,0,Practical Non-interactive Publicly Verifiable Secret Sharing with Thousands of Parties
+S215,ZK2FE7885C55,2021,Proceedings of the ACM Conference on Computer and Communications Security,APP,6.75,0,"Practical, Round-Optimal Lattice-Based Blind Signatures"
+S216,ZKBD32B394BC,2021,IEEE Transactions on Information Forensics and Security,APP,5.75,0,PriScore: Blockchain-Based Self-Tallying Election System Supporting Score Voting
+S217,ZK360D6A3868,2021,Proceedings of the ACM Conference on Computer and Communications Security,CONS,7.0,0,QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field
+S218,ZK4C1F6F58E9,2021,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",CONS,5.0,0,SNARGs for P from LWE
+S219,ZKA2805E7BA6,2021,ACM Transactions on Programming Languages and Systems,CQ,5.75,0,SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq
+S220,ZK0E1FFCDCB8,2021,Lecture Notes in Computer Science,APP,6.0,0,Threshold Schnorr with Stateless Deterministic Signing from Standard Assumptions
+S221,ZK8E3EE42A24,2021,Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI),SYS,6.75,0,"Viaduct: An extensible, optimizing compiler for secure distributed programs"
+S222,ZK0354D29D88,2021,Proceedings - IEEE Symposium on Security and Privacy,SYS,6.5,0,Zero knowledge for everything and everyone: Fast ZK processor with cached ORAM for ANSI C programs
+S223,ZKF8DA80398A,2021,"Proceedings of the 31st USENIX Security Symposium, Security 2022",APP,7.5,0,Zero-Knowledge Middleboxes
+S224,ZKD6AC5E7A80,2021,Proceedings of the ACM Conference on Computer and Communications Security,CONS,6.0,0,ZkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy
+S225,ZKDED8F9E2F9,2022,Lecture Notes in Computer Science,APP,4.75,0,An Algebraic Framework for Silent Preprocessing with Trustless Setup and Active Security
+S226,ZKB89068F4D2,2022,Lecture Notes in Computer Science,CONS,5.25,0,Batch Arguments for NP and More from Standard Bilinear Group Assumptions
+S227,ZK493070DC32,2022,IEEE Journal on Selected Areas in Communications,APP,4.5,0,Blockchain-Based Credential Management for Anonymous Authentication in SAGVN
+S228,ZK917197D432,2022,IEEE Transactions on Dependable and Secure Computing,SYS,5.75,0,Circom: A Circuit Description Language for Building Zero-Knowledge Applications
+S229,ZK8D7B95DA67,2022,IACR Transactions on Cryptographic Hardware and Embedded Systems,SYS,6.5,0,cuZK: Accelerating Zero-Knowledge Proof with A Faster Parallel Multi-Scalar Multiplication Algorithm on GPUs
+S230,ZK673351023F,2022,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CQ,5.5,0,Distilling Constraints in Zero-Knowledge Protocols
+S231,SB7AA1B6ED3C,2022,IEEE Transactions on Dependable and Secure Computing,APP,7.5,0,EBCPA: Efficient Blockchain-based Conditional Privacy-preserving Authentication for VANETs
+S232,SB0FE704F16F,2022,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,6.0,0,EIFFeL
+S233,ZK4F829358A0,2022,IEEE Transactions on Dependable and Secure Computing,APP,5.0,0,Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous Payment
+S234,ZK1F5E31CED2,2022,Proceedings on Privacy Enhancing Technologies,APP,7.5,0,ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline
+S235,ZK0E370CBD0C,2022,IACR Cryptology ePrint Archive,SYS,5.0,1,FPGA Acceleration of Multi-Scalar Multiplication: CycloneMSM
+S236,ZKB24E13B985,2022,Lecture Notes in Computer Science,CONS,7.75,0,HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates
+S237,ZK31C0DA3280,2022,Lecture Notes in Computer Science,CONS,6.0,0,LaBRADOR: Compact Proofs for R1CS from Module-SIS
+S238,ZK24228A68EE,2022,Lecture Notes in Computer Science,CONS,5.5,0,"Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable: (Extended Abstract)"
+S239,ZKE3208B1E31,2022,Lecture Notes in Computer Science,CONS,5.75,0,"Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General"
+S240,ZK12A66894D2,2022,"ACM Web Conference 2023 - Proceedings of the World Wide Web Conference, WWW 2023",CQ,4.0,0,"On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy"
+S241,ZK65D8F776CC,2022,Lecture Notes in Computer Science,CONS,6.5,0,Orion: Zero Knowledge Proof with Linear Prover Time
+S242,ZK4F1C48201A,2022,Proceedings of the ACM Conference on Computer and Communications Security,APP,5.5,0,Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation
+S243,ZK2A5FA34A9D,2022,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,6.5,0,Practical Post-Quantum Signature Schemes from Isomorphism Problems of Trilinear Forms
+S244,ZK345BD5D089,2022,IEEE Transactions on Information Forensics and Security,APP,7.0,0,PvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing
+S245,ZK82CC7515B0,2022,Lecture Notes in Computer Science,APP,4.5,0,Secure Multiparty Computation from Threshold Encryption Based on Class Groups
+S246,ZK9087ECDF2C,2022,IEEE Transactions on Information Forensics and Security,APP,6.0,0,Subversion-Resistant and Consistent Attribute-Based Keyword Search for Secure Cloud Storage
+S247,ZK6138F855BE,2022,Lecture Notes in Computer Science,CONS,6.5,0,Syndrome Decoding in the Head: Shorter Signatures from Zero-Knowledge Proofs
+S248,ZK576F3E5669,2022,Proceedings - IEEE Symposium on Security and Privacy,SYS,8.0,1,ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs
+S249,ZKA7592CBBB6,2022,IEEE Transactions on Dependable and Secure Computing,APP,7.25,0,zk-AuthFeed: Protecting Data Feed to Smart Contracts With Authenticated Zero Knowledge Proof
+S250,ZKE2F6F9381C,2022,Proceedings - IEEE Symposium on Security and Privacy,APP,7.0,0,Zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure
+S251,ZKC90F18F180,2022,Proceedings of the ACM Conference on Computer and Communications Security,APP,5.75,0,zkBridge: Trustless Cross-chain Bridges Made Practical
+S252,ZKEA13DA15E6,2023,IEEE Transactions on Services Computing,APP,5.25,0,A Blockchain-Based Copyright Protection Scheme With Proactive Defense
+S253,ZKEFC333EC49,2023,IEEE Transactions on Dependable and Secure Computing,APP,7.0,1,A Privacy-Preserving and Reputation-Based Truth Discovery Framework in Mobile Crowdsensing
+S254,ZK1963640C56,2023,IEEE Access,CONS,5.0,1,A Privacy-Preserving Zero-Knowledge Proof for Blockchain
+S255,ZK2920C5B3C6,2023,Lecture Notes in Computer Science,CONS,7.25,0,BaseFold: Efficient Field-Agnostic Polynomial Commitment Schemes from Foldable Codes
+S256,ZK776EBD23AD,2023,IEEE Transactions on Computers,APP,5.75,0,Blockchain-Based Fair and Fine-Grained Data Trading with Privacy Preservation
+S257,SBE6EE49CCA6,2023,ACM Symposium on Theory of Computing (STOC),CONS,5.5,0,Boosting Batch Arguments and RAM Delegation
+S258,ZKE849D15589,2023,CCS 2023 - Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security,CQ,8.0,0,Boosting the Performance of High-Assurance Cryptography: Parallel Execution and Optimizing Memory Access in Formally-Verified Line-Point Zero-Knowledge
+S259,ZK3711FEB150,2023,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CQ,6.0,0,Bounded Verification for Finite-Field-Blasting (In a Compiler for Zero Knowledge Proofs)
+S260,ZKFE5A0A98E6,2023,Proceedings - IEEE Symposium on Security and Privacy,CQ,6.5,0,Certifying Zero-Knowledge Circuits with Refinement Types
+S261,SB92609801B5,2023,Lecture notes in computer science,CONS,5.5,0,Correlation Intractability and SNARGs from Sub-exponential DDH
+S262,ZKD9F60B1F3E,2023,IEEE Transactions on Information Forensics and Security,APP,6.25,0,Decentralized Threshold Signatures With Dynamically Private Accountability
+S263,ZK12950F29D8,2023,"32nd USENIX Security Symposium, USENIX Security 2023",APP,7.5,0,Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference
+S264,ZKA946F87B15,2023,IEEE Transactions on Parallel and Distributed Systems,APP,6.5,0,Efficient Blockchain-Based Data Integrity Auditing for Multi-Copy in Decentralized Storage
+S265,ZKD604ECFEC4,2023,"32nd USENIX Security Symposium, USENIX Security 2023",SYS,7.0,0,EOS: Efficient Private Delegation of zkSNARK Provers
+S266,ZKA6822C6406,2023,CCS 2023 - Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security,CONS,7.5,0,Experimenting with Zero-Knowledge Proofs of Training
+S267,SB18EEBFBC4F,2023,Lecture notes in computer science,CQ,6.25,0,Fixing and Mechanizing the Security Proof of Fiat-Shamir with Aborts and Dilithium
+S268,ZK1C0B0DA9E2,2023,Proceedings of the 33rd USENIX Security Symposium,CQ,6.75,0,Formalizing Soundness Proofs of Linear PCP SNARKs
+S269,ZK57AF67BE0F,2023,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,5.25,0,GZKP: A GPU Accelerated Zero-Knowledge Proof System
+S270,ZKF918C8DC96,2023,Lecture Notes in Computer Science,CONS,5.5,0,HyperNova: Recursive Arguments for Customizable Constraint Systems
+S271,ZK637C8A6E9A,2023,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),SYS,5.0,1,Jolt: SNARKs for Virtual Machines via Lookups
+S272,ZKEAAFF06AE0,2023,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CQ,5.25,0,M&M’S: Mix and Match Attacks on Schnorr-Type Blind Signatures with Repetition
+S273,ZKAAA0196418,2023,"32nd USENIX Security Symposium, USENIX Security 2023",CQ,7.25,0,Machine-checking Multi-Round Proofs of Shuffle: Terelius-Wikstrom and Bayer-Groth
+S274,ZK196A8903BC,2023,CCS 2023 - Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security,APP,6.75,0,martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture
+S275,ZKDA6FBA0F6C,2023,Proceedings - IEEE Symposium on Security and Privacy,SYS,7.25,0,Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs
+S276,ZKE2A3BF83E7,2023,IEEE Transactions on Dependable and Secure Computing,APP,5.5,0,PILE: Robust Privacy-Preserving Federated Learning Via Verifiable Perturbations
+S277,ZK2EAD763565,2023,Proceedings of the 33rd USENIX Security Symposium,CQ,5.25,0,Practical Security Analysis of Zero-Knowledge Proof Circuits
+S278,ZKFCECCB32D9,2023,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),APP,5.25,0,Publicly Verifiable Secret Sharing Over Class Groups and Applications to DKG and YOSO
+S279,ZK1558A4DB26,2023,Lecture Notes in Computer Science,CONS,7.25,0,Publicly Verifiable Zero-Knowledge and Post-Quantum Signatures from VOLE-in-the-Head
+S280,ZKC41C4D23A5,2023,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.5,0,Revisiting BBS Signatures
+S281,ZKF70097C1A0,2023,Lecture Notes in Computer Science,CQ,7.0,0,Satisfiability Modulo Finite Fields
+S282,ZK69A2C5725F,2023,Network and Distributed System Security Symposium,APP,6.75,0,Scalable Off-chain Auction
+S283,ZK3CD0BC2D8C,2023,IEEE Transactions on Computers,SYS,5.25,0,Split: A Hash-Based Memory Optimization Method for Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK)
+S284,ZK035C3530B1,2023,Lecture Notes in Computer Science,CONS,6.0,0,Succinct Arguments over Towers of Binary Fields
+S285,SB3D88BDA8D5,2023,ACM SIGSAC Conference on Computer and Communications Security (CCS),APP,8.0,0,"Threshold Signatures from Inner Product Argument: Succinct, Weighted, and Multi-threshold"
+S286,ZK191F553DBD,2023,Lecture Notes in Computer Science,CONS,5.75,0,Toward Practical Lattice-Based Proof of Knowledge from Hint-MLWE
+S287,ZK8C2BDFD59C,2023,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,4.75,0,Unlocking the Lookup Singularity with Lasso
+S288,ZK10CFD9D627,2023,IEEE Transactions on Services Computing,APP,5.75,0,Verifiable Carbon Accounting in Supply Chains
+S289,ZK80768CCE58,2023,Proceedings - IEEE Symposium on Security and Privacy,CQ,6.0,0,Weak Fiat-Shamir Attacks on Modern Proof Systems
+S290,ZK1B3C60CE29,2023,"32nd USENIX Security Symposium, USENIX Security 2023",SYS,7.0,0,zkSaaS: Zero-Knowledge SNARKs as a Service
+S291,ZK1D5660D60B,2023,Proceedings of the VLDB Endowment,APP,7.75,0,ZKSQL: Verifiable and Efiicient Query Evaluation with Zero-Knowledge Proofs
+S292,ZKE58C67BB3A,2024,IEEE Transactions on Dependable and Secure Computing,APP,5.0,0,A Blockchain-Based Privacy-Preserving Scheme for Sealed-Bid Auction
+S293,ZK51561E1726,2024,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,SYS,4.75,0,A Fully Pipelined Reconfigurable Montgomery Modular Multiplier Supporting Variable Bit-Widths
+S294,ZK500887AE82,2024,IEEE Transactions on Dependable and Secure Computing,CONS,6.0,0,A Verifiable and Privacy-Preserving Federated Learning Training Framework
+S295,ZK50BA3CCFE8,2024,IEEE Transactions on Dependable and Secure Computing,APP,6.0,0,A2-DIDM: Privacy-Preserving Accumulator-Enabled Auditing for Decentralized Identity of DNN Model
+S296,ZK153611528D,2024,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,4.5,0,Accelerating Multi-Scalar Multiplication for Efficient Zero Knowledge Proofs with Multi-GPU Systems
+S297,ZK3902DE4625,2024,"Proceedings of the Annual International Symposium on Microarchitecture, MICRO",SYS,5.75,0,Accelerating Zero-Knowledge Proofs Through Hardware-Algorithm Co-Design
+S298,ZK9F8F6068C7,2024,CCS 2024 - Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security,APP,8.0,0,Atomic and Fair Data Exchange via Blockchain
+S299,ZK403E2A9322,2024,IEEE Transactions on Information Forensics and Security,APP,4.25,0,Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement
+S300,ZKC5CB313550,2024,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,5.5,0,BatchZK: A Fully Pipelined GPU-Accelerated System for Batch Generation of Zero-Knowledge Proofs
+S301,ZKA110223FD7,2024,Journal of Cryptology,SYS,4.0,0,"Ceno: Non-uniform, Segment and Parallel Zero-Knowledge Virtual Machine"
+S302,ZK79B1DA25BC,2024,"12th International Conference on Learning Representations, ICLR 2024",APP,6.0,0,Confidential-DPproof: CONFIDENTIAL PROOF OF DIFFERENTIALLY PRIVATE TRAINING
+S303,ZKD9ECEC84DD,2024,IEEE Transactions on Computers,APP,7.0,0,Data Sharing in the Metaverse With Key Abuse Resistance Based on Decentralized CP-ABE
+S304,ZKD98F6D08B1,2024,IEEE Transactions on Services Computing,APP,6.25,0,EDCOMA: Enabling Efficient Double Compressed Auditing for Blockchain-Based Decentralized Storage
+S305,ZK4436F64C5E,2024,IEEE Transactions on Information Forensics and Security,APP,6.0,0,Efficient Revocable Cross-Domain Anonymous Authentication Scheme for IIoT
+S306,ZK40BF6C79AC,2024,IACR Transactions on Cryptographic Hardware and Embedded Systems,SYS,5.25,0,"Elastic MSM: A Fast, Elastic and Modular Preprocessing Technique for Multi-Scalar Multiplication Algorithm on GPUs"
+S307,ZK5CF9562AF9,2024,IEEE Transactions on Computers,SYS,4.5,1,Falic: An FPGA-Based Multi-Scalar Multiplication Accelerator for Zero-Knowledge Proof
+S308,ZKE50559571D,2024,CCS 2024 - Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security,CQ,5.75,0,fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup
+S309,ZK5742BD9C51,2024,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),CONS,5.0,0,Fully Homomorphic Encryption Beyond IND-CCA1 Security: Integrity Through Verifiability
+S310,ZK8301CE26AC,2024,CCS 2025 - Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,CQ,5.25,0,Fuzzing Processing Pipelines for Zero-Knowledge Circuits
+S311,ZKC98D2D3CF2,2024,Proceedings - Design Automation Conference,SYS,4.0,0,Gypsophila: A Scalable and Bandwidth-Optimized Multi-Scalar Multiplication Architecture
+S312,ZKD9C478D87A,2024,IEEE Transactions on Information Forensics and Security,APP,6.5,0,"Lavida: Large-Universe, Verifiable, and Dynamic Fine-Grained Access Control for E-Health Cloud"
+S313,ZKA38F05C1B5,2024,Proceedings - IEEE Symposium on Security and Privacy,SYS,6.0,1,Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser
+S314,ZKC13E0C94B2,2024,IACR Transactions on Cryptographic Hardware and Embedded Systems,SYS,6.5,0,Load-Balanced Parallel Implementation on GPUs for Multi-Scalar Multiplication Algorithm
+S315,ZK955764CC9B,2024,Proceedings - Design Automation Conference,SYS,4.0,0,MSMAC: Accelerating Multi-Scalar Multiplication for Zero-Knowledge Proof
+S316,ZKE7EF0E83DB,2024,Proceedings - IEEE Symposium on Security and Privacy,CONS,5.0,1,Nebula: Proving Machine Executions via Folding Schemes
+S317,ZK3510B6A3FB,2024,IEEE Transactions on Information Forensics and Security,APP,7.25,0,PriRoAgg: Achieving Robust Model Aggregation With Minimum Privacy Leakage for Federated Learning
+S318,ZK3AA2A1F18D,2024,Proceedings of the Annual ACM Symposium on Theory of Computing,CQ,5.5,0,Quantum Oblivious LWE Sampling and Insecurity of Standard Model Lattice-Based SNARKs
+S319,ZK1C0F934024,2024,IEEE Transactions on Knowledge and Data Engineering,APP,5.0,0,RollStore: Hybrid Onchain-Offchain Data Indexing for Blockchain Applications
+S320,ZK9529245E96,2024,Proceedings of the 34th USENIX Security Symposium,SYS,7.75,0,Scalable Collaborative zk-SNARK and Its Application to Fully Distributed Proof Delegation
+S321,ZKD41055FA2E,2024,Proceedings - IEEE Symposium on Security and Privacy,CQ,6.5,0,Scalable Verification of Zero-Knowledge Protocols
+S322,ZKFE920264AF,2024,Network and Distributed System Security Symposium,APP,6.25,0,Secure Multiparty Computation of Threshold Signatures Made More Efficient
+S323,ZK52C5094447,2024,IEEE Transactions on Information Forensics and Security,APP,5.75,0,SFOM-DT: A Secure and Fair One-to-Many Data Trading Scheme Based on Blockchain
+S324,ZKDD1B581794,2024,Proceedings of the 33rd USENIX Security Symposium,CQ,6.25,0,"Shaken, not Stirred - Automated Discovery of Subtle Attacks on Protocols using Mix-Nets"
+S325,ZK76095784CC,2024,Network and Distributed System Security Symposium,SYS,6.25,0,Siniel: Distributed Privacy-Preserving zkSNARK
+S326,ZK5E0E6E0D78,2024,Lecture Notes in Computer Science,CONS,7.5,0,STIR: Reed-Solomon Proximity Testing with Fewer Queries
+S327,ZKA83DEA39E6,2024,Lecture Notes in Computer Science,APP,7.25,0,The 2Hash OPRF Framework and Efficient Post-quantum Instantiations
+S328,ZK11F0BCBE13,2024,CCS 2024 - Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security,SYS,6.0,1,The LaZer Library: Lattice-Based Zero Knowledge and Succinct Proofs for Quantum-Safe Privacy
+S329,ZKA6FD2B8E79,2024,IEEE Transactions on Parallel and Distributed Systems,APP,5.25,0,Trusted Model Aggregation with Zero-Knowledge Proofs in Federated Learning
+S330,ZKB2B729318C,2024,IEEE Transactions on Dependable and Secure Computing,APP,5.25,0,ValidCNN: A Large-Scale CNN Predictive Integrity Verification Scheme Based on zk-SNARK
+S331,ZKE02B3236FA,2024,Proceedings - IEEE Symposium on Security and Privacy,APP,7.0,0,VerITAS: Verifying Image Transformations at Scale
+S332,ZKD5ECE566F1,2024,Lecture Notes in Computer Science,CONS,7.5,0,WHIR: Reed-Solomon Proximity Testing with Super-Fast Verification
+S333,ZKDF9DDBAEFD,2024,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,5.0,0,ZENO: A Type-based Optimization Framework for Zero Knowledge Neural Network Inference
+S334,ZK0CA40370F2,2024,CCS 2024 - Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security,CONS,7.5,0,Zero-Knowledge Proofs of Training for Deep Neural Networks
+S335,ZK492A59E0A6,2024,"2024 IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2024",APP,4.25,0,Zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms
+S336,ZK51F73E7D3C,2024,CCS 2024 - Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security,CONS,6.0,0,zkLLM: Zero Knowledge Proofs for Large Language Models
+S337,ZK988D5AF3DB,2024,CCS 2024 - Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security,APP,6.5,0,zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
+S338,ZK923272111C,2024,EuroSys 2024 - Proceedings of the 2024 European Conference on Computer Systems,SYS,7.0,0,ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs
+S339,ZKAC01017CC0,2024,IEEE Transactions on Services Computing,SYS,4.0,0,ZKWASM: A ZKSNARK WASM Emulator
+S340,ZK5424281AE5,2025,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.5,0,'Check-Before-you-Solve': Verifiable Time-Lock Puzzles
+S341,ZK3DB4C720B2,2025,Lecture Notes in Computer Science,CONS,5.0,0,A Framework for Witness Encryption from Linearly Verifiable SNARKs and Applications
+S342,ZK3E46AC52C7,2025,IEEE Transactions on Dependable and Secure Computing,APP,5.25,0,A Scheme of Robust Privacy-Preserving Multi-Party Computation via Public Verification
+S343,ZK4EE59E2579,2025,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,5.25,0,Accelerating Number Theoretic Transform with Multi-GPU Systems for Efficient Zero Knowledge Proof
+S344,ZKDF2BCC05B0,2025,CCS 2025 - Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,APP,6.75,0,Armadillo: Robust Single-Server Secure Aggregation for Federated Learning with Input Validation
+S345,ZK38CFAB5E4F,2025,Proceedings of the 34th USENIX Security Symposium,CQ,7.25,0,Automated Soundness and Completeness Vetting of Polygon zkEVM
+S346,ZK3F3418B16D,2025,Lecture Notes in Computer Science,CQ,5.5,0,Automated Verification of Consistency in Zero-Knowledge Proof Circuits
+S347,ZKFEC6DE6F03,2025,IEEE Transactions on Information Forensics and Security,APP,5.5,0,Bring Your Device Group (BYDG): Efficient and Privacy-Preserving User-Device Authentication Protocol in Multi-Access Edge Computing
+S348,ZK8DB0830210,2025,IEEE Transactions on Dependable and Secure Computing,APP,5.25,0,CAPE: Commitment-Based Privacy-Preserving Payment Channel Scheme in Blockchain
+S349,SB0106FDEA7A,2025,IEEE Symposium on Security and Privacy (S&P),CONS,6.75,0,Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
+S350,ZK1642A70739,2025,Proceedings - International Conference on Software Engineering,CQ,7.0,0,ConsCS: Effective and Efficient Verification of Circom Circuits
+S351,ZK4FD27F87A8,2025,Proceedings of the 34th USENIX Security Symposium,CONS,7.5,0,DFS: Delegation-friendly zkSNARK and Private Delegation of Provers
+S352,ZKB15D089F9C,2025,CCS 2025 - Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,CONS,7.0,1,Efficient Constant-Size Linkable Ring Signatures for Ad-Hoc Rings via Pairing-Based Set Membership Arguments
+S353,ZK3C4FF1E9FF,2025,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.5,0,Efficient Proofs of Possession for Legacy Signatures
+S354,ZKC463397598,2025,IEEE Transactions on Mobile Computing,APP,5.25,0,EPREAR:An Efficient Attribute-Based Proxy Re-Encryption Scheme With Fast Revocation for Data Sharing in AIoT
+S355,ZK0809AC04C5,2025,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,5.5,0,Evaluating Compiler Optimization Impacts on zkVM Performance
+S356,ZK8D7D2881E3,2025,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,4.5,0,Fiat-Shamir in the Plain Model from Derandomization (Or: Do Efficient Algorithms Believe that NP = PSPACE?)
+S357,ZK9F13919A38,2025,CCS 2025 - Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,CONS,6.0,0,Founding Zero-Knowledge Proofs of Training on Optimum Vicinity
+S358,ZKE735ED90D2,2025,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,SYS,4.5,0,FPGA-Based Hardware Accelerator of zk-SNARK
+S359,ZKB7E91C531E,2025,IEEE Transactions on Information Forensics and Security,CONS,7.0,0,From Σ-Protocol-Based Signatures to Ring Signatures: General Construction and Applications
+S360,ZKC1E42B0F35,2025,WWW 2025 - Proceedings of the ACM Web Conference,APP,4.0,0,Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain
+S361,ZK269FBCC98A,2025,Lecture Notes in Computer Science,CONS,5.5,1,Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE
+S362,ZK6B491E9E60,2025,Lecture Notes in Computer Science,CQ,5.0,0,How to Prove False Statements: Practical Attacks on Fiat-Shamir
+S363,ZK66E122CDAB,2025,Proceedings - IEEE Symposium on Security and Privacy,CONS,6.75,0,HydraProofs: Optimally Computing All Proofs in a Vector Commitment (With Applications to Efficient zkSNARKs Over Data from Multiple Users)
+S364,ZKBA13784B53,2025,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",CONS,6.0,0,Improved Round-by-round Soundness IOPs via  Reed-Muller Codes
+S365,ZK540A3FD2EE,2025,Lecture Notes in Computer Science,CONS,5.25,0,Incrementally Verifiable Computation for NP from Standard Assumptions
+S366,ZK074EFC1BE2,2025,Lecture Notes in Computer Science,CQ,7.0,0,Integer Reasoning Modulo Different Constants in SMT
+S367,ZK311B1420DB,2025,CCS 2025 - Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,CONS,7.5,1,KZH-Fold: Accountable Voting from Sublinear Accumulation
+S368,ZKE9C672F617,2025,Lecture Notes in Computer Science,CONS,5.75,0,"Leakage-Resilient Circuits Against NC1, Revisited"
+S369,ZKB0B544DB6C,2025,Proceedings - International Symposium on High-Performance Computer Architecture,SYS,4.5,0,LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof
+S370,ZK15B0450F04,2025,IEEE Journal on Selected Areas in Communications,APP,5.75,0,LETA: A Lattice-Based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs
+S371,ZK016CC556FB,2025,Lecture Notes in Computer Science,CQ,4.75,0,Malicious Security in Collaborative zk-SNARKs: More than Meets the Eye
+S372,ZK50E21A773A,2025,Network and Distributed System Security Symposium,CQ,7.25,0,MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers
+S373,ZK7A6669EB1C,2025,Proceedings - International Symposium on Computer Architecture,SYS,5.25,0,Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs
+S374,ZK7615EB4DF9,2025,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",CONS,5.0,0,On the Impossibility of SNARGs with Short CRS : (or: Revisiting Gentry-Wichs Barrier in the Non-adaptive Setting)
+S375,ZK23A2A7B6AB,2025,Proceedings - IEEE Symposium on Security and Privacy,SYS,7.0,0,Papercraft: Lattice-Based Verifiable Delay Function Implemented
+S376,ZK4E773E3B6F,2025,Proceedings - IEEE Symposium on Security and Privacy,CONS,7.0,0,Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES
+S377,ZK0592CCACB5,2025,IEEE Transactions on Information Forensics and Security,CONS,5.5,0,Post-Quantum Rollup: Falcon Signature Aggregation Based on SNARG With Enhanced Gates
+S378,ZK06541A003E,2025,CCS 2025 - Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,CONS,7.5,0,Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head
+S379,ZK04317BA433,2025,Proceedings - IEEE Symposium on Security and Privacy,APP,6.0,0,Preprocessing for Life: Dishonest-Majority MPC with a Trusted or Untrusted Dealer
+S380,ZKC54409E84D,2025,Lecture Notes in Computer Science,CONS,6.0,0,Query-Optimal IOPPs for Linear-Time Encodable Codes
+S381,ZK69356D9B2D,2025,Lecture Notes in Computer Science,CONS,6.0,0,Relaxed Vector Commitment for Shorter Signatures
+S382,ZK09F2266815,2025,"Proceedings - 2025 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025",CQ,7.25,0,ScaleCirc: Scaling the Analysis over Circom Circuits
+S383,ZK8F22617E86,2025,Lecture Notes in Computer Science,APP,5.75,0,Server-Aided Anonymous Credentials
+S384,ZK9E7218085E,2025,Lecture Notes in Computer Science,CONS,6.0,0,"Shorter, Tighter, FAESTer: Optimizations and Improved (QROM) Analysis for VOLE-in-the-Head Signatures"
+S385,ZK814809569F,2025,Proceedings - IEEE Symposium on Security and Privacy,SYS,8.0,0,Single-Server Private Outsourcing of zk-SNARKs
+S386,ZKB642818311,2025,International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS,SYS,6.25,0,UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping
+S387,ZKE7FED927D3,2025,Lecture Notes in Computer Science,APP,5.75,0,Unmasking TRaccoon: A Lattice-Based Threshold Signature with An Efficient Identifiable Abort Protocol
+S388,ZK826E16A225,2025,Lecture Notes in Computer Science,CONS,7.0,0,Verifiable Computation for Approximate Homomorphic Encryption Schemes
+S389,ZKEB9B915ABD,2025,arXiv (Cornell University),SYS,4.5,0,Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems
+S390,ZKF59D8D481D,2025,Proceedings - Design Automation Conference,CQ,5.5,0,ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer
+S391,ZK823AE06844,2025,IEEE Transactions on Knowledge and Data Engineering,APP,6.5,0,Zkfhed: A Verifiable and Scalable Blockchain-Enhanced Federated Learning System
+S392,ZKB44E1C46DB,2025,Proceedings - IEEE Symposium on Security and Privacy,CQ,7.5,0,ZkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits
+S393,ZKB347F08B31,2025,Proceedings of the 34th USENIX Security Symposium,SYS,7.25,0,zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference
+S394,ZK7097D6B5C5,2025,Proceedings - International Symposium on High-Performance Computer Architecture,SYS,5.0,1,"ZkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates"
+S395,ZKDB4B168289,2025,"Proceedings - 2025 IEEE International Symposium on Workload Characterization, IISWC 2025",SYS,4.5,0,ZKProphet: Understanding Performance of Zero-Knowledge Proofs on GPUs
+S396,ZKBD80827609,2025,Proceedings - Design Automation Conference,SYS,5.75,0,ZkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing
+S397,ZK40AB46EE74,2026,IEEE Transactions on Dependable and Secure Computing,CONS,6.5,1,Attribute-Based Credentials with Verifiable Human Binding: Toward Compactness and Revocability
+S398,ZK2D4FBB2577,2026,Lecture Notes in Computer Science,CONS,5.5,0,Chopin: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG
+S399,ZK6080B9FBE7,2026,Lecture Notes in Computer Science,CONS,6.0,0,Cyclo: Lightweight Lattice-Based Folding via Partial Range Checks
+S400,ZK2510A7545A,2026,IEEE Transactions on Information Forensics and Security,APP,6.0,1,DeSA: Decentralized Secure Aggregation for Federated Learning in Zero-Trust D2D Networks
+S401,ZKEDB01B9272,2026,IEEE Transactions on Information Forensics and Security,CONS,7.75,0,Dishonest Majority Passive-to-Active Compiler Over Rings for MPC With Constant Online Communication
+S402,ZKAD4C7376E3,2026,Conference on Human Factors in Computing Systems - Proceedings,APP,4.5,0,"Grant, Verify, Revoke: A User-Centric Pattern for Blockchain Compliance"
+S403,ZKE2A68574E8,2026,ACM Transactions on Architecture and Code Optimization,SYS,5.5,0,LightZK: An Efficient GPU Acceleration Framework for Large-Scale Zero-Knowledge Proofs
+S404,ZKD6868F4733,2026,Proceedings of the International Conference on Supercomputing,SYS,6.0,1,MegaZK: A Memory Efficient GPU System Accelerating End-to-end Zero-Knowledge Proof
+S405,ZK303A1A56AE,2026,IEEE Transactions on Mobile Computing,APP,6.75,0,MobCred: A New Mobile-Cloud Integration Anonymous Credential Framework With Universal Access Policy
+S406,ZK14693822D0,2026,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,5.5,0,On Proximity Gaps of Reed-Solomon Codes
+S407,ZK9AADB8F2B0,2026,"Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2026",SYS,6.5,1,Pipelonk: Accelerating End-to-End Zero-Knowledge Proof Generation on GPUs for PLONK-Based Protocols
+S408,ZK176EE43636,2026,IEEE Transactions on Dependable and Secure Computing,APP,5.0,1,Privacy-Accountable Distributed Collaborative Authentication for Malicious Node Resistance in Vehicular Ad Hoc Networks
+S409,ZKA162D697E2,2026,IEEE Transactions on Dependable and Secure Computing,APP,6.5,0,PVCA: Privacy-Preserving and Verifiable Cross-System Authorization for Platoon Communications in VANETs
+S410,ZKFCAAC9FE92,2026,IEEE Transactions on Dependable and Secure Computing,APP,6.0,0,Quantum-Resistant Data Sharing Scheme With Auditability for Internet of Vehicles
+S411,ZKAFA7F6EECB,2026,Proceedings of the Annual ACM Symposium on Theory of Computing,CONS,5.5,1,"SNARGs for NP and Non-signaling PCPs, Revisited"
+S412,ZK8FD8470BFF,2026,IACR Cryptology ePrint Archive,SYS,6.75,0,TensorZKP: Repurposing GPU Tensor Cores for High-Performance Zero-Knowledge Proofs
+S413,ZK0DAD27BC92,2026,IEEE Transactions on Dependable and Secure Computing,APP,8.0,0,Zk-Guard: A Privacy-Preserving Access Control Framework Based on zk-SNARKs and Blockchain for Decentralized Data Sharing
+S414,ZK93A6541371,2026,IEEE Transactions on Information Forensics and Security,APP,5.5,0,ZKVeil: A Privacy-Preserving Compliance Verification Scheme for Blockchain-Enabled Supply Chain Transactions

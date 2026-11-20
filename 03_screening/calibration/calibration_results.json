@@ -1,0 +1,18 @@
+{
+  "labelled": 100,
+  "of": 100,
+  "vs_R1_blind": {
+    "agreement": 0.76,
+    "kappa": 0.483648881239
+  },
+  "vs_adjudicated_reference": {
+    "relevant": 67,
+    "sensitivity": 0.985074626866,
+    "specificity": 0.818181818182,
+    "kappa": 0.83537158984
+  },
+  "R1_blind_vs_reference": {
+    "sensitivity": 0.761194029851,
+    "specificity": 0.787878787879
+  }
+}

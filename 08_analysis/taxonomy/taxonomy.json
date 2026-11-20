@@ -1,0 +1,147 @@
+{
+ "objects": 398,
+ "dimensions": {
+  "core": {
+   "name": "Information-theoretic core",
+   "counts": {
+    "IP": 159,
+    "HIDDEN": 4,
+    "ALG": 45,
+    "PCP": 8,
+    "LPCP": 107,
+    "UNI": 60,
+    "MULTI": 57,
+    "IPA": 16,
+    "MPCITH": 30,
+    "VOLE": 14,
+    "COMPILER": 3,
+    "NS": 6
+   },
+   "classified": 398
+  },
+  "commit": {
+   "name": "Polynomial or vector commitment",
+   "counts": {
+    "NONE": 245,
+    "KZG": 44,
+    "DLC": 26,
+    "HASH": 39,
+    "LATC": 10,
+    "OTHER": 44
+   },
+   "classified": 398
+  },
+  "setup": {
+   "name": "Setup",
+   "counts": {
+    "T": 233,
+    "U": 46,
+    "C": 97,
+    "NS": 22
+   },
+   "classified": 398
+  },
+  "hard": {
+   "name": "Hardness basis",
+   "counts": {
+    "DL": 154,
+    "PAIR": 126,
+    "GUO": 25,
+    "SYM": 73,
+    "LAT": 34,
+    "NS": 78
+   },
+   "classified": 398
+  },
+  "model": {
+   "name": "Security model",
+   "counts": {
+    "STD": 100,
+    "ROM": 223,
+    "KNOW": 74,
+    "NS": 38
+   },
+   "classified": 398
+  },
+  "repr": {
+   "name": "Statement representation",
+   "counts": {
+    "ALGREL": 109,
+    "CIRC": 113,
+    "R1CS": 122,
+    "PLONK": 27,
+    "AIR": 9,
+    "CCS": 3,
+    "NS": 105
+   },
+   "classified": 398
+  },
+  "inter": {
+   "name": "Interaction",
+   "counts": {
+    "I": 55,
+    "N": 227,
+    "B": 107,
+    "NS": 9
+   },
+   "classified": 398
+  },
+  "comp": {
+   "name": "Composition",
+   "counts": {
+    "NO": 358,
+    "REC": 31,
+    "FOLD": 9
+   },
+   "classified": 398
+  },
+  "pq": {
+   "name": "Post-quantum",
+   "counts": {
+    "Y": 41,
+    "N": 357
+   },
+   "classified": 398
+  }
+ },
+ "ending_conditions": {
+  "all_objects_examined": true,
+  "every_characteristic_has_an_object": true,
+  "characteristics_unique_within_dimension": true,
+  "dimensions_unique": true,
+  "no_change_in_last_iteration": true,
+  "no_object_merged_or_split_in_last_iteration": true,
+  "no_dimension_or_characteristic_added_merged_or_split_in_last_iteration": true,
+  "cells_unique": true,
+  "distinct_profiles": 317,
+  "objects": 398
+ },
+ "manual_core": {
+  "Boosting Batch Arguments": "PCP",
+  "Incrementally Verifiable Computation": "PCP",
+  "Nebula: Proving Machine": "MULTI",
+  "Pointproofs": "ALG",
+  "IntegriDB": "ALG",
+  "Verifiable Delegation of Computation over Large": "ALG",
+  "SNARGs for NP and Non-signaling PCPs": "PCP",
+  "On the Impossibility of SNARGs with Short CRS": "PCP",
+  "SNARGs for P from LWE": "PCP",
+  "Batch Arguments for NP": "PCP",
+  "Computationally sound proofs": "PCP",
+  "A note on efficient zero-knowledge proofs and arguments": "PCP",
+  "Efficient Arguments without Short PCPs": "LPCP",
+  "Non-interactive Verifiable Computing": "COMPILER",
+  "How to use indistinguishability obfuscation": "COMPILER",
+  "Fully Homomorphic Encryption Beyond IND-CCA1": "COMPILER",
+  "Publicly verifiable non-interactive zero-knowledge": "HIDDEN",
+  "Non-interactive zero-knowledge: A low-randomness": "HIDDEN",
+  "Multiple noninteractive zero knowledge proofs under general": "HIDDEN",
+  "Noninteractive zero-knowledge": "HIDDEN",
+  "The LaZer Library": "IP",
+  "Papercraft": "IP",
+  "LaBRADOR": "IP",
+  "Practical, Round-Optimal Lattice-Based Blind": "IP",
+  "Unmasking TRaccoon": "IP",
+  "Quantum Oblivious LWE Sampling": "LPCP"
+ }
+}

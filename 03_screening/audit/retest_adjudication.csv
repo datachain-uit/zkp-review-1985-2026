@@ -1,0 +1,12 @@
+﻿rid,source,first_decision,first_reason,retest_decision,retest_reason,final_decision,final_reason,final_note
+"ZK8BA055A4BD","audit","E","EC1 không về ZKP","U","","I","",""
+"ZK3F8FA31AAE","audit","E","EC1 không về ZKP","I","","I","",""
+"ZK91D7CD5313","human","E","EC1 không về ZKP","U","","I","",""
+"ZK67A2E12F5F","human","E","EC3 loại tài liệu","I","","I","",""
+"ZK17BCCE9C14","human","E","EC2 chỉ nhắc ZKP","U","","I","",""
+"ZKD4CD932B22","human","E","EC1 không về ZKP","U","","I","",""
+"ZKCF03634858","human","E","EC1 không về ZKP","U","","I","",""
+"ZK00F301D2CA","audit","E","EC2 chỉ nhắc ZKP","U","","E","EC2 chỉ nhắc ZKP",""
+"ZKF5E6BF947F","human","E","EC1 không về ZKP","I","","I","",""
+"ZK1AF8318E99","audit","E","EC2 chỉ nhắc ZKP","I","","I","",""
+"ZK463A901452","audit","E","EC2 chỉ nhắc ZKP","I","","I","",""

@@ -1,0 +1,17 @@
+{
+  "main": {
+    "sampled": 400,
+    "labelled": 400,
+    "false_exclusions": 1,
+    "rate": 0.0025,
+    "upper95_one_sided": 0.0118
+  },
+  "extra_majority": {
+    "sampled": 100,
+    "labelled": 100,
+    "false_exclusions": 2,
+    "rate": 0.02,
+    "upper95_one_sided": 0.0616
+  },
+  "criterion4_met": true
+}

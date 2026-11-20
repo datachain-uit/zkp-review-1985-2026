@@ -1,0 +1,12 @@
+{
+  "retest": {
+    "n": 62,
+    "agreement": 0.822580645161,
+    "kappa": 0.223234624146
+  },
+  "autoex": {
+    "labelled": 100,
+    "eligible": 0,
+    "upper95_one_sided": 0.029513049607
+  }
+}
