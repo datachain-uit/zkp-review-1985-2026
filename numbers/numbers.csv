@@ -2057,4 +2057,16 @@ numbers_ic.tex,icExclHi,96.4
 numbers_ic.tex,icJacLo,0.43
 numbers_ic.tex,icJacHi,0.74
 numbers_ic.tex,icMultiDiff,65
-numbers_ic.tex,icMultiPartial,47
+numbers_ic.tex,icMultiNS,17
+numbers_ic.tex,icMultiPart,30
+numbers_ic.tex,icMultiMore,35
+numbers_ic.tex,icNS,19
+numbers_ic.tex,icNSOurs,16
+numbers_ic.tex,icPart,30
+numbers_ic.tex,icPartSuper,21
+numbers_ic.tex,icDisj,31
+numbers_ic.tex,icDisjLPCP,5
+numbers_ic.tex,icDisjInter,8
+numbers_ic.tex,icDisjDef,13
+numbers_ic.tex,icDisjRest,18
+numbers_ic.tex,icDisjRestMax,4
