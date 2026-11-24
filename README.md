@@ -1,6 +1,6 @@
 # Replication package: Zero-Knowledge Proofs, 1985–2026: A Systematic Review
 
-Khoa Tan Vo and Tu-Anh Nguyen-Hoang. *Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Constructions, Systems, Applications and Their Security.* Submitted to ACM Computing Surveys.
+Khoa Tan Vo and Tu-Anh Nguyen-Hoang. *Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Theory, Systems, Applications and Security.* Submitted to ACM Computing Surveys.
 
 This package holds the records from which the article's counts and statistics are computed: the protocol, the search records, the prompts, every model output, every decision we made, the fixed rule sets and the values of all numbers that the article and its supplement compute from these records. With the method described in the article (Section 3) and the supplement (Section A), each reported number can be checked against these records without re-running the models.
 

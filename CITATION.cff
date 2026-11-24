@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 preferred-citation:
   type: article
-  title: "Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Constructions, Systems, Applications and Their Security"
+  title: "Zero-Knowledge Proofs, 1985–2026: A Systematic Review of Theory, Systems, Applications and Security"
   authors:
     - family-names: Vo
       given-names: Khoa Tan
